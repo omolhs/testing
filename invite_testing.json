@@ -175,9 +175,9 @@
                         "feedback": "HE-SURVEY"
                     },
                     "tabs": {
-                        "appreciate": "HE-THANK",
-                        "report": "HE-SHARE & REPORT",
-                        "feedback": "HE-SURVEY"
+                        "appreciate": "HE2-THANK",
+                        "report": "HE2-SHARE & REPORT",
+                        "feedback": "HE2-SURVEY"
                     },
                     "tab_image": {
                         "appreciate": "tab_thank-hebrew.png",
@@ -185,7 +185,7 @@
                         "feedback": "tab_feedback-hebrew.png"
                     },
                     "disabled_module": "HE-feature disabled by admin",
-                    "next_page": "HE-Let's Go",
+                    "next_page": "HE2-Let's Go",
                     "terms": {
                         "text:": "HE-By continuing you agree to our Terms, Data Policy and Cookie Policy",
                         "url": "http://myrep.online/terms/?ver=123?lan=he"
