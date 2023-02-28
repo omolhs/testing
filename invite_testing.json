@@ -177,7 +177,7 @@
                     "tabs": {
                         "appreciate": "HE2-THANK",
                         "report": "HE2-SHARE & REPORT",
-                        "feedback": "HE2-SURVEY"
+                        "feedback": "HE3-SURVEY"
                     },
                     "tab_image": {
                         "appreciate": "tab_thank-hebrew.png",
