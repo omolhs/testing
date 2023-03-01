@@ -2,7 +2,7 @@
     "build": {
         "ux": "0.7",
         "json": "23.02.28",
-        "updated": "28-02-23"
+        "updated": "01-03-23"
     },
 
     "global": {
@@ -175,9 +175,9 @@
                         "feedback": "HE-SURVEY"
                     },
                     "tabs": {
-                        "appreciate": "HE2-THANK",
-                        "report": "HE2-SHARE & REPORT",
-                        "feedback": "HE3-SURVEY"
+                        "appreciate": "HE-THANK",
+                        "report": "HE-SHARE & REPORT",
+                        "feedback": "HE-SURVEY"
                     },
                     "tab_image": {
                         "appreciate": "tab_thank-hebrew.png",
@@ -185,7 +185,7 @@
                         "feedback": "tab_feedback-hebrew.png"
                     },
                     "disabled_module": "HE-feature disabled by admin",
-                    "next_page": "HE2-Let's Go",
+                    "next_page": "HE-Let's Go",
                     "terms": {
                         "text:": "HE-By continuing you agree to our Terms, Data Policy and Cookie Policy",
                         "url": "http://myrep.online/terms/?ver=123?lan=he"
@@ -300,6 +300,7 @@
         
         "listing": {
             "id": null,
+            "type": "department",
             "profile": {
                 "image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/hospital-logo%2C-doctor%2C-medical%2C-design-template-d81cbc2703294c0f6c6ecabadf752e77_screen.jpg",
                 "country": "israel",
@@ -380,13 +381,15 @@
                 "type": "nurses",
                 "members": [
                     {
-                        "id": null,                    
+                        "id": null, 
+                        "type": "nurses",                   
                         "name": "tony a", 
                         "image": "",
                         "thanked": "235"
                     },
                     {
                         "id": null,
+                        "type": "nurses",  
                         "name": "tony B", 
                         "image": "",
                         "thanked": "1.2k"
@@ -395,6 +398,7 @@
                 "managers": [
                     {   
                         "id": null,
+                        "type": "nurses",  
                         "name": "john manager",
                         "image": "https://cdn.vuetifyjs.com/images/lists/1.jpg",
                         "department": "pead. ER",  
@@ -406,6 +410,7 @@
                     },
                     {   
                         "id": null,
+                        "type": "nurses",  
                         "name": "shelly head nurse",                            
                         "image": "https://cdn.vuetifyjs.com/images/lists/2.jpg",
                         "department": "pead. ER",  
@@ -423,18 +428,21 @@
                 "members": [
                     {
                         "id": null,
+                        "type": "doctors",
                         "name": "robert s", 
                         "image": "",
                         "thanked": "111"
                     },
                     {
                         "id": null,
+                        "type": "doctors",
                         "name": "camilla",
                         "image": "",
                         "thanked": "222"
                     },
                     {
                         "id": null,
+                        "type": "doctors",
                         "name": "rona",
                         "image": "",
                         "thanked": "123"
@@ -443,6 +451,7 @@
                 "managers": [
                     {   
                         "id": null,
+                        "type": "doctors",
                         "name": "Adin",
                         "image": "https://cdn.vuetifyjs.com/images/lists/3.jpg",
                         "department": "pead. department",  
@@ -460,18 +469,21 @@
                 "members": [
                     {
                         "id": null,
+                        "type": "residents",
                         "name": "bob",
                         "image": "",
                         "thanked": "1k"
                     },
                     {
                         "id": null,
+                        "type": "residents",
                         "name": "larry", 
                         "image": "",
                         "thanked": "2.1k"
                     },
                     {
                         "id": null,
+                        "type": "residents",
                         "name": "zina",
                         "image": "",
                         "thanked": "123"
@@ -480,6 +492,7 @@
                 "managers": [
                     {   
                         "id": null,
+                        "type": "residents",
                         "name": "bobbby sholi",
                         "image": "https://cdn.vuetifyjs.com/images/lists/4.jpg",
                         "department": "pead. department",  
@@ -555,10 +568,12 @@
                             "compliments": [
                                 {
                                     "id": null,
+                                    "compliment_id": 4,
                                     "compliment": "You have a unique ability to connect with patients and put them at ease. Thank you for being so compassionate and empathetic."
                                 },
                                 {
                                     "id": null,
+                                    "compliment_id": 7,
                                     "compliment": "You are amazing"
                                 }
                             ]
@@ -635,10 +650,12 @@
                             "compliments": [
                                 {
                                     "id": null,
+                                    "compliment_id": 4,
                                     "compliment": "HE-You have a unique ability to connect with patients and put them at ease. Thank you for being so compassionate and empathetic."
                                 },
                                 {
                                     "id": null,
+                                    "compliment_id": 7,
                                     "compliment": "HE-You are amazing"
                                 }
                             ]
