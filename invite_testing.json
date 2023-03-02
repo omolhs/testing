@@ -175,7 +175,7 @@
                         "feedback": "HE-SURVEY"
                     },
                     "tabs": {
-                        "appreciate": "HE1-THANK",
+                        "appreciate": "HE-THANK",
                         "report": "HE-SHARE & REPORT",
                         "feedback": "HE-SURVEY"
                     },
@@ -379,6 +379,7 @@
             {
                 "id": null,
                 "type": "nurses",
+                "image": "mdi-doctor",
                 "members": [
                     {
                         "id": null, 
@@ -425,6 +426,7 @@
             {
                 "id": null,
                 "type": "doctors",
+                "image": "mdi-stethoscope",
                 "members": [
                     {
                         "id": null,
@@ -466,6 +468,7 @@
             {
                 "id": null,
                 "type": "residents",
+                "image": "mdi-stethoscope",
                 "members": [
                     {
                         "id": null,
