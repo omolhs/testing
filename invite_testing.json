@@ -384,14 +384,14 @@
                         "id": null, 
                         "type": "nurses",                   
                         "name": "tony a", 
-                        "image": "",
+                        "image": "mdi-doctor",
                         "thanked": "235"
                     },
                     {
                         "id": null,
                         "type": "nurses",  
                         "name": "tony B", 
-                        "image": "",
+                        "image": "mdi-doctor",
                         "thanked": "1.2k"
                     }
                 ],
@@ -430,21 +430,21 @@
                         "id": null,
                         "type": "doctors",
                         "name": "robert s", 
-                        "image": "",
+                        "image": "mdi-stethoscope",
                         "thanked": "111"
                     },
                     {
                         "id": null,
                         "type": "doctors",
                         "name": "camilla",
-                        "image": "",
+                        "image": "mdi-stethoscope",
                         "thanked": "222"
                     },
                     {
                         "id": null,
                         "type": "doctors",
                         "name": "rona",
-                        "image": "",
+                        "image": "mdi-stethoscope",
                         "thanked": "123"
                     }
                 ],
@@ -471,21 +471,21 @@
                         "id": null,
                         "type": "residents",
                         "name": "bob",
-                        "image": "",
+                        "image": "mdi-stethoscope",
                         "thanked": "1k"
                     },
                     {
                         "id": null,
                         "type": "residents",
                         "name": "larry", 
-                        "image": "",
+                        "image": "mdi-stethoscope",
                         "thanked": "2.1k"
                     },
                     {
                         "id": null,
                         "type": "residents",
                         "name": "zina",
-                        "image": "",
+                        "image": "mdi-stethoscope",
                         "thanked": "123"
                     }
                 ],
