@@ -548,19 +548,16 @@
                                 {
                                     "id": null,
                                     "type": "nurses",
-                                    "image": "mdi-doctor",
                                     "name": "Nurses"
                                 },
                                 {
                                     "id": null,
                                     "type": "doctors",
-                                    "image": "mdi-stethoscope",
                                     "name": "Senior Doctors"
                                 },
                                 {
                                     "id": null,
                                     "type": "residents",
-                                    "image": "mdi-stethoscope",
                                     "name": "Residents"
                                 }
                             ]
@@ -593,13 +590,11 @@
                             {
                                 "id": null,
                                 "type": "nurses",
-                                "image": "mdi-doctor",
                                 "name": "Nurses"
                             },
                             {
                                 "id": null,
                                 "type": "residents",
-                                "image": "mdi-stethoscope",
                                 "name": "Residents"
                             }
                         ]
@@ -630,19 +625,16 @@
                                 {
                                     "id": null,
                                     "type": "nurses",
-                                    "image": "mdi-doctor",
                                     "name": "HE-Nurses"
                                 },
                                 {
                                     "id": null,
                                     "type": "doctors",
-                                    "image": "mdi-stethoscope",
                                     "name": "HE-Senior Doctors"
                                 },
                                 {
                                     "id": null,
                                     "type": "residents",
-                                    "image": "mdi-stethoscope",
                                     "name": "HE-Residents"
                                 }
                             ]
@@ -675,13 +667,11 @@
                             {
                                 "id": null,
                                 "type": "nurses",
-                                "image": "mdi-doctor",
                                 "name": "HE-Nurses"
                             },
                             {
                                 "id": null,
                                 "type": "residents",
-                                "image": "mdi-stethoscope",
                                 "name": "HE-Residents"
                             }
                         ]
