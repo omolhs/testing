@@ -303,13 +303,13 @@
                 "entire_team": "כל הצוות",
                 "search_members_prefill": "חפש או הקלד שם",
                 "thanked_members_title": "הייתי רוצה להודות ל...",
-                "next_page": "לְהַמשִׁיך"
+                "next_page": "המשך"
               },
               "note": {
                 "image": "post_thank-english.png",
                 "gif": "dancing.gif",
                 "compliment_title": "תודה פשוטה עוברת דרך ארוכה - אבל לפעמים אנחנו רוצים לעבור את הקילומטר הנוסף. בחר מחמאה מוצעת ותאם אותה או כתוב את זה או כתוב משלך.",
-                "personal_touch_title": "להוסיף נוֹפֶך",
+                "personal_touch_title": "להוסיף משהו אישי",
                 "personal_touch_prefill": "שתף משהו במילים שלך, או בחר מחמאה מוצעת והוסף את המגע האישי שלך",
                 "take_credit_title": "קח קרדיט",
                 "take_credit_prefill": "קח קרדיט על ידי הוספת שמך כאן. השאר ריק ואנחנו נפרסם עם שם כינוי.",
@@ -360,9 +360,9 @@
             },
             "feedback": {
               "stats": {
-                "stat_1": "להודות",
-                "stat_2": "לשתף ולדווח",
-                "stat_3": "למלא משוב"
+                "stat_1": "תודות",
+                "stat_2": "שיתופים ודיווחים",
+                "stat_3": "משובים"
               },
               "buttons": {
                 "agree": "מסכים",
