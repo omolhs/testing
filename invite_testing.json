@@ -2254,21 +2254,21 @@
             {
               "id": null,
               "type": "nurses",
-              "name": "tony A",
+              "name": "רבקה לרמן",
               "image": "mdi-doctor",
               "thanked": "235"
             },
             {
               "id": null,
               "type": "nurses",
-              "name": "tony B",
+              "name": "שיראל נ.",
               "image": "mdi-doctor",
               "thanked": "1.2k"
             },
             {
               "id": null,
               "type": "nurses",
-              "name": "tony C",
+              "name": "יפעת כהן",
               "image": "mdi-doctor",
               "thanked": "1.2k"
             }
@@ -2277,13 +2277,13 @@
             {
               "id": null,
               "type": "nurses",
-              "name": "john manager",
-              "image": "https://cdn.vuetifyjs.com/images/lists/1.jpg",
-              "department": "pead. ER",
-              "position": "head nurse",
-              "office": "room 314",
+              "name": "שולמית עמר",
+              "image": "https://cdn.vuetifyjs.com/images/lists/5.jpg",
+              "department": "מיון ילדים",
+              "position": "אחות אחראית",
+              "office": "חדר 221",
               "phone": "1-233-221-2332",
-              "email": "jony@gmail.com",
+              "email": "shula@tamc.org.il",
               "emergency": "02-555-1234"
             }
           ]
@@ -2296,21 +2296,21 @@
             {
               "id": null,
               "type": "doctors",
-              "name": "tony A",
+              "name": "דר יחיאל גולד",
               "image": "mdi-stethoscope",
               "thanked": "235"
             },
             {
               "id": null,
               "type": "doctors",
-              "name": "tony B",
+              "name": "דר קמילה דיסלר",
               "image": "mdi-doctor",
               "thanked": "1.2k"
             },
             {
               "id": null,
               "type": "doctors",
-              "name": "tony C",
+              "name": "דר רונה שטיין",
               "image": "mdi-stethoscope",
               "thanked": "1.2k"
             }
@@ -2319,14 +2319,14 @@
             {
               "id": null,
               "type": "doctor",
-              "name": "john manager",
-              "image": "https://cdn.vuetifyjs.com/images/lists/2.jpg",
-              "department": "pead. ER",
-              "position": "chief resident",
-              "office": "room 314",
+              "name": "דר יוכבד הלוי",
+              "image": "https://cdn.vuetifyjs.com/images/lists/3.jpg",
+              "department": "מיון ילדים",
+              "position": "ציף מתמחים",
+              "office": "",
               "phone": "1-233-221-2332",
-              "email": "jony@gmail.com",
-              "emergency": "02-555-1234"
+              "email": "yocheved@gmail.com",
+              "emergency": ""
             }
           ]
         },
@@ -2338,21 +2338,21 @@
             {
               "id": null,
               "type": "nurses",
-              "name": "tony A",
+              "name": "אחמד ל.",
               "image": "mdi-broom",
               "thanked": "235"
             },
             {
               "id": null,
               "type": "housekeeping",
-              "name": "tony B",
+              "name": "רועי מ.",
               "image": "mdi-broom",
               "thanked": "1.2k"
             },
             {
               "id": null,
               "type": "nurses",
-              "name": "tony C",
+              "name": "תהילה פ.",
               "image": "mdi-broom",
               "thanked": "1.2k"
             }
@@ -2361,13 +2361,13 @@
             {
               "id": null,
               "type": "housekeeping",
-              "name": "john manager",
-              "image": "https://cdn.vuetifyjs.com/images/lists/3.jpg",
-              "department": "pead. ER",
-              "position": "Head Housekeeping",
-              "office": "room 314",
-              "phone": "1-233-221-2332",
-              "email": "jony@gmail.com",
+              "name": "יוסף ר.",
+              "image": "https://cdn.vuetifyjs.com/images/lists/1.jpg",
+              "department": "מיון ילדים",
+              "position": "אחראי תחזוקה",
+              "office": "חדר 621",
+              "phone": "",
+              "email": "cleaning@tamc.org.il",
               "emergency": "02-555-1234"
             }
           ]
@@ -2713,7 +2713,7 @@
                 {
                   "statement_id": 11,
                   "occupation_id": 2,
-                  "statement": "أسئلتي تعاملنا بصبر وهدوء"
+                  "statement": "أسئلتي تعاملنا بصبر وبهدوء"
                 }
               ]
             }
@@ -3508,7 +3508,7 @@
                 {
                   "statement_id": 7,
                   "occupation_id": 6,
-                  "statement": "J'ai senti que les infirmières respectaient ma vie privée et ma dignité"
+                  "statement": "Je sentais que les infirmières respectaient ma vie privée et ma dignité"
                 },
                 {
                   "statement_id": 3,
@@ -4025,7 +4025,7 @@
                   {
                     "id": null,
                     "compliment_id": 3,
-                    "compliment": "あなたの仕事とあなたの仕事へのコミットメントは大歓迎です。"
+                    "compliment": "あなたの勤勉さとあなたの仕事へのコミットメントは大歓迎です。"
                   },
                   {
                     "id": null,
