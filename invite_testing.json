@@ -330,21 +330,21 @@
               "header": "שתף עם מנהלי צוות",
               "team_title": "בחר צוות אחד או יותר",
               "managers_title": "המנהלים שאליהם תועבר ההודעה",
-              "topic_title": "מה תרצה לשתף? (לא חובה)",
+              "topic_title": "אני רוצה לשתף...",
               "topic_options": [
                 {
                   "type": "complaint",
-                  "name": "תְלוּנָה",
+                  "name": "תלונה",
                   "image": "mdi-thumb-down"
                 },
                 {
                   "type": "compliment",
-                  "name": "מַחֲמָאָה",
+                  "name": "מחמאה",
                   "image": "mdi-charity"
                 },
                 {
                   "type": "suggestion",
-                  "name": "הַצָעָה",
+                  "name": "הצעה לשיפור",
                   "image": "mdi-lightbulb-on-outline"
                 },
                 {
