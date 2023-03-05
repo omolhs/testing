@@ -2254,21 +2254,21 @@
             {
               "id": null,
               "type": "nurses",
-              "name": "tony A1",
+              "name": "tony A",
               "image": "mdi-doctor",
               "thanked": "235"
             },
             {
               "id": null,
               "type": "nurses",
-              "name": "tony B1",
+              "name": "tony B",
               "image": "mdi-doctor",
               "thanked": "1.2k"
             },
             {
               "id": null,
               "type": "nurses",
-              "name": "tony C1",
+              "name": "tony C",
               "image": "mdi-doctor",
               "thanked": "1.2k"
             }
@@ -2296,21 +2296,21 @@
             {
               "id": null,
               "type": "doctors",
-              "name": "tony A2",
+              "name": "tony A",
               "image": "mdi-stethoscope",
               "thanked": "235"
             },
             {
               "id": null,
               "type": "doctors",
-              "name": "tony B2",
+              "name": "tony B",
               "image": "mdi-doctor",
               "thanked": "1.2k"
             },
             {
               "id": null,
               "type": "doctors",
-              "name": "tony C2",
+              "name": "tony C",
               "image": "mdi-stethoscope",
               "thanked": "1.2k"
             }
@@ -2338,21 +2338,21 @@
             {
               "id": null,
               "type": "nurses",
-              "name": "tony A3",
+              "name": "tony A",
               "image": "mdi-broom",
               "thanked": "235"
             },
             {
               "id": null,
               "type": "housekeeping",
-              "name": "tony B3",
+              "name": "tony B",
               "image": "mdi-broom",
               "thanked": "1.2k"
             },
             {
               "id": null,
               "type": "nurses",
-              "name": "tony C3",
+              "name": "tony C",
               "image": "mdi-broom",
               "thanked": "1.2k"
             }
@@ -2583,7 +2583,7 @@
                 {
                   "statement_id": 2,
                   "occupation_id": 3,
-                  "statement": "stat 2, occ 3, english"
+                  "statement": "STAT 2, OCC 3, אנגלית"
                 },
                 {
                   "statement_id": 7,
@@ -2593,7 +2593,7 @@
                 {
                   "statement_id": 3,
                   "occupation_id": 8,
-                  "statement": "stat 3, occ 8, english"
+                  "statement": "STAT 3, OCC 8, אנגלית"
                 },
                 {
                   "statement_id": 11,
@@ -2698,7 +2698,7 @@
                 {
                   "statement_id": 2,
                   "occupation_id": 3,
-                  "statement": "stat 2, occ 3, english"
+                  "statement": "STAT 2 ، OCC 3 ، اللغة الإنجليزية"
                 },
                 {
                   "statement_id": 7,
@@ -2708,7 +2708,7 @@
                 {
                   "statement_id": 3,
                   "occupation_id": 8,
-                  "statement": "stat 3, occ 8, english"
+                  "statement": "STAT 3 ، OCC 8 ، اللغة الإنجليزية"
                 },
                 {
                   "statement_id": 11,
@@ -2813,7 +2813,7 @@
                 {
                   "statement_id": 2,
                   "occupation_id": 3,
-                  "statement": "stat 2, occ 3, english"
+                  "statement": "Stat 2, occ 3, английский"
                 },
                 {
                   "statement_id": 7,
@@ -2823,7 +2823,7 @@
                 {
                   "statement_id": 3,
                   "occupation_id": 8,
-                  "statement": "stat 3, occ 8, english"
+                  "statement": "Stat 3, occ 8, английский"
                 },
                 {
                   "statement_id": 11,
@@ -2928,7 +2928,7 @@
                 {
                   "statement_id": 2,
                   "occupation_id": 3,
-                  "statement": "stat 2, occ 3, english"
+                  "statement": "ስታት 2, የተረጋገጠ 3, እንግሊዝኛ"
                 },
                 {
                   "statement_id": 7,
@@ -2938,7 +2938,7 @@
                 {
                   "statement_id": 3,
                   "occupation_id": 8,
-                  "statement": "stat 3, occ 8, english"
+                  "statement": "ስታት 3, የተረጋገጠ, እንግሊዝኛ, እንግሊዝኛ"
                 },
                 {
                   "statement_id": 11,
@@ -3043,7 +3043,7 @@
                 {
                   "statement_id": 2,
                   "occupation_id": 3,
-                  "statement": "stat 2, occ 3, english"
+                  "statement": "Stat 2, Occ 3, Ingles"
                 },
                 {
                   "statement_id": 7,
@@ -3053,7 +3053,7 @@
                 {
                   "statement_id": 3,
                   "occupation_id": 8,
-                  "statement": "stat 3, occ 8, english"
+                  "statement": "STAT 3, OCC 8, Ingles"
                 },
                 {
                   "statement_id": 11,
@@ -3158,7 +3158,7 @@
                 {
                   "statement_id": 2,
                   "occupation_id": 3,
-                  "statement": "stat 2, occ 3, english"
+                  "statement": "STEM 2, 16, ענגליש"
                 },
                 {
                   "statement_id": 7,
@@ -3168,7 +3168,7 @@
                 {
                   "statement_id": 3,
                   "occupation_id": 8,
-                  "statement": "stat 3, occ 8, english"
+                  "statement": "סטאַט 3, אויף 8, ענגליש"
                 },
                 {
                   "statement_id": 11,
@@ -3273,7 +3273,7 @@
                 {
                   "statement_id": 2,
                   "occupation_id": 3,
-                  "statement": "stat 2, occ 3, english"
+                  "statement": "STAT 2, OCC 3, англійська мова"
                 },
                 {
                   "statement_id": 7,
@@ -3283,7 +3283,7 @@
                 {
                   "statement_id": 3,
                   "occupation_id": 8,
-                  "statement": "stat 3, occ 8, english"
+                  "statement": "STAT 3, OCC 8, англійська мова"
                 },
                 {
                   "statement_id": 11,
@@ -3388,7 +3388,7 @@
                 {
                   "statement_id": 2,
                   "occupation_id": 3,
-                  "statement": "stat 2, occ 3, english"
+                  "statement": "Stat 2，Occ​​ 3，英语"
                 },
                 {
                   "statement_id": 7,
@@ -3398,7 +3398,7 @@
                 {
                   "statement_id": 3,
                   "occupation_id": 8,
-                  "statement": "stat 3, occ 8, english"
+                  "statement": "Stat 3，Occ 8，英语"
                 },
                 {
                   "statement_id": 11,
@@ -3503,7 +3503,7 @@
                 {
                   "statement_id": 2,
                   "occupation_id": 3,
-                  "statement": "stat 2, occ 3, english"
+                  "statement": "STAT 2, OCC 3, anglais"
                 },
                 {
                   "statement_id": 7,
@@ -3513,7 +3513,7 @@
                 {
                   "statement_id": 3,
                   "occupation_id": 8,
-                  "statement": "stat 3, occ 8, english"
+                  "statement": "STAT 3, OCC 8, anglais"
                 },
                 {
                   "statement_id": 11,
@@ -3618,7 +3618,7 @@
                 {
                   "statement_id": 2,
                   "occupation_id": 3,
-                  "statement": "stat 2, occ 3, english"
+                  "statement": "Estadística 2, occ 3, inglés"
                 },
                 {
                   "statement_id": 7,
@@ -3628,7 +3628,7 @@
                 {
                   "statement_id": 3,
                   "occupation_id": 8,
-                  "statement": "stat 3, occ 8, english"
+                  "statement": "Estadística 3, occ 8, inglés"
                 },
                 {
                   "statement_id": 11,
@@ -3733,7 +3733,7 @@
                 {
                   "statement_id": 2,
                   "occupation_id": 3,
-                  "statement": "stat 2, occ 3, english"
+                  "statement": "Stat 2, Occ 3, Engels"
                 },
                 {
                   "statement_id": 7,
@@ -3743,7 +3743,7 @@
                 {
                   "statement_id": 3,
                   "occupation_id": 8,
-                  "statement": "stat 3, occ 8, english"
+                  "statement": "Stat 3, Occ 8, Engels"
                 },
                 {
                   "statement_id": 11,
@@ -3848,7 +3848,7 @@
                 {
                   "statement_id": 2,
                   "occupation_id": 3,
-                  "statement": "stat 2, occ 3, english"
+                  "statement": "I-STT 2, Wenzeka 3, IsiNgesi"
                 },
                 {
                   "statement_id": 7,
@@ -3858,7 +3858,7 @@
                 {
                   "statement_id": 3,
                   "occupation_id": 8,
-                  "statement": "stat 3, occ 8, english"
+                  "statement": "I-STT 3, Wepa 8, IsiNgesi"
                 },
                 {
                   "statement_id": 11,
@@ -3963,7 +3963,7 @@
                 {
                   "statement_id": 2,
                   "occupation_id": 3,
-                  "statement": "stat 2, occ 3, english"
+                  "statement": "I-Stat 2, i-3, isiNgisi"
                 },
                 {
                   "statement_id": 7,
@@ -3973,7 +3973,7 @@
                 {
                   "statement_id": 3,
                   "occupation_id": 8,
-                  "statement": "stat 3, occ 8, english"
+                  "statement": "I-Stat 3, i-8, isiNgisi"
                 },
                 {
                   "statement_id": 11,
@@ -4078,7 +4078,7 @@
                 {
                   "statement_id": 2,
                   "occupation_id": 3,
-                  "statement": "stat 2, occ 3, english"
+                  "statement": "統計2、OCC 3、英語"
                 },
                 {
                   "statement_id": 7,
@@ -4088,7 +4088,7 @@
                 {
                   "statement_id": 3,
                   "occupation_id": 8,
-                  "statement": "stat 3, occ 8, english"
+                  "statement": "統計3、OCC 8、英語"
                 },
                 {
                   "statement_id": 11,
