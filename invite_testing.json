@@ -384,7 +384,7 @@
           },
           "verify": {
             "header": "המשוב הושלם!",
-            "privacy": "Verify-English.png",
+            "privacy": "verify-hebrew.png",
             "token_title": "קוד אימות",
             "buttons": {
               "verify_whatsapp": "לשליחת אימות באמצעות whatsapp",
@@ -518,7 +518,7 @@
           },
           "verify": {
             "header": "الانتهاء من ردود الفعل!",
-            "privacy": "تحقق-English.png",
+            "privacy": "verify-arabic.png",
             "token_title": "رمز OTP",
             "buttons": {
               "verify_whatsapp": "أرسل OTP عبر WhatsApp",
@@ -652,7 +652,7 @@
           },
           "verify": {
             "header": "Отзыв завершена!",
-            "privacy": "verify-english.png",
+            "privacy": "verify-russian.png",
             "token_title": "Токен OTP",
             "buttons": {
               "verify_whatsapp": "Отправить OTP через WhatsApp",
@@ -786,7 +786,7 @@
           },
           "verify": {
             "header": "ግብረመልስ ተጠናቅቋል!",
-            "privacy": "ማረጋገጫ-እንግሊዝኛ.ፒ.ፒ.",
+            "privacy": "verify-amharic.png",
             "token_title": "OTP ማስመሰያ",
             "buttons": {
               "verify_whatsapp": "OTP ን በ WhatsApp በኩል ይላኩ",
@@ -920,7 +920,7 @@
           },
           "verify": {
             "header": "Natapos ang feedback!",
-            "privacy": "Mag-verify- English.png",
+            "privacy": "verify-filipino.png",
             "token_title": "OTP token",
             "buttons": {
               "verify_whatsapp": "Magpadala ng OTP sa pamamagitan ng WhatsApp",
@@ -1054,7 +1054,7 @@
           },
           "verify": {
             "header": "באַמערקונגען געענדיקט!",
-            "privacy": "באַשטעטיקן-ענגליש.פּנג",
+            "privacy": "verify-yiddish.png",
             "token_title": "אָטפּ סימען",
             "buttons": {
               "verify_whatsapp": "שיקן OTP Via ווהאַצאַפּפּ",
@@ -1188,7 +1188,7 @@
           },
           "verify": {
             "header": "Зворотній зв'язок завершено!",
-            "privacy": "Перевірте-англійську.png",
+            "privacy": "verify-ukrainian.png",
             "token_title": "Токен OTP",
             "buttons": {
               "verify_whatsapp": "Надішліть OTP через WhatsApp",
@@ -1322,7 +1322,7 @@
           },
           "verify": {
             "header": "反馈完成了！",
-            "privacy": "验证 -  english.png",
+            "privacy": "verify-chinese.png",
             "token_title": "OTP令牌",
             "buttons": {
               "verify_whatsapp": "通过WhatsApp发送OTP",
@@ -1456,7 +1456,7 @@
           },
           "verify": {
             "header": "Commentaires terminés!",
-            "privacy": "vérifier-anglais.png",
+            "privacy": "verify-french.png",
             "token_title": "Jeton OTP",
             "buttons": {
               "verify_whatsapp": "Envoyer OTP via WhatsApp",
@@ -1590,7 +1590,7 @@
           },
           "verify": {
             "header": "Comentarios completados!",
-            "privacy": "Verify-English.png",
+            "privacy": "verify-spanish.png",
             "token_title": "Token OTP",
             "buttons": {
               "verify_whatsapp": "Enviar OTP a través de WhatsApp",
@@ -1724,7 +1724,7 @@
           },
           "verify": {
             "header": "Terugvoer voltooi!",
-            "privacy": "Verify-English.png",
+            "privacy": "verify-afrikaans.png",
             "token_title": "OTP -token",
             "buttons": {
               "verify_whatsapp": "Stuur OTP via WhatsApp",
@@ -1858,7 +1858,7 @@
           },
           "verify": {
             "header": "Ingxelo igqityiwe!",
-            "privacy": "qinisekisa-isiNgesi.png",
+            "privacy": "verify-xhosa.png",
             "token_title": "Ithokheni ye-OTP",
             "buttons": {
               "verify_whatsapp": "Thumela i-OTP nge-whatsapp",
@@ -1992,7 +1992,7 @@
           },
           "verify": {
             "header": "Impendulo iqediwe!",
-            "privacy": "Qinisekisa-English.png",
+            "privacy": "verify-zulu.png",
             "token_title": "Ithokheni ye-OTP",
             "buttons": {
               "verify_whatsapp": "Thumela i-OTP nge-whatsapp",
@@ -2126,7 +2126,7 @@
           },
           "verify": {
             "header": "フィードバックが完了しました！",
-            "privacy": "Verify-English.png",
+            "privacy": "verify-japanese.png",
             "token_title": "OTPトークン",
             "buttons": {
               "verify_whatsapp": "WhatsApp経由でOTPを送信します",
@@ -3508,7 +3508,7 @@
                 {
                   "statement_id": 7,
                   "occupation_id": 6,
-                  "statement": "Je sentais que les infirmières respectaient ma vie privée et ma dignité"
+                  "statement": "J'ai senti que les infirmières respectaient ma vie privée et ma dignité"
                 },
                 {
                   "statement_id": 3,
