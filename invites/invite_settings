@@ -1,46 +1,32 @@
 {
-  "invites": [
+  "invites":
+  [
     {
       "slug": "re3",
-      "settings": {
+      "settings":
+      {
         "country": "israel",
         "language": "hebrew",
-        "modules": {
-          "thank": {
+        "modules": 
+        {
+          "thank":
+          {
             "enabled": true,
             "default": true
           },
-          "note": {
+          "note":
+          {
             "enabled": true,
             "default": true
           },
-          "gift": {
+          "gift":
+          {
             "enabled": true,
             "default": true
           }
         }
-      }
-    },
-    {
-      "slug": "abcde",
-      "settings": {
-        "country": "israel",
-        "language": "hebrew",
-        "modules": {
-          "thank": {
-            "enabled": true,
-            "default": true
-          },
-          "note": {
-            "enabled": true,
-            "default": true
-          },
-          "gift": {
-            "enabled": true,
-            "default": true
-          }
-        }
-      }
+      },
+      "terms": "https://www.terms.com"
     }
   ]
 }
