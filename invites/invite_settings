@@ -1,1 +1,46 @@
-
+{
+  "invites": [
+    {
+      "slug": "re3",
+      "settings": {
+        "country": "israel",
+        "language": "hebrew",
+        "modules": {
+          "thank": {
+            "enabled": true,
+            "default": true
+          },
+          "note": {
+            "enabled": true,
+            "default": true
+          },
+          "gift": {
+            "enabled": true,
+            "default": true
+          }
+        }
+      }
+    },
+    {
+      "slug": "abcde",
+      "settings": {
+        "country": "israel",
+        "language": "hebrew",
+        "modules": {
+          "thank": {
+            "enabled": true,
+            "default": true
+          },
+          "note": {
+            "enabled": true,
+            "default": true
+          },
+          "gift": {
+            "enabled": true,
+            "default": true
+          }
+        }
+      }
+    }
+  ]
+}
