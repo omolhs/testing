@@ -1,2140 +1,2138 @@
 {
-  "global": {
-    "countries": {
-      "israel": {
-        "lang_options": [
-          {
-            "english": "Hebrew",
-            "native": "עִברִית"
-          },
-          {
-            "english": "English",
-            "native": "English"
-          },
-          {
-            "english": "Arabic",
-            "native": "عربي"
-          },
-          {
-            "english": "Russian",
-            "native": "Русский"
-          },
-          {
-            "english": "Amharic",
-            "native": "አማርኛ"
-          },
-          {
-            "english": "Filipino",
-            "native": "Pilipino"
-          },
-          {
-            "english": "Yiddish",
-            "native": "יידיש"
-          },
-          {
-            "english": "Ukrainian",
-            "native": "Український"
-          },
-          {
-            "english": "Chinese",
-            "native": "中国人"
-          },
-          {
-            "english": "French",
-            "native": "Français"
-          },
-          {
-            "english": "Spanish",
-            "native": "Español"
-          },
-          {
-            "english": "Bengali",
-            "native": "বাংলা"
-          }
-        ],
-        "currency": {
-          "name": "nis",
-          "symbol": "₪"
+  "countries": {
+    "israel": {
+      "lang_options": [
+        {
+          "english": "Hebrew",
+          "native": "עִברִית"
+        },
+        {
+          "english": "English",
+          "native": "English"
+        },
+        {
+          "english": "Arabic",
+          "native": "عربي"
+        },
+        {
+          "english": "Russian",
+          "native": "Русский"
+        },
+        {
+          "english": "Amharic",
+          "native": "አማርኛ"
+        },
+        {
+          "english": "Filipino",
+          "native": "Pilipino"
+        },
+        {
+          "english": "Yiddish",
+          "native": "יידיש"
+        },
+        {
+          "english": "Ukrainian",
+          "native": "Український"
+        },
+        {
+          "english": "Chinese",
+          "native": "中国人"
+        },
+        {
+          "english": "French",
+          "native": "Français"
+        },
+        {
+          "english": "Spanish",
+          "native": "Español"
+        },
+        {
+          "english": "Bengali",
+          "native": "বাংলা"
+        }
+      ],
+      "currency": {
+        "name": "nis",
+        "symbol": "₪"
+      }
+    },
+    "united_states": {
+      "lang_options": [
+        {
+          "english": "English",
+          "native": "English"
+        },
+        {
+          "english": "Spanish",
+          "native": "Español"
+        },
+        {
+          "english": "Chinese",
+          "native": "中国人"
+        },
+        {
+          "english": "Bengali",
+          "native": "বাংলা"
+        },
+        {
+          "english": "Russian",
+          "native": "Русский"
+        },
+        {
+          "english": "French",
+          "native": "Français"
+        },
+        {
+          "english": "Arabic",
+          "native": "عربي"
+        },
+        {
+          "english": "Hebrew",
+          "native": "עִברִית"
+        }
+      ],
+      "currency": {
+        "name": "usd",
+        "symbol": "$"
+      }
+    },
+    "south_africa": {
+      "lang_options": [
+        {
+          "english": "English",
+          "native": "English"
+        },
+        {
+          "english": "Zulu",
+          "native": "IsiZulu"
+        },
+        {
+          "english": "Afrikaans",
+          "native": "Afrikaans"
+        },
+        {
+          "english": "Xhosa",
+          "native": "isiXhosa"
+        },
+        {
+          "english": "Bengali",
+          "native": "বাংলা"
+        }
+      ],
+      "currency": {
+        "name": "rand",
+        "symbol": "R"
+      }
+    }
+  },
+  "languages": {
+    "english": {
+      "select_modules": {
+        "header": "What would you like to do today?",
+        "modules": {
+          "appreciate": "THANK",
+          "report": "SHARE & REPORT",
+          "feedback": "SURVEY"
+        },
+        "tabs": {
+          "appreciate": "THANK",
+          "report": "SHARE & REPORT",
+          "feedback": "SURVEY"
+        },
+        "tab_image": {
+          "appreciate": "tab_thank-english.png",
+          "report": "tab_report-english.png",
+          "feedback": "tab_feedback-english.png"
+        },
+        "disabled_module": "feature disabled by admin",
+        "next_page": "Let's Go",
+        "terms": {
+          "text:": "By continuing you agree to our Terms, Data Policy and Cookie Policy",
+          "url": "http://myrep.online/terms/?ver=123?lan=english"
         }
       },
-      "united_states": {
-        "lang_options": [
-          {
-            "english": "English",
-            "native": "English"
+      "modules": {
+        "appreciate": {
+          "thank": {
+            "header": "Show your appreciation with a simple Thank You!",
+            "team_title": "Select team",
+            "list_title": {
+              "list_populated": "Recently thanked",
+              "list_empty": "Be the first to thank"
+            },
+            "entire_team": "Entire team",
+            "search_members_prefill": "Search or enter name",
+            "thanked_members_title": "I would like to thank",
+            "next_page": "CONTINUE"
           },
-          {
-            "english": "Spanish",
-            "native": "Español"
+          "note": {
+            "image": "post_thank-english.png",
+            "gif": "dancing.gif",
+            "compliment_title": "A simple thank you goes a long way - but sometimes we want to go the extra mile. Select a suggested compliment and personalize it or write your own.",
+            "personal_touch_title": "Add a personal touch",
+            "personal_touch_prefill": "Share something in your own words, or choose a suggested compliment and add your personal touch",
+            "take_credit_title": "Take credit",
+            "take_credit_prefill": "Take credit by adding your name here. Leave empty and we will post with an alias name.",
+            "give_gift": "SPOIL THE STAFF",
+            "next_page": "MAYBE NEXT TIME"
           },
-          {
-            "english": "Chinese",
-            "native": "中国人"
-          },
-          {
-            "english": "Bengali",
-            "native": "বাংলা"
-          },
-          {
-            "english": "Russian",
-            "native": "Русский"
-          },
-          {
-            "english": "French",
-            "native": "Français"
-          },
-          {
-            "english": "Arabic",
-            "native": "عربي"
-          },
-          {
-            "english": "Hebrew",
-            "native": "עִברִית"
+          "gift": {
+            "people_contributed": "People Contributed",
+            "progress": "Progress",
+            "days_running": "days running",
+            "custom_amount": "Custom amount",
+            "continue_with": "Continue with",
+            "dont_ask_again": "DON'T ASK AGAIN",
+            "next_page": "MAYBE NEXT TIME"
           }
-        ],
-        "currency": {
-          "name": "usd",
-          "symbol": "$"
+        },
+        "report": {
+          "header": "Share directly with the team's manager",
+          "team_title": "Select relevant teams",
+          "managers_title": "Team managers",
+          "topic_title": "What are you sharing? (optional)",
+          "topic_options": [
+            {
+              "type": "complaint",
+              "name": "Complaint",
+              "image": "mdi-thumb-down"
+            },
+            {
+              "type": "compliment",
+              "name": "Compliment",
+              "image": "mdi-charity"
+            },
+            {
+              "type": "suggestion",
+              "name": "Suggestion",
+              "image": "mdi-lightbulb-on-outline"
+            },
+            {
+              "type": "inspirational_story",
+              "name": "Inspirational Story",
+              "image": "mdi-party-popper"
+            }
+          ],
+          "input_title": "We are listening!",
+          "input_prefill": "Share in your prefered language. We will take care of the translation. Everything you share is sent anonoylously to the manager. If you would like a followup or to be contacted by the manager, please be sure to include your contact info in the message.",
+          "attachement_error": "Attachments are not supported in this browse",
+          "next_page": "CONTINUE"
+        },
+        "feedback": {
+          "stats": {
+            "stat_1": "Thank You",
+            "stat_2": "Share & Report",
+            "stat_3": "Survey"
+          },
+          "buttons": {
+            "agree": "AGREE",
+            "disagree": "DISAGREE",
+            "agree_strongly": "AGREE_strongly",
+            "disagree_strongly": "DISAGREE_strongly",
+            "neutral": "NEUTRAL",
+            "suggest": "Grammatical Error",
+            "irrelevant": "Irrelevant"
+          },
+          "suggestion": {
+            "header": "We appreciate the help!",
+            "original_title": "Original Statement",
+            "suggestion_title": "How should it be worded?",
+            "cancel": "Cancel",
+            "next_page": "Save"
+          }
         }
       },
-      "south_africa": {
-        "lang_options": [
-          {
-            "english": "English",
-            "native": "English"
-          },
-          {
-            "english": "Zulu",
-            "native": "IsiZulu"
-          },
-          {
-            "english": "Afrikaans",
-            "native": "Afrikaans"
-          },
-          {
-            "english": "Xhosa",
-            "native": "isiXhosa"
-          },
-          {
-            "english": "Bengali",
-            "native": "বাংলা"
-          }
-        ],
-        "currency": {
-          "name": "rand",
-          "symbol": "R"
+      "verify": {
+        "header": "Feedback Completed!",
+        "privacy": "verify-english.png",
+        "token_title": "OTP Token",
+        "buttons": {
+          "verify_whatsapp": "Send OTP via whatsapp",
+          "verify_email": "Send OTP via email"
+        },
+        "message": {
+          "whatsapp": "https://wa.me/13474917585?text=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token",
+          "email": "mailto:myrep.auth@gmail.com?subject=Authentication Token&body=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token"
+        },
+        "post_verify": {
+          "header": "Verfication Submitted",
+          "body": "Have a great day!"
         }
       }
     },
-    "languages": {
-      "english": {
-        "select_modules": {
-          "header": "What would you like to do today?",
-          "modules": {
-            "appreciate": "THANK",
-            "report": "SHARE & REPORT",
-            "feedback": "SURVEY"
-          },
-          "tabs": {
-            "appreciate": "THANK",
-            "report": "SHARE & REPORT",
-            "feedback": "SURVEY"
-          },
-          "tab_image": {
-            "appreciate": "tab_thank-english.png",
-            "report": "tab_report-english.png",
-            "feedback": "tab_feedback-english.png"
-          },
-          "disabled_module": "feature disabled by admin",
-          "next_page": "Let's Go",
-          "terms": {
-            "text:": "By continuing you agree to our Terms, Data Policy and Cookie Policy",
-            "url": "http://myrep.online/terms/?ver=123?lan=english"
-          }
-        },
+    "hebrew": {
+      "select_modules": {
+        "header": "מה תרצו לעשות היום?",
         "modules": {
-          "appreciate": {
-            "thank": {
-              "header": "Show your appreciation with a simple Thank You!",
-              "team_title": "Select team",
-              "list_title": {
-                "list_populated": "Recently thanked",
-                "list_empty": "Be the first to thank"
-              },
-              "entire_team": "Entire team",
-              "search_members_prefill": "Search or enter name",
-              "thanked_members_title": "I would like to thank",
-              "next_page": "CONTINUE"
-            },
-            "note": {
-              "image": "post_thank-english.png",
-              "gif": "dancing.gif",
-              "compliment_title": "A simple thank you goes a long way - but sometimes we want to go the extra mile. Select a suggested compliment and personalize it or write your own.",
-              "personal_touch_title": "Add a personal touch",
-              "personal_touch_prefill": "Share something in your own words, or choose a suggested compliment and add your personal touch",
-              "take_credit_title": "Take credit",
-              "take_credit_prefill": "Take credit by adding your name here. Leave empty and we will post with an alias name.",
-              "give_gift": "SPOIL THE STAFF",
-              "next_page": "MAYBE NEXT TIME"
-            },
-            "gift": {
-              "people_contributed": "People Contributed",
-              "progress": "Progress",
-              "days_running": "days running",
-              "custom_amount": "Custom amount",
-              "continue_with": "Continue with",
-              "dont_ask_again": "DON'T ASK AGAIN",
-              "next_page": "MAYBE NEXT TIME"
-            }
-          },
-          "report": {
-            "header": "Share directly with the team's manager",
-            "team_title": "Select relevant teams",
-            "managers_title": "Team managers",
-            "topic_title": "What are you sharing? (optional)",
-            "topic_options": [
-              {
-                "type": "complaint",
-                "name": "Complaint",
-                "image": "mdi-thumb-down"
-              },
-              {
-                "type": "compliment",
-                "name": "Compliment",
-                "image": "mdi-charity"
-              },
-              {
-                "type": "suggestion",
-                "name": "Suggestion",
-                "image": "mdi-lightbulb-on-outline"
-              },
-              {
-                "type": "inspirational_story",
-                "name": "Inspirational Story",
-                "image": "mdi-party-popper"
-              }
-            ],
-            "input_title": "We are listening!",
-            "input_prefill": "Share in your prefered language. We will take care of the translation. Everything you share is sent anonoylously to the manager. If you would like a followup or to be contacted by the manager, please be sure to include your contact info in the message.",
-            "attachement_error": "Attachments are not supported in this browse",
-            "next_page": "CONTINUE"
-          },
-          "feedback": {
-            "stats": {
-              "stat_1": "Thank You",
-              "stat_2": "Share & Report",
-              "stat_3": "Survey"
-            },
-            "buttons": {
-              "agree": "AGREE",
-              "disagree": "DISAGREE",
-              "agree_strongly": "AGREE_strongly",
-              "disagree_strongly": "DISAGREE_strongly",
-              "neutral": "NEUTRAL",
-              "suggest": "Grammatical Error",
-              "irrelevant": "Irrelevant"
-            },
-            "suggestion": {
-              "header": "We appreciate the help!",
-              "original_title": "Original Statement",
-              "suggestion_title": "How should it be worded?",
-              "cancel": "Cancel",
-              "next_page": "Save"
-            }
-          }
+          "appreciate": "להודות",
+          "report": "לשתף ולדווח",
+          "feedback": "למלא משוב"
         },
-        "verify": {
-          "header": "Feedback Completed!",
-          "privacy": "verify-english.png",
-          "token_title": "OTP Token",
-          "buttons": {
-            "verify_whatsapp": "Send OTP via whatsapp",
-            "verify_email": "Send OTP via email"
-          },
-          "message": {
-            "whatsapp": "https://wa.me/13474917585?text=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token",
-            "email": "mailto:myrep.auth@gmail.com?subject=Authentication Token&body=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token"
-          },
-          "post_verify": {
-            "header": "Verfication Submitted",
-            "body": "Have a great day!"
-          }
+        "tabs": {
+          "appreciate": "להודות",
+          "report": "לשתף ולדווח",
+          "feedback": "למלא משוב"
+        },
+        "tab_image": {
+          "appreciate": "tab_thank-hebrew.png",
+          "report": "tab_report-hebrew.png",
+          "feedback": "tab_feedback-hebrew.png"
+        },
+        "disabled_module": "תכונה מושבתת על ידי admin",
+        "next_page": "בואו ונתחיל!",
+        "terms": {
+          "text:": "המשך מילוי הטופס מהווה הסכמה לתנאי השימוש ומדיניות הפרטיות ללא כל הגבלה או הסתייגות",
+          "url": "http://myrep.online/terms/?ver=123?lan=hebrew"
         }
       },
-      "hebrew": {
-        "select_modules": {
-          "header": "מה תרצה לעשות היום?",
-          "modules": {
-            "appreciate": "להודות",
-            "report": "לשתף ולדווח",
-            "feedback": "למלא משוב"
-          },
-          "tabs": {
-            "appreciate": "להודות",
-            "report": "לשתף ולדווח",
-            "feedback": "למלא משוב"
-          },
-          "tab_image": {
-            "appreciate": "tab_thank-hebrew.png",
-            "report": "tab_report-hebrew.png",
-            "feedback": "tab_feedback-hebrew.png"
-          },
-          "disabled_module": "תכונה מושבתת על ידי admin",
-          "next_page": "בואו ונתחיל!",
-          "terms": {
-            "text:": "המשך מילוי הטופס מהווה הסכמה לתנאי השימוש ומדיניות הפרטיות ללא כל הגבלה או הסתייגות",
-            "url": "http://myrep.online/terms/?ver=123?lan=hebrew"
-          }
-        },
-        "modules": {
-          "appreciate": {
-            "thank": {
-              "header": "הבעת תודה בצעד פשוט",
-              "team_title": "בחר צוות",
-              "list_title": {
-                "list_populated": "תודות אחרונות",
-                "list_empty": "הייתי רוצה להודות ל..."
-              },
-              "entire_team": "כל הצוות",
-              "search_members_prefill": "חפש או הקלד שם",
-              "thanked_members_title": "הייתי רוצה להודות ל...",
-              "next_page": "המשך"
+      "modules": {
+        "appreciate": {
+          "thank": {
+            "header": "הבעת תודה בצעד פשוט",
+            "team_title": "בחר צוות",
+            "list_title": {
+              "list_populated": "תודות אחרונות",
+              "list_empty": "הייתי רוצה להודות ל..."
             },
-            "note": {
-              "image": "post_thank-hebrew.png",
-              "gif": "dancing.gif",
-              "compliment_title": "תודה פשוטה עוברת דרך ארוכה - אבל לפעמים אנחנו רוצים לעבור את הקילומטר הנוסף. בחר מחמאה מוצעת ותאם אותה או כתוב את זה או כתוב משלך.",
-              "personal_touch_title": "להוסיף משהו אישי",
-              "personal_touch_prefill": "שתף משהו במילים שלך, או בחר מחמאה מוצעת והוסף את המגע האישי שלך",
-              "take_credit_title": "קח קרדיט",
-              "take_credit_prefill": "אתה מוזמן לשתף את השם שלך, אבל גם להישאר אנונימי זה בסדר",
-              "give_gift": "לפנק את הצוות",
-              "next_page": "הפעם אוותר"
-            },
-            "gift": {
-              "people_contributed": "אנשים תרמו",
-              "progress": "התקדמות",
-              "days_running": "ימים לרוץ",
-              "custom_amount": "סכום מותאם אישית",
-              "continue_with": "להמשיך עם",
-              "dont_ask_again": "אל תשאל שוב",
-              "next_page": "אולי בפעם הבאה"
-            }
-          },
-          "report": {
-            "header": "שתף עם מנהלי צוות",
-            "team_title": "בחר צוות אחד או יותר",
-            "managers_title": "המנהלים שאליהם תועבר ההודעה",
-            "topic_title": "אני רוצה לשתף...",
-            "topic_options": [
-              {
-                "type": "complaint",
-                "name": "תלונה",
-                "image": "mdi-thumb-down"
-              },
-              {
-                "type": "compliment",
-                "name": "מחמאה",
-                "image": "mdi-charity"
-              },
-              {
-                "type": "suggestion",
-                "name": "הצעה לשיפור",
-                "image": "mdi-lightbulb-on-outline"
-              },
-              {
-                "type": "inspirational_story",
-                "name": "סיפור מעורר השראה",
-                "image": "mdi-party-popper"
-              }
-            ],
-            "input_title": "אנו מקשיבים!",
-            "input_prefill": "שתף בשפה המועדפת עליך. אנו נדאג לתרגם את דבריך. דבריך יועברו בצורה אנונימית אל המנהל. אם הינך מעוניין בעדכון סטטוס הפניה, אנא השאר פרטיך בגוף ההודעה.",
-            "attachement_error": "צירוף קבצים אינם נתמכים בשרת זה",
+            "entire_team": "כל הצוות",
+            "search_members_prefill": "חפש או הקלד שם",
+            "thanked_members_title": "הייתי רוצה להודות ל...",
             "next_page": "המשך"
           },
-          "feedback": {
-            "stats": {
-              "stat_1": "תודות",
-              "stat_2": "שיתופים ודיווחים",
-              "stat_3": "משובים"
-            },
-            "buttons": {
-              "agree": "מסכים",
-              "disagree": "לא מסכים",
-              "agree_strongly": "מסכים_strongly",
-              "disagree_strongly": "לא מסכים_strongly",
-              "neutral": "נמנע",
-              "suggest": "טעות ניסוחית",
-              "irrelevant": "לא רלוונטי"
-            },
-            "suggestion": {
-              "header": "אנו מעריכים את העזרה!",
-              "original_title": "טקסט מקורי",
-              "suggestion_title": "הצעתך",
-              "cancel": "ביטול",
-              "next_page": "שמור"
-            }
+          "note": {
+            "image": "post_thank-hebrew.png",
+            "gif": "dancing.gif",
+            "compliment_title": "תודה פשוטה עוברת דרך ארוכה - אבל לפעמים אנחנו רוצים לעבור את הקילומטר הנוסף. בחר מחמאה מוצעת ותאם אותה או כתוב את זה או כתוב משלך.",
+            "personal_touch_title": "להוסיף משהו אישי",
+            "personal_touch_prefill": "שתף משהו במילים שלך, או בחר מחמאה מוצעת והוסף את המגע האישי שלך",
+            "take_credit_title": "קח קרדיט",
+            "take_credit_prefill": "אתה מוזמן לשתף את השם שלך, אבל גם להישאר אנונימי זה בסדר",
+            "give_gift": "לפנק את הצוות",
+            "next_page": "הפעם אוותר"
+          },
+          "gift": {
+            "people_contributed": "אנשים תרמו",
+            "progress": "התקדמות",
+            "days_running": "ימים לרוץ",
+            "custom_amount": "סכום מותאם אישית",
+            "continue_with": "להמשיך עם",
+            "dont_ask_again": "אל תשאל שוב",
+            "next_page": "אולי בפעם הבאה"
           }
         },
-        "verify": {
-          "header": "המשוב הושלם!",
-          "privacy": "verify-hebrew.png",
-          "token_title": "קוד אימות",
+        "report": {
+          "header": "שתף עם מנהלי צוות",
+          "team_title": "בחר צוות אחד או יותר",
+          "managers_title": "המנהלים שאליהם תועבר ההודעה",
+          "topic_title": "אני רוצה לשתף...",
+          "topic_options": [
+            {
+              "type": "complaint",
+              "name": "תלונה",
+              "image": "mdi-thumb-down"
+            },
+            {
+              "type": "compliment",
+              "name": "מחמאה",
+              "image": "mdi-charity"
+            },
+            {
+              "type": "suggestion",
+              "name": "הצעה לשיפור",
+              "image": "mdi-lightbulb-on-outline"
+            },
+            {
+              "type": "inspirational_story",
+              "name": "סיפור מעורר השראה",
+              "image": "mdi-party-popper"
+            }
+          ],
+          "input_title": "אנו מקשיבים!",
+          "input_prefill": "שתף בשפה המועדפת עליך. אנו נדאג לתרגם את דבריך. דבריך יועברו בצורה אנונימית אל המנהל. אם הינך מעוניין בעדכון סטטוס הפניה, אנא השאר פרטיך בגוף ההודעה.",
+          "attachement_error": "צירוף קבצים אינם נתמכים בשרת זה",
+          "next_page": "המשך"
+        },
+        "feedback": {
+          "stats": {
+            "stat_1": "תודות",
+            "stat_2": "שיתופים ודיווחים",
+            "stat_3": "משובים"
+          },
           "buttons": {
-            "verify_whatsapp": "לשליחת אימות באמצעות whatsapp",
-            "verify_email": "לשליחת אימות בדואר האלקטרוני"
+            "agree": "מסכים",
+            "disagree": "לא מסכים",
+            "agree_strongly": "מסכים_strongly",
+            "disagree_strongly": "לא מסכים_strongly",
+            "neutral": "נמנע",
+            "suggest": "טעות ניסוחית",
+            "irrelevant": "לא רלוונטי"
           },
-          "message": {
-            "whatsapp": "https://wa.me/13474917585?text=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token",
-            "email": "mailto:myrep.auth@gmail.com?subject=Authentication Token&body=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token"
-          },
-          "post_verify": {
-            "header": "הוגשה של הוגש",
-            "body": "שיהיה לך יום טוב!"
+          "suggestion": {
+            "header": "אנו מעריכים את העזרה!",
+            "original_title": "טקסט מקורי",
+            "suggestion_title": "הצעתך",
+            "cancel": "ביטול",
+            "next_page": "שמור"
           }
         }
       },
-      "arabic": {
-        "select_modules": {
-          "header": "ماذا تريد ان تفعل اليوم؟",
-          "modules": {
-            "appreciate": "شكر",
-            "report": "مشاركة وتقرير",
-            "feedback": "استطلاع"
-          },
-          "tabs": {
-            "appreciate": "شكر",
-            "report": "مشاركة وتقرير",
-            "feedback": "استطلاع"
-          },
-          "tab_image": {
-            "appreciate": "tab_thank-arabic.png",
-            "report": "tab_report-arabic.png",
-            "feedback": "tab_feedback-arabic.png"
-          },
-          "disabled_module": "الميزة معطل بواسطة المسؤول",
-          "next_page": "دعنا نذهب",
-          "terms": {
-            "text:": "من خلال الاستمرار ، توافق على شروطنا وسياسة البيانات وسياسة ملفات تعريف الارتباط",
-            "url": "http://myrep.online/terms/?ver=123?lan=arabic"
-          }
+      "verify": {
+        "header": "המשוב הושלם!",
+        "privacy": "verify-hebrew.png",
+        "token_title": "קוד אימות",
+        "buttons": {
+          "verify_whatsapp": "לשליחת אימות באמצעות whatsapp",
+          "verify_email": "לשליחת אימות בדואר האלקטרוני"
         },
+        "message": {
+          "whatsapp": "https://wa.me/13474917585?text=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token",
+          "email": "mailto:myrep.auth@gmail.com?subject=Authentication Token&body=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token"
+        },
+        "post_verify": {
+          "header": "הוגשה של הוגש",
+          "body": "שיהיה לך יום טוב!"
+        }
+      }
+    },
+    "arabic": {
+      "select_modules": {
+        "header": "ماذا تريد ان تفعل اليوم؟",
         "modules": {
-          "appreciate": {
-            "thank": {
-              "header": "أظهر تقديرك مع شكر بسيط!",
-              "team_title": "اختر فريق",
-              "list_title": {
-                "list_populated": "شكر مؤخرًا",
-                "list_empty": "كن أول من يشكر"
-              },
-              "entire_team": "فريق بأكمله",
-              "search_members_prefill": "البحث أو أدخل الاسم",
-              "thanked_members_title": "اود ان اشكر",
-              "next_page": "يكمل"
+          "appreciate": "شكر",
+          "report": "مشاركة وتقرير",
+          "feedback": "استطلاع"
+        },
+        "tabs": {
+          "appreciate": "شكر",
+          "report": "مشاركة وتقرير",
+          "feedback": "استطلاع"
+        },
+        "tab_image": {
+          "appreciate": "tab_thank-arabic.png",
+          "report": "tab_report-arabic.png",
+          "feedback": "tab_feedback-arabic.png"
+        },
+        "disabled_module": "الميزة معطل بواسطة المسؤول",
+        "next_page": "دعنا نذهب",
+        "terms": {
+          "text:": "من خلال الاستمرار ، توافق على شروطنا وسياسة البيانات وسياسة ملفات تعريف الارتباط",
+          "url": "http://myrep.online/terms/?ver=123?lan=arabic"
+        }
+      },
+      "modules": {
+        "appreciate": {
+          "thank": {
+            "header": "أظهر تقديرك مع شكر بسيط!",
+            "team_title": "اختر فريق",
+            "list_title": {
+              "list_populated": "شكر مؤخرًا",
+              "list_empty": "كن أول من يشكر"
             },
-            "note": {
-              "image": "post_thank-arabic.png",
-              "gif": "dancing.gif",
-              "compliment_title": "شكر بسيط يقطع شوطًا طويلاً - لكن في بعض الأحيان نريد أن نذهب إلى أميل إضافي. حدد مجاملة مقترحة وقم بتخصيصه أو اكتب بنفسك.",
-              "personal_touch_title": "أضف لمسة شخصية",
-              "personal_touch_prefill": "شارك شيئًا في كلماتك الخاصة ، أو اختر مجاملة مقترحة وأضف لمسة الشخصية الخاصة بك",
-              "take_credit_title": "خذ الائتمان",
-              "take_credit_prefill": "خذ الفضل عن طريق إضافة اسمك هنا. اترك فارغًا وسننشر باسم الاسم المستعار.",
-              "give_gift": "تفسد الموظفين",
-              "next_page": "ربما في المرة القادمة"
-            },
-            "gift": {
-              "people_contributed": "ساهم الناس",
-              "progress": "تقدم",
-              "days_running": "أيام الجري",
-              "custom_amount": "مبلغ مخصص",
-              "continue_with": "تواصل مع",
-              "dont_ask_again": "لا تسأل مرة أخرى",
-              "next_page": "ربما في المرة القادمة"
-            }
-          },
-          "report": {
-            "header": "شارك مباشرة مع مدير الفريق",
-            "team_title": "حدد الفرق ذات الصلة",
-            "managers_title": "مديري الفريق",
-            "topic_title": "ماذا تشارك؟ (خياري)",
-            "topic_options": [
-              {
-                "type": "complaint",
-                "name": "شكوى",
-                "image": "mdi-thumb-down"
-              },
-              {
-                "type": "compliment",
-                "name": "إطراء",
-                "image": "mdi-charity"
-              },
-              {
-                "type": "suggestion",
-                "name": "اقتراح",
-                "image": "mdi-lightbulb-on-outline"
-              },
-              {
-                "type": "inspirational_story",
-                "name": "قصة ملهمة",
-                "image": "mdi-party-popper"
-              }
-            ],
-            "input_title": "نحن نستمع!",
-            "input_prefill": "شارك في لغتك المفضلة. سوف نعتني بالترجمة. يتم إرسال كل ما تشاركه إلى المدير. إذا كنت ترغب في متابعة أو يتم الاتصال بها من قبل المدير ، فيرجى التأكد من تضمين معلومات الاتصال الخاصة بك في الرسالة.",
-            "attachement_error": "لا يتم دعم المرفقات في هذا التصفح",
+            "entire_team": "فريق بأكمله",
+            "search_members_prefill": "البحث أو أدخل الاسم",
+            "thanked_members_title": "اود ان اشكر",
             "next_page": "يكمل"
           },
-          "feedback": {
-            "stats": {
-              "stat_1": "شكرًا لك",
-              "stat_2": "مشاركة وتقرير",
-              "stat_3": "استطلاع"
-            },
-            "buttons": {
-              "agree": "يوافق",
-              "disagree": "تعارض",
-              "agree_strongly": "يوافق_strongly",
-              "disagree_strongly": "تعارض_strongly",
-              "neutral": "حيادي",
-              "suggest": "خطأ نحوي",
-              "irrelevant": "عَرَضِيّ"
-            },
-            "suggestion": {
-              "header": "نحن نقدر المساعدة!",
-              "original_title": "البيان الأصلي",
-              "suggestion_title": "كيف يجب صياغتها؟",
-              "cancel": "يلغي",
-              "next_page": "يحفظ"
-            }
+          "note": {
+            "image": "post_thank-arabic.png",
+            "gif": "dancing.gif",
+            "compliment_title": "شكر بسيط يقطع شوطًا طويلاً - لكن في بعض الأحيان نريد أن نذهب إلى أميل إضافي. حدد مجاملة مقترحة وقم بتخصيصه أو اكتب بنفسك.",
+            "personal_touch_title": "أضف لمسة شخصية",
+            "personal_touch_prefill": "شارك شيئًا في كلماتك الخاصة ، أو اختر مجاملة مقترحة وأضف لمسة الشخصية الخاصة بك",
+            "take_credit_title": "خذ الائتمان",
+            "take_credit_prefill": "خذ الفضل عن طريق إضافة اسمك هنا. اترك فارغًا وسننشر باسم الاسم المستعار.",
+            "give_gift": "تفسد الموظفين",
+            "next_page": "ربما في المرة القادمة"
+          },
+          "gift": {
+            "people_contributed": "ساهم الناس",
+            "progress": "تقدم",
+            "days_running": "أيام الجري",
+            "custom_amount": "مبلغ مخصص",
+            "continue_with": "تواصل مع",
+            "dont_ask_again": "لا تسأل مرة أخرى",
+            "next_page": "ربما في المرة القادمة"
           }
         },
-        "verify": {
-          "header": "الانتهاء من ردود الفعل!",
-          "privacy": "verify-arabic.png",
-          "token_title": "رمز OTP",
+        "report": {
+          "header": "شارك مباشرة مع مدير الفريق",
+          "team_title": "حدد الفرق ذات الصلة",
+          "managers_title": "مديري الفريق",
+          "topic_title": "ماذا تشارك؟ (خياري)",
+          "topic_options": [
+            {
+              "type": "complaint",
+              "name": "شكوى",
+              "image": "mdi-thumb-down"
+            },
+            {
+              "type": "compliment",
+              "name": "إطراء",
+              "image": "mdi-charity"
+            },
+            {
+              "type": "suggestion",
+              "name": "اقتراح",
+              "image": "mdi-lightbulb-on-outline"
+            },
+            {
+              "type": "inspirational_story",
+              "name": "قصة ملهمة",
+              "image": "mdi-party-popper"
+            }
+          ],
+          "input_title": "نحن نستمع!",
+          "input_prefill": "شارك في لغتك المفضلة. سوف نعتني بالترجمة. يتم إرسال كل ما تشاركه إلى المدير. إذا كنت ترغب في متابعة أو يتم الاتصال بها من قبل المدير ، فيرجى التأكد من تضمين معلومات الاتصال الخاصة بك في الرسالة.",
+          "attachement_error": "لا يتم دعم المرفقات في هذا التصفح",
+          "next_page": "يكمل"
+        },
+        "feedback": {
+          "stats": {
+            "stat_1": "شكرًا لك",
+            "stat_2": "مشاركة وتقرير",
+            "stat_3": "استطلاع"
+          },
           "buttons": {
-            "verify_whatsapp": "أرسل OTP عبر WhatsApp",
-            "verify_email": "أرسل OTP عبر البريد الإلكتروني"
+            "agree": "يوافق",
+            "disagree": "تعارض",
+            "agree_strongly": "يوافق_strongly",
+            "disagree_strongly": "تعارض_strongly",
+            "neutral": "حيادي",
+            "suggest": "خطأ نحوي",
+            "irrelevant": "عَرَضِيّ"
           },
-          "message": {
-            "whatsapp": "https://wa.me/13474917585?text=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token",
-            "email": "mailto:myrep.auth@gmail.com?subject=Authentication Token&body=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token"
-          },
-          "post_verify": {
-            "header": "تم تقديم التحديد",
-            "body": "أتمنى لك يوماً عظيماً!"
+          "suggestion": {
+            "header": "نحن نقدر المساعدة!",
+            "original_title": "البيان الأصلي",
+            "suggestion_title": "كيف يجب صياغتها؟",
+            "cancel": "يلغي",
+            "next_page": "يحفظ"
           }
         }
       },
-      "russian": {
-        "select_modules": {
-          "header": "Чем бы вы хотели заняться сегодня?",
-          "modules": {
-            "appreciate": "БЛАГОДАРИТЬ",
-            "report": "Поделиться и отчет",
-            "feedback": "ОПРОС"
-          },
-          "tabs": {
-            "appreciate": "БЛАГОДАРИТЬ",
-            "report": "Поделиться и отчет",
-            "feedback": "ОПРОС"
-          },
-          "tab_image": {
-            "appreciate": "tab_thank-russian.png",
-            "report": "tab_report-russian.png",
-            "feedback": "tab_feedback-russian.png"
-          },
-          "disabled_module": "функция отключена администратором",
-          "next_page": "Пойдем",
-          "terms": {
-            "text:": "Продолжая, вы соглашаетесь с нашими условиями, политикой данных и политикой cookie",
-            "url": "http://myrep.online/terms/?ver=123?lan=russian"
-          }
+      "verify": {
+        "header": "الانتهاء من ردود الفعل!",
+        "privacy": "verify-arabic.png",
+        "token_title": "رمز OTP",
+        "buttons": {
+          "verify_whatsapp": "أرسل OTP عبر WhatsApp",
+          "verify_email": "أرسل OTP عبر البريد الإلكتروني"
         },
+        "message": {
+          "whatsapp": "https://wa.me/13474917585?text=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token",
+          "email": "mailto:myrep.auth@gmail.com?subject=Authentication Token&body=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token"
+        },
+        "post_verify": {
+          "header": "تم تقديم التحديد",
+          "body": "أتمنى لك يوماً عظيماً!"
+        }
+      }
+    },
+    "russian": {
+      "select_modules": {
+        "header": "Чем бы вы хотели заняться сегодня?",
         "modules": {
-          "appreciate": {
-            "thank": {
-              "header": "Покажите свою признательность простым спасибо!",
-              "team_title": "Выбрать команду",
-              "list_title": {
-                "list_populated": "Недавно поблагодарил",
-                "list_empty": "Будьте первым, поблагодарим"
-              },
-              "entire_team": "Вся команда",
-              "search_members_prefill": "Поиск или введите имя",
-              "thanked_members_title": "Я хотел бы поблагодарить",
-              "next_page": "ПРОДОЛЖАТЬ"
+          "appreciate": "БЛАГОДАРИТЬ",
+          "report": "Поделиться и отчет",
+          "feedback": "ОПРОС"
+        },
+        "tabs": {
+          "appreciate": "БЛАГОДАРИТЬ",
+          "report": "Поделиться и отчет",
+          "feedback": "ОПРОС"
+        },
+        "tab_image": {
+          "appreciate": "tab_thank-russian.png",
+          "report": "tab_report-russian.png",
+          "feedback": "tab_feedback-russian.png"
+        },
+        "disabled_module": "функция отключена администратором",
+        "next_page": "Пойдем",
+        "terms": {
+          "text:": "Продолжая, вы соглашаетесь с нашими условиями, политикой данных и политикой cookie",
+          "url": "http://myrep.online/terms/?ver=123?lan=russian"
+        }
+      },
+      "modules": {
+        "appreciate": {
+          "thank": {
+            "header": "Покажите свою признательность простым спасибо!",
+            "team_title": "Выбрать команду",
+            "list_title": {
+              "list_populated": "Недавно поблагодарил",
+              "list_empty": "Будьте первым, поблагодарим"
             },
-            "note": {
-              "image": "post_thank-russian.png",
-              "gif": "dancing.gif",
-              "compliment_title": "Простая благодарность вам очень нравится, но иногда мы хотим пройти лишнюю милю. Выберите предлагаемый комплимент и персонализируйте его или напишите свой собственный.",
-              "personal_touch_title": "Добавить индивидуальный подход",
-              "personal_touch_prefill": "Поделитесь чем -нибудь своими словами или выберите предложенный комплимент и добавьте свой личный контакт",
-              "take_credit_title": "Взять кредит",
-              "take_credit_prefill": "Возьмите кредит, добавив свое имя здесь. Оставьте пустым, и мы опубликуем с псевдонимом.",
-              "give_gift": "Испортить персонал",
-              "next_page": "ВОЗМОЖНО, В СЛЕДУЮЩИЙ РАЗ"
-            },
-            "gift": {
-              "people_contributed": "Люди внесли свой вклад",
-              "progress": "Прогресс",
-              "days_running": "Дни пробега",
-              "custom_amount": "Пользовательская сумма",
-              "continue_with": "Продолжить с",
-              "dont_ask_again": "Не спрашивай снова",
-              "next_page": "ВОЗМОЖНО, В СЛЕДУЮЩИЙ РАЗ"
-            }
-          },
-          "report": {
-            "header": "Поделиться напрямую с менеджером команды",
-            "team_title": "Выберите соответствующие команды",
-            "managers_title": "Менеджеры команды",
-            "topic_title": "Чем вы делитесь? (необязательный)",
-            "topic_options": [
-              {
-                "type": "complaint",
-                "name": "Жалоба",
-                "image": "mdi-thumb-down"
-              },
-              {
-                "type": "compliment",
-                "name": "Комплимент",
-                "image": "mdi-charity"
-              },
-              {
-                "type": "suggestion",
-                "name": "Предположение",
-                "image": "mdi-lightbulb-on-outline"
-              },
-              {
-                "type": "inspirational_story",
-                "name": "Вдохновляющая история",
-                "image": "mdi-party-popper"
-              }
-            ],
-            "input_title": "Мы слушаем!",
-            "input_prefill": "Поделиться на предпочтительном языке. Мы позаботимся о переводе. Все, что вы делитесь, отправляется в качестве менеджера. Если вы хотите продолжить или связаться с менеджером, пожалуйста, обязательно включите вашу контактную информацию в сообщение.",
-            "attachement_error": "Вложения не поддерживаются в этом просмотре",
+            "entire_team": "Вся команда",
+            "search_members_prefill": "Поиск или введите имя",
+            "thanked_members_title": "Я хотел бы поблагодарить",
             "next_page": "ПРОДОЛЖАТЬ"
           },
-          "feedback": {
-            "stats": {
-              "stat_1": "Спасибо",
-              "stat_2": "Поделиться и отчет",
-              "stat_3": "Опрос"
-            },
-            "buttons": {
-              "agree": "СОГЛАШАТЬСЯ",
-              "disagree": "Не согласен",
-              "agree_strongly": "СОГЛАШАТЬСЯ_strongly",
-              "disagree_strongly": "Не согласен_strongly",
-              "neutral": "Нейтральный",
-              "suggest": "Грамматическая ошибка",
-              "irrelevant": "Не имеющий отношения"
-            },
-            "suggestion": {
-              "header": "Мы ценим помощь!",
-              "original_title": "Оригинальное заявление",
-              "suggestion_title": "Как это следует сформулировать?",
-              "cancel": "Отмена",
-              "next_page": "Сохранять"
-            }
+          "note": {
+            "image": "post_thank-russian.png",
+            "gif": "dancing.gif",
+            "compliment_title": "Простая благодарность вам очень нравится, но иногда мы хотим пройти лишнюю милю. Выберите предлагаемый комплимент и персонализируйте его или напишите свой собственный.",
+            "personal_touch_title": "Добавить индивидуальный подход",
+            "personal_touch_prefill": "Поделитесь чем -нибудь своими словами или выберите предложенный комплимент и добавьте свой личный контакт",
+            "take_credit_title": "Взять кредит",
+            "take_credit_prefill": "Возьмите кредит, добавив свое имя здесь. Оставьте пустым, и мы опубликуем с псевдонимом.",
+            "give_gift": "Испортить персонал",
+            "next_page": "ВОЗМОЖНО, В СЛЕДУЮЩИЙ РАЗ"
+          },
+          "gift": {
+            "people_contributed": "Люди внесли свой вклад",
+            "progress": "Прогресс",
+            "days_running": "Дни пробега",
+            "custom_amount": "Пользовательская сумма",
+            "continue_with": "Продолжить с",
+            "dont_ask_again": "Не спрашивай снова",
+            "next_page": "ВОЗМОЖНО, В СЛЕДУЮЩИЙ РАЗ"
           }
         },
-        "verify": {
-          "header": "Отзыв завершена!",
-          "privacy": "verify-russian.png",
-          "token_title": "Токен OTP",
+        "report": {
+          "header": "Поделиться напрямую с менеджером команды",
+          "team_title": "Выберите соответствующие команды",
+          "managers_title": "Менеджеры команды",
+          "topic_title": "Чем вы делитесь? (необязательный)",
+          "topic_options": [
+            {
+              "type": "complaint",
+              "name": "Жалоба",
+              "image": "mdi-thumb-down"
+            },
+            {
+              "type": "compliment",
+              "name": "Комплимент",
+              "image": "mdi-charity"
+            },
+            {
+              "type": "suggestion",
+              "name": "Предположение",
+              "image": "mdi-lightbulb-on-outline"
+            },
+            {
+              "type": "inspirational_story",
+              "name": "Вдохновляющая история",
+              "image": "mdi-party-popper"
+            }
+          ],
+          "input_title": "Мы слушаем!",
+          "input_prefill": "Поделиться на предпочтительном языке. Мы позаботимся о переводе. Все, что вы делитесь, отправляется в качестве менеджера. Если вы хотите продолжить или связаться с менеджером, пожалуйста, обязательно включите вашу контактную информацию в сообщение.",
+          "attachement_error": "Вложения не поддерживаются в этом просмотре",
+          "next_page": "ПРОДОЛЖАТЬ"
+        },
+        "feedback": {
+          "stats": {
+            "stat_1": "Спасибо",
+            "stat_2": "Поделиться и отчет",
+            "stat_3": "Опрос"
+          },
           "buttons": {
-            "verify_whatsapp": "Отправить OTP через WhatsApp",
-            "verify_email": "Отправить OTP по электронной почте"
+            "agree": "СОГЛАШАТЬСЯ",
+            "disagree": "Не согласен",
+            "agree_strongly": "СОГЛАШАТЬСЯ_strongly",
+            "disagree_strongly": "Не согласен_strongly",
+            "neutral": "Нейтральный",
+            "suggest": "Грамматическая ошибка",
+            "irrelevant": "Не имеющий отношения"
           },
-          "message": {
-            "whatsapp": "https://wa.me/13474917585?text=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token",
-            "email": "mailto:myrep.auth@gmail.com?subject=Authentication Token&body=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token"
-          },
-          "post_verify": {
-            "header": "Веркирование представлено",
-            "body": "Хорошего дня!"
+          "suggestion": {
+            "header": "Мы ценим помощь!",
+            "original_title": "Оригинальное заявление",
+            "suggestion_title": "Как это следует сформулировать?",
+            "cancel": "Отмена",
+            "next_page": "Сохранять"
           }
         }
       },
-      "amharic": {
-        "select_modules": {
-          "header": "ዛሬ ምን ማድረግ ይፈልጋሉ?",
-          "modules": {
-            "appreciate": "አመሰግናለሁ",
-            "report": "ያጋሩ & ሪፖርት ያድርጉ",
-            "feedback": "የዳሰሳ ጥናት"
-          },
-          "tabs": {
-            "appreciate": "አመሰግናለሁ",
-            "report": "ያጋሩ & ሪፖርት ያድርጉ",
-            "feedback": "የዳሰሳ ጥናት"
-          },
-          "tab_image": {
-            "appreciate": "tab_thank-amharic.png",
-            "report": "tab_report-amharic.png",
-            "feedback": "tab_feedback-amharic.png"
-          },
-          "disabled_module": "በአስተዳዳሪ የተሰናከለ ባህሪ",
-          "next_page": "እንሂድ",
-          "terms": {
-            "text:": "በመቀጠል በቀጣይ, በእኛ ውሎች, የውሂብ ፖሊሲ ​​እና በኩኪ ፖሊሲ እስማማለሁ",
-            "url": "http://myrep.online/terms/?ver=123?lan=amharic"
-          }
+      "verify": {
+        "header": "Отзыв завершена!",
+        "privacy": "verify-russian.png",
+        "token_title": "Токен OTP",
+        "buttons": {
+          "verify_whatsapp": "Отправить OTP через WhatsApp",
+          "verify_email": "Отправить OTP по электронной почте"
         },
+        "message": {
+          "whatsapp": "https://wa.me/13474917585?text=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token",
+          "email": "mailto:myrep.auth@gmail.com?subject=Authentication Token&body=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token"
+        },
+        "post_verify": {
+          "header": "Веркирование представлено",
+          "body": "Хорошего дня!"
+        }
+      }
+    },
+    "amharic": {
+      "select_modules": {
+        "header": "ዛሬ ምን ማድረግ ይፈልጋሉ?",
         "modules": {
-          "appreciate": {
-            "thank": {
-              "header": "በአዕምሯዊ ምስጋና አክብሮትዎን ያሳዩ!",
-              "team_title": "ቡድን ይምረጡ",
-              "list_title": {
-                "list_populated": "በቅርቡ አመስግኗል",
-                "list_empty": "ለማመስገን የመጀመሪያ ይሁኑ"
-              },
-              "entire_team": "መላው ቡድን",
-              "search_members_prefill": "ፈልግ ወይም ስም ያስገቡ",
-              "thanked_members_title": "ማመስገን እፈልጋለሁ",
-              "next_page": "ቀጥል"
+          "appreciate": "አመሰግናለሁ",
+          "report": "ያጋሩ & ሪፖርት ያድርጉ",
+          "feedback": "የዳሰሳ ጥናት"
+        },
+        "tabs": {
+          "appreciate": "አመሰግናለሁ",
+          "report": "ያጋሩ & ሪፖርት ያድርጉ",
+          "feedback": "የዳሰሳ ጥናት"
+        },
+        "tab_image": {
+          "appreciate": "tab_thank-amharic.png",
+          "report": "tab_report-amharic.png",
+          "feedback": "tab_feedback-amharic.png"
+        },
+        "disabled_module": "በአስተዳዳሪ የተሰናከለ ባህሪ",
+        "next_page": "እንሂድ",
+        "terms": {
+          "text:": "በመቀጠል በቀጣይ, በእኛ ውሎች, የውሂብ ፖሊሲ ​​እና በኩኪ ፖሊሲ እስማማለሁ",
+          "url": "http://myrep.online/terms/?ver=123?lan=amharic"
+        }
+      },
+      "modules": {
+        "appreciate": {
+          "thank": {
+            "header": "በአዕምሯዊ ምስጋና አክብሮትዎን ያሳዩ!",
+            "team_title": "ቡድን ይምረጡ",
+            "list_title": {
+              "list_populated": "በቅርቡ አመስግኗል",
+              "list_empty": "ለማመስገን የመጀመሪያ ይሁኑ"
             },
-            "note": {
-              "image": "post_thank-amharic.png",
-              "gif": "dancing.gif",
-              "compliment_title": "ቀላል እናመሰግናለን ረጅም መንገድ ይሄዳሉ - ግን አንዳንድ ጊዜ ተጨማሪ ማይል መሄድ እንፈልጋለን. የተጠቆመው የምስጋና የምስጋና የምስጋና እና ግላዊነትን ይምረጡ ወይም የራስዎን ይፃፉ.",
-              "personal_touch_title": "የግል ንክኪ ያክሉ",
-              "personal_touch_prefill": "የሆነ ነገር በራስዎ ቃላት ያጋሩ, ወይም የተጠቆመ ምስጋና ይምረጡ እና የግል ንክኪዎን ያክሉ",
-              "take_credit_title": "ዱቤ ይውሰዱ",
-              "take_credit_prefill": "ስምዎን እዚህ በመጨመር ብድር ይውሰዱ. ባዶ ይተው እና ከአለባበስ ስም ጋር እንለጥፋለን.",
-              "give_gift": "ሰራተኞቹን ያበላሻሉ",
-              "next_page": "ምናልባት በሚቀጥለው ጊዜ"
-            },
-            "gift": {
-              "people_contributed": "ሰዎች አስተዋጽኦ አድርገዋል",
-              "progress": "እድገት",
-              "days_running": "ቀናት የሚሮጡ ቀናት",
-              "custom_amount": "ብጁ መጠን",
-              "continue_with": "ቀጥል",
-              "dont_ask_again": "እንደገና አይጠይቁ",
-              "next_page": "ምናልባት በሚቀጥለው ጊዜ"
-            }
-          },
-          "report": {
-            "header": "በቀጥታ ከቡድኑ ሥራ አስኪያጅ ጋር ያጋሩ",
-            "team_title": "ተገቢ የሆኑ ቡድኖችን ይምረጡ",
-            "managers_title": "የቡድን ሥራ አስኪያጆች",
-            "topic_title": "ምን እያጋሩ ነው? (ከተፈለገ)",
-            "topic_options": [
-              {
-                "type": "complaint",
-                "name": "ቅሬታ",
-                "image": "mdi-thumb-down"
-              },
-              {
-                "type": "compliment",
-                "name": "ማመስገን",
-                "image": "mdi-charity"
-              },
-              {
-                "type": "suggestion",
-                "name": "ጥቆማ",
-                "image": "mdi-lightbulb-on-outline"
-              },
-              {
-                "type": "inspirational_story",
-                "name": "አነቃቂ ታሪክ",
-                "image": "mdi-party-popper"
-              }
-            ],
-            "input_title": "እኛ እንሰማለን!",
-            "input_prefill": "በቅድሚያ ቋንቋዎ ይራመዱ. የትርጉም ሥራውን እንጠብቃለን. ያጋሩት ነገር ሁሉ በአስተያባሪው የተላከ ነው. ተከታይ ከፈለጉ ወይም በአስተዳዳሪው እንዲገናኝ ከፈለጉ እባክዎን በመልዕክቱ ውስጥ የእውቂያ መረጃዎን ማካተትዎን ያረጋግጡ.",
-            "attachement_error": "አባሪዎች በዚህ ማሰስ ውስጥ አይደገፉም",
+            "entire_team": "መላው ቡድን",
+            "search_members_prefill": "ፈልግ ወይም ስም ያስገቡ",
+            "thanked_members_title": "ማመስገን እፈልጋለሁ",
             "next_page": "ቀጥል"
           },
-          "feedback": {
-            "stats": {
-              "stat_1": "አመሰግናለሁ",
-              "stat_2": "ያጋሩ & ሪፖርት ያድርጉ",
-              "stat_3": "የዳሰሳ ጥናት"
-            },
-            "buttons": {
-              "agree": "እስማማለሁ",
-              "disagree": "አለመግባባት",
-              "agree_strongly": "እስማማለሁ_strongly",
-              "disagree_strongly": "አለመግባባት_strongly",
-              "neutral": "ገለልተኛ",
-              "suggest": "ሰዋሰዋዊ ስህተት",
-              "irrelevant": "አስፈላጊ ያልሆነ"
-            },
-            "suggestion": {
-              "header": "እኛ እርዳታ እናደንቃለን!",
-              "original_title": "የመጀመሪያ መግለጫ",
-              "suggestion_title": "ቃል መናገሩን እንዴት ያስፈልጋል?",
-              "cancel": "ይቅር",
-              "next_page": "አስቀምጥ"
-            }
+          "note": {
+            "image": "post_thank-amharic.png",
+            "gif": "dancing.gif",
+            "compliment_title": "ቀላል እናመሰግናለን ረጅም መንገድ ይሄዳሉ - ግን አንዳንድ ጊዜ ተጨማሪ ማይል መሄድ እንፈልጋለን. የተጠቆመው የምስጋና የምስጋና የምስጋና እና ግላዊነትን ይምረጡ ወይም የራስዎን ይፃፉ.",
+            "personal_touch_title": "የግል ንክኪ ያክሉ",
+            "personal_touch_prefill": "የሆነ ነገር በራስዎ ቃላት ያጋሩ, ወይም የተጠቆመ ምስጋና ይምረጡ እና የግል ንክኪዎን ያክሉ",
+            "take_credit_title": "ዱቤ ይውሰዱ",
+            "take_credit_prefill": "ስምዎን እዚህ በመጨመር ብድር ይውሰዱ. ባዶ ይተው እና ከአለባበስ ስም ጋር እንለጥፋለን.",
+            "give_gift": "ሰራተኞቹን ያበላሻሉ",
+            "next_page": "ምናልባት በሚቀጥለው ጊዜ"
+          },
+          "gift": {
+            "people_contributed": "ሰዎች አስተዋጽኦ አድርገዋል",
+            "progress": "እድገት",
+            "days_running": "ቀናት የሚሮጡ ቀናት",
+            "custom_amount": "ብጁ መጠን",
+            "continue_with": "ቀጥል",
+            "dont_ask_again": "እንደገና አይጠይቁ",
+            "next_page": "ምናልባት በሚቀጥለው ጊዜ"
           }
         },
-        "verify": {
-          "header": "ግብረመልስ ተጠናቅቋል!",
-          "privacy": "verify-amharic.png",
-          "token_title": "OTP ማስመሰያ",
+        "report": {
+          "header": "በቀጥታ ከቡድኑ ሥራ አስኪያጅ ጋር ያጋሩ",
+          "team_title": "ተገቢ የሆኑ ቡድኖችን ይምረጡ",
+          "managers_title": "የቡድን ሥራ አስኪያጆች",
+          "topic_title": "ምን እያጋሩ ነው? (ከተፈለገ)",
+          "topic_options": [
+            {
+              "type": "complaint",
+              "name": "ቅሬታ",
+              "image": "mdi-thumb-down"
+            },
+            {
+              "type": "compliment",
+              "name": "ማመስገን",
+              "image": "mdi-charity"
+            },
+            {
+              "type": "suggestion",
+              "name": "ጥቆማ",
+              "image": "mdi-lightbulb-on-outline"
+            },
+            {
+              "type": "inspirational_story",
+              "name": "አነቃቂ ታሪክ",
+              "image": "mdi-party-popper"
+            }
+          ],
+          "input_title": "እኛ እንሰማለን!",
+          "input_prefill": "በቅድሚያ ቋንቋዎ ይራመዱ. የትርጉም ሥራውን እንጠብቃለን. ያጋሩት ነገር ሁሉ በአስተያባሪው የተላከ ነው. ተከታይ ከፈለጉ ወይም በአስተዳዳሪው እንዲገናኝ ከፈለጉ እባክዎን በመልዕክቱ ውስጥ የእውቂያ መረጃዎን ማካተትዎን ያረጋግጡ.",
+          "attachement_error": "አባሪዎች በዚህ ማሰስ ውስጥ አይደገፉም",
+          "next_page": "ቀጥል"
+        },
+        "feedback": {
+          "stats": {
+            "stat_1": "አመሰግናለሁ",
+            "stat_2": "ያጋሩ & ሪፖርት ያድርጉ",
+            "stat_3": "የዳሰሳ ጥናት"
+          },
           "buttons": {
-            "verify_whatsapp": "OTP ን በ WhatsApp በኩል ይላኩ",
-            "verify_email": "በኢሜል በኩል ኦቲፒ ይላኩ"
+            "agree": "እስማማለሁ",
+            "disagree": "አለመግባባት",
+            "agree_strongly": "እስማማለሁ_strongly",
+            "disagree_strongly": "አለመግባባት_strongly",
+            "neutral": "ገለልተኛ",
+            "suggest": "ሰዋሰዋዊ ስህተት",
+            "irrelevant": "አስፈላጊ ያልሆነ"
           },
-          "message": {
-            "whatsapp": "https://wa.me/13474917585?text=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token",
-            "email": "mailto:myrep.auth@gmail.com?subject=Authentication Token&body=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token"
-          },
-          "post_verify": {
-            "header": "ገብቷል",
-            "body": "መልካም ቀን ይሁንልዎ!"
+          "suggestion": {
+            "header": "እኛ እርዳታ እናደንቃለን!",
+            "original_title": "የመጀመሪያ መግለጫ",
+            "suggestion_title": "ቃል መናገሩን እንዴት ያስፈልጋል?",
+            "cancel": "ይቅር",
+            "next_page": "አስቀምጥ"
           }
         }
       },
-      "filipino": {
-        "select_modules": {
-          "header": "Ano ang nais mong gawin ngayon?",
-          "modules": {
-            "appreciate": "Salamat",
-            "report": "Ibahagi at Ulat",
-            "feedback": "Survey"
-          },
-          "tabs": {
-            "appreciate": "Salamat",
-            "report": "Ibahagi at Ulat",
-            "feedback": "Survey"
-          },
-          "tab_image": {
-            "appreciate": "tab_thank-filipino.png",
-            "report": "tab_report-filipino.png",
-            "feedback": "tab_feedback-filipino.png"
-          },
-          "disabled_module": "tampok na hindi pinagana ng admin",
-          "next_page": "Tayo na",
-          "terms": {
-            "text:": "Sa pamamagitan ng pagpapatuloy sumasang -ayon ka sa aming mga termino, patakaran ng data at patakaran sa cookie",
-            "url": "http://myrep.online/terms/?ver=123?lan=filipino"
-          }
+      "verify": {
+        "header": "ግብረመልስ ተጠናቅቋል!",
+        "privacy": "verify-amharic.png",
+        "token_title": "OTP ማስመሰያ",
+        "buttons": {
+          "verify_whatsapp": "OTP ን በ WhatsApp በኩል ይላኩ",
+          "verify_email": "በኢሜል በኩል ኦቲፒ ይላኩ"
         },
+        "message": {
+          "whatsapp": "https://wa.me/13474917585?text=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token",
+          "email": "mailto:myrep.auth@gmail.com?subject=Authentication Token&body=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token"
+        },
+        "post_verify": {
+          "header": "ገብቷል",
+          "body": "መልካም ቀን ይሁንልዎ!"
+        }
+      }
+    },
+    "filipino": {
+      "select_modules": {
+        "header": "Ano ang nais mong gawin ngayon?",
         "modules": {
-          "appreciate": {
-            "thank": {
-              "header": "Ipakita ang iyong pagpapahalaga sa isang simpleng salamat!",
-              "team_title": "Piliin ang grupo",
-              "list_title": {
-                "list_populated": "Kamakailan lamang ay nagpasalamat",
-                "list_empty": "Maging unang nagpapasalamat"
-              },
-              "entire_team": "Buong koponan",
-              "search_members_prefill": "Maghanap o magpasok ng pangalan",
-              "thanked_members_title": "gusto kong pasalamatan",
-              "next_page": "Magpatuloy"
+          "appreciate": "Salamat",
+          "report": "Ibahagi at Ulat",
+          "feedback": "Survey"
+        },
+        "tabs": {
+          "appreciate": "Salamat",
+          "report": "Ibahagi at Ulat",
+          "feedback": "Survey"
+        },
+        "tab_image": {
+          "appreciate": "tab_thank-filipino.png",
+          "report": "tab_report-filipino.png",
+          "feedback": "tab_feedback-filipino.png"
+        },
+        "disabled_module": "tampok na hindi pinagana ng admin",
+        "next_page": "Tayo na",
+        "terms": {
+          "text:": "Sa pamamagitan ng pagpapatuloy sumasang -ayon ka sa aming mga termino, patakaran ng data at patakaran sa cookie",
+          "url": "http://myrep.online/terms/?ver=123?lan=filipino"
+        }
+      },
+      "modules": {
+        "appreciate": {
+          "thank": {
+            "header": "Ipakita ang iyong pagpapahalaga sa isang simpleng salamat!",
+            "team_title": "Piliin ang grupo",
+            "list_title": {
+              "list_populated": "Kamakailan lamang ay nagpasalamat",
+              "list_empty": "Maging unang nagpapasalamat"
             },
-            "note": {
-              "image": "post_thank-filipino.png",
-              "gif": "dancing.gif",
-              "compliment_title": "Ang isang simpleng pasasalamat ay napupunta sa isang mahabang paraan - ngunit kung minsan nais naming pumunta sa sobrang milya. Pumili ng isang iminungkahing papuri at i -personalize ito o isulat ang iyong sarili.",
-              "personal_touch_title": "Magdagdag ng isang personal na ugnay",
-              "personal_touch_prefill": "Magbahagi ng isang bagay sa iyong sariling mga salita, o pumili ng isang iminungkahing papuri at idagdag ang iyong personal na ugnay",
-              "take_credit_title": "Pag-ako, inako, inaako",
-              "take_credit_prefill": "Kumuha ng kredito sa pamamagitan ng pagdaragdag ng iyong pangalan dito. Mag -iwan ng walang laman at magpo -post kami ng isang pangalan ng alias.",
-              "give_gift": "Spoil ang staff",
-              "next_page": "Siguro sa susunod"
-            },
-            "gift": {
-              "people_contributed": "Nag -ambag ang mga tao",
-              "progress": "Pag -unlad",
-              "days_running": "Mga araw na tumatakbo",
-              "custom_amount": "Pasadyang halaga",
-              "continue_with": "Magpatuloy sa",
-              "dont_ask_again": "Huwag kang magtanong muli",
-              "next_page": "Siguro sa susunod"
-            }
-          },
-          "report": {
-            "header": "Direktang magbahagi sa manager ng koponan",
-            "team_title": "Piliin ang Mga Kaugnay na Koponan",
-            "managers_title": "Team Managers",
-            "topic_title": "Ano ang ibinabahagi mo? (opsyonal)",
-            "topic_options": [
-              {
-                "type": "complaint",
-                "name": "Reklamo",
-                "image": "mdi-thumb-down"
-              },
-              {
-                "type": "compliment",
-                "name": "Papuri",
-                "image": "mdi-charity"
-              },
-              {
-                "type": "suggestion",
-                "name": "Mungkahi",
-                "image": "mdi-lightbulb-on-outline"
-              },
-              {
-                "type": "inspirational_story",
-                "name": "Kuwento ng inspirasyon",
-                "image": "mdi-party-popper"
-              }
-            ],
-            "input_title": "Nakikinig kami!",
-            "input_prefill": "Ibahagi sa iyong ginustong wika. Aalagaan namin ang pagsasalin. Lahat ng iyong ibinabahagi ay ipinadala anonoylously sa manager. Kung nais mo ng isang followup o makontak ng manager, mangyaring tiyaking isama ang iyong impormasyon sa pakikipag -ugnay sa mensahe.",
-            "attachement_error": "Ang mga kalakip ay hindi suportado sa pag -browse na ito",
+            "entire_team": "Buong koponan",
+            "search_members_prefill": "Maghanap o magpasok ng pangalan",
+            "thanked_members_title": "gusto kong pasalamatan",
             "next_page": "Magpatuloy"
           },
-          "feedback": {
-            "stats": {
-              "stat_1": "Salamat",
-              "stat_2": "Ibahagi at Ulat",
-              "stat_3": "Survey"
-            },
-            "buttons": {
-              "agree": "Sumang -ayon",
-              "disagree": "Hindi sumasang -ayon",
-              "agree_strongly": "Sumang -ayon_strongly",
-              "disagree_strongly": "Hindi sumasang -ayon_strongly",
-              "neutral": "Neutral",
-              "suggest": "Error sa gramatika",
-              "irrelevant": "Hindi nauugnay"
-            },
-            "suggestion": {
-              "header": "Pinahahalagahan namin ang tulong!",
-              "original_title": "Orihinal na pahayag",
-              "suggestion_title": "Paano ito dapat sabihin?",
-              "cancel": "Kanselahin",
-              "next_page": "I -save"
-            }
+          "note": {
+            "image": "post_thank-filipino.png",
+            "gif": "dancing.gif",
+            "compliment_title": "Ang isang simpleng pasasalamat ay napupunta sa isang mahabang paraan - ngunit kung minsan nais naming pumunta sa sobrang milya. Pumili ng isang iminungkahing papuri at i -personalize ito o isulat ang iyong sarili.",
+            "personal_touch_title": "Magdagdag ng isang personal na ugnay",
+            "personal_touch_prefill": "Magbahagi ng isang bagay sa iyong sariling mga salita, o pumili ng isang iminungkahing papuri at idagdag ang iyong personal na ugnay",
+            "take_credit_title": "Pag-ako, inako, inaako",
+            "take_credit_prefill": "Kumuha ng kredito sa pamamagitan ng pagdaragdag ng iyong pangalan dito. Mag -iwan ng walang laman at magpo -post kami ng isang pangalan ng alias.",
+            "give_gift": "Spoil ang staff",
+            "next_page": "Siguro sa susunod"
+          },
+          "gift": {
+            "people_contributed": "Nag -ambag ang mga tao",
+            "progress": "Pag -unlad",
+            "days_running": "Mga araw na tumatakbo",
+            "custom_amount": "Pasadyang halaga",
+            "continue_with": "Magpatuloy sa",
+            "dont_ask_again": "Huwag kang magtanong muli",
+            "next_page": "Siguro sa susunod"
           }
         },
-        "verify": {
-          "header": "Natapos ang feedback!",
-          "privacy": "verify-filipino.png",
-          "token_title": "OTP token",
+        "report": {
+          "header": "Direktang magbahagi sa manager ng koponan",
+          "team_title": "Piliin ang Mga Kaugnay na Koponan",
+          "managers_title": "Team Managers",
+          "topic_title": "Ano ang ibinabahagi mo? (opsyonal)",
+          "topic_options": [
+            {
+              "type": "complaint",
+              "name": "Reklamo",
+              "image": "mdi-thumb-down"
+            },
+            {
+              "type": "compliment",
+              "name": "Papuri",
+              "image": "mdi-charity"
+            },
+            {
+              "type": "suggestion",
+              "name": "Mungkahi",
+              "image": "mdi-lightbulb-on-outline"
+            },
+            {
+              "type": "inspirational_story",
+              "name": "Kuwento ng inspirasyon",
+              "image": "mdi-party-popper"
+            }
+          ],
+          "input_title": "Nakikinig kami!",
+          "input_prefill": "Ibahagi sa iyong ginustong wika. Aalagaan namin ang pagsasalin. Lahat ng iyong ibinabahagi ay ipinadala anonoylously sa manager. Kung nais mo ng isang followup o makontak ng manager, mangyaring tiyaking isama ang iyong impormasyon sa pakikipag -ugnay sa mensahe.",
+          "attachement_error": "Ang mga kalakip ay hindi suportado sa pag -browse na ito",
+          "next_page": "Magpatuloy"
+        },
+        "feedback": {
+          "stats": {
+            "stat_1": "Salamat",
+            "stat_2": "Ibahagi at Ulat",
+            "stat_3": "Survey"
+          },
           "buttons": {
-            "verify_whatsapp": "Magpadala ng OTP sa pamamagitan ng WhatsApp",
-            "verify_email": "Magpadala ng OTP sa pamamagitan ng email"
+            "agree": "Sumang -ayon",
+            "disagree": "Hindi sumasang -ayon",
+            "agree_strongly": "Sumang -ayon_strongly",
+            "disagree_strongly": "Hindi sumasang -ayon_strongly",
+            "neutral": "Neutral",
+            "suggest": "Error sa gramatika",
+            "irrelevant": "Hindi nauugnay"
           },
-          "message": {
-            "whatsapp": "https://wa.me/13474917585?text=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token",
-            "email": "mailto:myrep.auth@gmail.com?subject=Authentication Token&body=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token"
-          },
-          "post_verify": {
-            "header": "Isinumite ang pagpapatunay",
-            "body": "Magkaroon ng isang magandang araw!"
+          "suggestion": {
+            "header": "Pinahahalagahan namin ang tulong!",
+            "original_title": "Orihinal na pahayag",
+            "suggestion_title": "Paano ito dapat sabihin?",
+            "cancel": "Kanselahin",
+            "next_page": "I -save"
           }
         }
       },
-      "yiddish": {
-        "select_modules": {
-          "header": "וואָס וואָלט איר ווי צו טאָן הייַנט?",
-          "modules": {
-            "appreciate": "דאַנקען",
-            "report": "ייַנטיילן & באַריכט",
-            "feedback": "יבערבליק"
-          },
-          "tabs": {
-            "appreciate": "דאַנקען",
-            "report": "ייַנטיילן & באַריכט",
-            "feedback": "יבערבליק"
-          },
-          "tab_image": {
-            "appreciate": "tab_thank-yiddish.png",
-            "report": "tab_report-yiddish.png",
-            "feedback": "tab_feedback-yiddish.png"
-          },
-          "disabled_module": "שטריך פאַרקריפּלט דורך אַדמיניסטראַטאָר",
-          "next_page": "לאמיר גיין",
-          "terms": {
-            "text:": "דורך קאַנטיניוינג איר שטימען צו אונדזער תּנאָים, דאַטן פּאָליטיק און קיכל פּאָליטיק",
-            "url": "http://myrep.online/terms/?ver=123?lan=yiddish"
-          }
+      "verify": {
+        "header": "Natapos ang feedback!",
+        "privacy": "verify-filipino.png",
+        "token_title": "OTP token",
+        "buttons": {
+          "verify_whatsapp": "Magpadala ng OTP sa pamamagitan ng WhatsApp",
+          "verify_email": "Magpadala ng OTP sa pamamagitan ng email"
         },
+        "message": {
+          "whatsapp": "https://wa.me/13474917585?text=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token",
+          "email": "mailto:myrep.auth@gmail.com?subject=Authentication Token&body=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token"
+        },
+        "post_verify": {
+          "header": "Isinumite ang pagpapatunay",
+          "body": "Magkaroon ng isang magandang araw!"
+        }
+      }
+    },
+    "yiddish": {
+      "select_modules": {
+        "header": "וואָס וואָלט איר ווי צו טאָן הייַנט?",
         "modules": {
-          "appreciate": {
-            "thank": {
-              "header": "ווייַזן דיין אַפּרישייישאַן מיט אַ פּשוט דאַנקען דיר!",
-              "team_title": "סעלעקטירן מאַנשאַפֿט",
-              "list_title": {
-                "list_populated": "לעצטנס טד",
-                "list_empty": "זייט דער ערשטער צו דאַנקען"
-              },
-              "entire_team": "גאנצע מאַנשאַפֿט",
-              "search_members_prefill": "זוכן אָדער אַרייַן נאָמען",
-              "thanked_members_title": "איך וואָלט ווי צו דאַנקען",
-              "next_page": "מאַמשעכ זייַן"
+          "appreciate": "דאַנקען",
+          "report": "ייַנטיילן & באַריכט",
+          "feedback": "יבערבליק"
+        },
+        "tabs": {
+          "appreciate": "דאַנקען",
+          "report": "ייַנטיילן & באַריכט",
+          "feedback": "יבערבליק"
+        },
+        "tab_image": {
+          "appreciate": "tab_thank-yiddish.png",
+          "report": "tab_report-yiddish.png",
+          "feedback": "tab_feedback-yiddish.png"
+        },
+        "disabled_module": "שטריך פאַרקריפּלט דורך אַדמיניסטראַטאָר",
+        "next_page": "לאמיר גיין",
+        "terms": {
+          "text:": "דורך קאַנטיניוינג איר שטימען צו אונדזער תּנאָים, דאַטן פּאָליטיק און קיכל פּאָליטיק",
+          "url": "http://myrep.online/terms/?ver=123?lan=yiddish"
+        }
+      },
+      "modules": {
+        "appreciate": {
+          "thank": {
+            "header": "ווייַזן דיין אַפּרישייישאַן מיט אַ פּשוט דאַנקען דיר!",
+            "team_title": "סעלעקטירן מאַנשאַפֿט",
+            "list_title": {
+              "list_populated": "לעצטנס טד",
+              "list_empty": "זייט דער ערשטער צו דאַנקען"
             },
-            "note": {
-              "image": "post_thank-yiddish.png",
-              "gif": "dancing.gif",
-              "compliment_title": "א פּשוט דאַנקען איר גייט אַ לאַנג וועג - אָבער מאל מיר וועלן צו גיין די עקסטרע מייל. סעלעקטירן אַ סאַגדזשעסטיד קאָמפּלימענט און פּערסאַנאַלייז עס אָדער שרייַבן דיין אייגענע.",
-              "personal_touch_title": "לייג אַ פערזענלעכע פאַרבינדן",
-              "personal_touch_prefill": "ייַנטיילן עפּעס אין דיין אייגענע ווערטער, אָדער קלייַבן אַ סאַגדזשעסטיד קאָמפּלימענט און לייגן דיין פערזענלעכע פאַרבינדן",
-              "take_credit_title": "נעמען קרעדיט",
-              "take_credit_prefill": "נעמען קרעדיט דורך אַדינג דיין נאָמען דאָ. לאָזן ליידיק און מיר וועלן פּאָסטן מיט אַ אַליאַס נאָמען.",
-              "give_gift": "צעלאָזן די שטעקן",
-              "next_page": "אפֿשר ווייַטער מאָל"
-            },
-            "gift": {
-              "people_contributed": "מענטשן קאַנטריביוטיד",
-              "progress": "פּראָגרעס",
-              "days_running": "טעג פליסנדיק",
-              "custom_amount": "מנהג סומע",
-              "continue_with": "פאָרזעצן מיט",
-              "dont_ask_again": "צי ניט פרעגן ווידער",
-              "next_page": "אפֿשר ווייַטער מאָל"
-            }
-          },
-          "report": {
-            "header": "ייַנטיילן גלייַך מיט די מאַנשאַפֿט פאַרוואַלטער",
-            "team_title": "סעלעקט באַטייַטיק טימז",
-            "managers_title": "קאָלעקטיוו מאַנאַגערס",
-            "topic_title": "וואָס טאָן איר ייַנטיילונג? (אַפּשאַנאַל)",
-            "topic_options": [
-              {
-                "type": "complaint",
-                "name": "קלאָג",
-                "image": "mdi-thumb-down"
-              },
-              {
-                "type": "compliment",
-                "name": "קאָמפּלימענט",
-                "image": "mdi-charity"
-              },
-              {
-                "type": "suggestion",
-                "name": "פאָרשלאָג",
-                "image": "mdi-lightbulb-on-outline"
-              },
-              {
-                "type": "inspirational_story",
-                "name": "ינספּיראַטיאָנאַל דערציילונג",
-                "image": "mdi-party-popper"
-              }
-            ],
-            "input_title": "מיר הערן!",
-            "input_prefill": "ייַנטיילן אין דיין בילכער שפּראַך. מיר וועלן נעמען קעיר פון די איבערזעצונג. אַלץ איר טיילן איז געשיקט אַנאָנייסלי צו דער פאַרוואַלטער. אויב איר ווילט אַ נאָכפאָלגן אָדער צו זיין קאָנטאַקטעד דורך דער פאַרוואַלטער, ביטע זיין זיכער צו אַרייַננעמען דיין קאָנטאַקט אינפֿאָרמאַציע אין דער אָנזאָג.",
-            "attachement_error": "אַטאַטשמאַנץ זענען נישט געשטיצט אין דעם בלעטער",
+            "entire_team": "גאנצע מאַנשאַפֿט",
+            "search_members_prefill": "זוכן אָדער אַרייַן נאָמען",
+            "thanked_members_title": "איך וואָלט ווי צו דאַנקען",
             "next_page": "מאַמשעכ זייַן"
           },
-          "feedback": {
-            "stats": {
-              "stat_1": "אדאנק",
-              "stat_2": "ייַנטיילן & באַריכט",
-              "stat_3": "יבערבליק"
-            },
-            "buttons": {
-              "agree": "שטימען",
-              "disagree": "דיסאַגרי",
-              "agree_strongly": "שטימען_strongly",
-              "disagree_strongly": "דיסאַגרי_strongly",
-              "neutral": "נייטראַל",
-              "suggest": "גראַמאַטאַקאַל טעות",
-              "irrelevant": "ירעלאַוואַנט"
-            },
-            "suggestion": {
-              "header": "מיר אָפּשאַצן די הילף!",
-              "original_title": "אָריגינעל ויסזאָגונג",
-              "suggestion_title": "ווי זאָל עס זיין ווערדאַד?",
-              "cancel": "באָטל מאַכן",
-              "next_page": "ויסלייזן"
-            }
+          "note": {
+            "image": "post_thank-yiddish.png",
+            "gif": "dancing.gif",
+            "compliment_title": "א פּשוט דאַנקען איר גייט אַ לאַנג וועג - אָבער מאל מיר וועלן צו גיין די עקסטרע מייל. סעלעקטירן אַ סאַגדזשעסטיד קאָמפּלימענט און פּערסאַנאַלייז עס אָדער שרייַבן דיין אייגענע.",
+            "personal_touch_title": "לייג אַ פערזענלעכע פאַרבינדן",
+            "personal_touch_prefill": "ייַנטיילן עפּעס אין דיין אייגענע ווערטער, אָדער קלייַבן אַ סאַגדזשעסטיד קאָמפּלימענט און לייגן דיין פערזענלעכע פאַרבינדן",
+            "take_credit_title": "נעמען קרעדיט",
+            "take_credit_prefill": "נעמען קרעדיט דורך אַדינג דיין נאָמען דאָ. לאָזן ליידיק און מיר וועלן פּאָסטן מיט אַ אַליאַס נאָמען.",
+            "give_gift": "צעלאָזן די שטעקן",
+            "next_page": "אפֿשר ווייַטער מאָל"
+          },
+          "gift": {
+            "people_contributed": "מענטשן קאַנטריביוטיד",
+            "progress": "פּראָגרעס",
+            "days_running": "טעג פליסנדיק",
+            "custom_amount": "מנהג סומע",
+            "continue_with": "פאָרזעצן מיט",
+            "dont_ask_again": "צי ניט פרעגן ווידער",
+            "next_page": "אפֿשר ווייַטער מאָל"
           }
         },
-        "verify": {
-          "header": "באַמערקונגען געענדיקט!",
-          "privacy": "verify-yiddish.png",
-          "token_title": "אָטפּ סימען",
+        "report": {
+          "header": "ייַנטיילן גלייַך מיט די מאַנשאַפֿט פאַרוואַלטער",
+          "team_title": "סעלעקט באַטייַטיק טימז",
+          "managers_title": "קאָלעקטיוו מאַנאַגערס",
+          "topic_title": "וואָס טאָן איר ייַנטיילונג? (אַפּשאַנאַל)",
+          "topic_options": [
+            {
+              "type": "complaint",
+              "name": "קלאָג",
+              "image": "mdi-thumb-down"
+            },
+            {
+              "type": "compliment",
+              "name": "קאָמפּלימענט",
+              "image": "mdi-charity"
+            },
+            {
+              "type": "suggestion",
+              "name": "פאָרשלאָג",
+              "image": "mdi-lightbulb-on-outline"
+            },
+            {
+              "type": "inspirational_story",
+              "name": "ינספּיראַטיאָנאַל דערציילונג",
+              "image": "mdi-party-popper"
+            }
+          ],
+          "input_title": "מיר הערן!",
+          "input_prefill": "ייַנטיילן אין דיין בילכער שפּראַך. מיר וועלן נעמען קעיר פון די איבערזעצונג. אַלץ איר טיילן איז געשיקט אַנאָנייסלי צו דער פאַרוואַלטער. אויב איר ווילט אַ נאָכפאָלגן אָדער צו זיין קאָנטאַקטעד דורך דער פאַרוואַלטער, ביטע זיין זיכער צו אַרייַננעמען דיין קאָנטאַקט אינפֿאָרמאַציע אין דער אָנזאָג.",
+          "attachement_error": "אַטאַטשמאַנץ זענען נישט געשטיצט אין דעם בלעטער",
+          "next_page": "מאַמשעכ זייַן"
+        },
+        "feedback": {
+          "stats": {
+            "stat_1": "אדאנק",
+            "stat_2": "ייַנטיילן & באַריכט",
+            "stat_3": "יבערבליק"
+          },
           "buttons": {
-            "verify_whatsapp": "שיקן OTP Via ווהאַצאַפּפּ",
-            "verify_email": "שיקן OTP Via E- בריוו"
+            "agree": "שטימען",
+            "disagree": "דיסאַגרי",
+            "agree_strongly": "שטימען_strongly",
+            "disagree_strongly": "דיסאַגרי_strongly",
+            "neutral": "נייטראַל",
+            "suggest": "גראַמאַטאַקאַל טעות",
+            "irrelevant": "ירעלאַוואַנט"
           },
-          "message": {
-            "whatsapp": "https://wa.me/13474917585?text=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token",
-            "email": "mailto:myrep.auth@gmail.com?subject=Authentication Token&body=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token"
-          },
-          "post_verify": {
-            "header": "ווערפאַקיישאַן דערלאנגט",
-            "body": "האב א גוטן טאג!"
+          "suggestion": {
+            "header": "מיר אָפּשאַצן די הילף!",
+            "original_title": "אָריגינעל ויסזאָגונג",
+            "suggestion_title": "ווי זאָל עס זיין ווערדאַד?",
+            "cancel": "באָטל מאַכן",
+            "next_page": "ויסלייזן"
           }
         }
       },
-      "ukrainian": {
-        "select_modules": {
-          "header": "Що б ви хотіли зробити сьогодні?",
-          "modules": {
-            "appreciate": "СПАСИБІ",
-            "report": "Поділитися та звітувати",
-            "feedback": "Опитування"
-          },
-          "tabs": {
-            "appreciate": "СПАСИБІ",
-            "report": "Поділитися та звітувати",
-            "feedback": "Опитування"
-          },
-          "tab_image": {
-            "appreciate": "tab_thank-ukrainian.png",
-            "report": "tab_report-ukrainian.png",
-            "feedback": "tab_feedback-ukrainian.png"
-          },
-          "disabled_module": "функція відключена адміністратором",
-          "next_page": "Ходімо",
-          "terms": {
-            "text:": "Продовжуючи ви погоджуєтесь з нашими умовами, політикою даних та політикою cookie",
-            "url": "http://myrep.online/terms/?ver=123?lan=ukrainian"
-          }
+      "verify": {
+        "header": "באַמערקונגען געענדיקט!",
+        "privacy": "verify-yiddish.png",
+        "token_title": "אָטפּ סימען",
+        "buttons": {
+          "verify_whatsapp": "שיקן OTP Via ווהאַצאַפּפּ",
+          "verify_email": "שיקן OTP Via E- בריוו"
         },
+        "message": {
+          "whatsapp": "https://wa.me/13474917585?text=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token",
+          "email": "mailto:myrep.auth@gmail.com?subject=Authentication Token&body=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token"
+        },
+        "post_verify": {
+          "header": "ווערפאַקיישאַן דערלאנגט",
+          "body": "האב א גוטן טאג!"
+        }
+      }
+    },
+    "ukrainian": {
+      "select_modules": {
+        "header": "Що б ви хотіли зробити сьогодні?",
         "modules": {
-          "appreciate": {
-            "thank": {
-              "header": "Покажіть свою вдячність простим спасибі!",
-              "team_title": "Вибір команди",
-              "list_title": {
-                "list_populated": "Нещодавно подяка",
-                "list_empty": "Будьте першими, хто подякує"
-              },
-              "entire_team": "Вся команда",
-              "search_members_prefill": "Пошук або введення імені",
-              "thanked_members_title": "Я хотів би подякувати",
-              "next_page": "Продовжувати"
+          "appreciate": "СПАСИБІ",
+          "report": "Поділитися та звітувати",
+          "feedback": "Опитування"
+        },
+        "tabs": {
+          "appreciate": "СПАСИБІ",
+          "report": "Поділитися та звітувати",
+          "feedback": "Опитування"
+        },
+        "tab_image": {
+          "appreciate": "tab_thank-ukrainian.png",
+          "report": "tab_report-ukrainian.png",
+          "feedback": "tab_feedback-ukrainian.png"
+        },
+        "disabled_module": "функція відключена адміністратором",
+        "next_page": "Ходімо",
+        "terms": {
+          "text:": "Продовжуючи ви погоджуєтесь з нашими умовами, політикою даних та політикою cookie",
+          "url": "http://myrep.online/terms/?ver=123?lan=ukrainian"
+        }
+      },
+      "modules": {
+        "appreciate": {
+          "thank": {
+            "header": "Покажіть свою вдячність простим спасибі!",
+            "team_title": "Вибір команди",
+            "list_title": {
+              "list_populated": "Нещодавно подяка",
+              "list_empty": "Будьте першими, хто подякує"
             },
-            "note": {
-              "image": "post_thank-ukrainian.png",
-              "gif": "dancing.gif",
-              "compliment_title": "Проста подяка проходить довгий шлях - але іноді ми хочемо пройти додаткову милю. Виберіть запропонований комплімент та персоналізуйте його або напишіть своє.",
-              "personal_touch_title": "Додайте особистий дотик",
-              "personal_touch_prefill": "Поділіться чимось власними словами, або виберіть запропонований комплімент та додайте свій особистий дотик",
-              "take_credit_title": "Взяти на себе кредит",
-              "take_credit_prefill": "Візьміть кредит, додавши тут своє ім’я. Залиште порожній, і ми опублікуємо з іменем псевдонім.",
-              "give_gift": "Зіпсувати персонал",
-              "next_page": "МОЖЛИВО, НАСТУПНОГО РАЗУ"
-            },
-            "gift": {
-              "people_contributed": "Люди сприяли",
-              "progress": "Прогресувати",
-              "days_running": "Дні бігають",
-              "custom_amount": "На замовлення",
-              "continue_with": "Продовжувати",
-              "dont_ask_again": "Не питайте більше",
-              "next_page": "МОЖЛИВО, НАСТУПНОГО РАЗУ"
-            }
-          },
-          "report": {
-            "header": "Поділіться безпосередньо з менеджером команди",
-            "team_title": "Виберіть відповідні команди",
-            "managers_title": "Керівники команд",
-            "topic_title": "Що ти ділишся? (необов’язково)",
-            "topic_options": [
-              {
-                "type": "complaint",
-                "name": "Скарга",
-                "image": "mdi-thumb-down"
-              },
-              {
-                "type": "compliment",
-                "name": "Комплімент",
-                "image": "mdi-charity"
-              },
-              {
-                "type": "suggestion",
-                "name": "Пропозиція",
-                "image": "mdi-lightbulb-on-outline"
-              },
-              {
-                "type": "inspirational_story",
-                "name": "Натхненна історія",
-                "image": "mdi-party-popper"
-              }
-            ],
-            "input_title": "Ми слухаємо!",
-            "input_prefill": "Поділіться своєю бажаною мовою. Ми подбаємо про переклад. Все, що ви ділитесь, надсилається анонільно до менеджера. Якщо ви хочете подальше спостереження або зв’язатися з менеджером, будь ласка, не забудьте включити свою контактну інформацію у повідомлення.",
-            "attachement_error": "Вкладення не підтримуються в цьому перегляді",
+            "entire_team": "Вся команда",
+            "search_members_prefill": "Пошук або введення імені",
+            "thanked_members_title": "Я хотів би подякувати",
             "next_page": "Продовжувати"
           },
-          "feedback": {
-            "stats": {
-              "stat_1": "Дякую",
-              "stat_2": "Поділитися та звітувати",
-              "stat_3": "Опитування"
-            },
-            "buttons": {
-              "agree": "Погодитися",
-              "disagree": "Не погодитися",
-              "agree_strongly": "Погодитися_strongly",
-              "disagree_strongly": "Не погодитися_strongly",
-              "neutral": "Нейтральний",
-              "suggest": "Граматична помилка",
-              "irrelevant": "Нерелевантний"
-            },
-            "suggestion": {
-              "header": "Ми цінуємо допомогу!",
-              "original_title": "Оригінальна заява",
-              "suggestion_title": "Як це слід сформулювати?",
-              "cancel": "Скасувати",
-              "next_page": "Заощадити"
-            }
+          "note": {
+            "image": "post_thank-ukrainian.png",
+            "gif": "dancing.gif",
+            "compliment_title": "Проста подяка проходить довгий шлях - але іноді ми хочемо пройти додаткову милю. Виберіть запропонований комплімент та персоналізуйте його або напишіть своє.",
+            "personal_touch_title": "Додайте особистий дотик",
+            "personal_touch_prefill": "Поділіться чимось власними словами, або виберіть запропонований комплімент та додайте свій особистий дотик",
+            "take_credit_title": "Взяти на себе кредит",
+            "take_credit_prefill": "Візьміть кредит, додавши тут своє ім’я. Залиште порожній, і ми опублікуємо з іменем псевдонім.",
+            "give_gift": "Зіпсувати персонал",
+            "next_page": "МОЖЛИВО, НАСТУПНОГО РАЗУ"
+          },
+          "gift": {
+            "people_contributed": "Люди сприяли",
+            "progress": "Прогресувати",
+            "days_running": "Дні бігають",
+            "custom_amount": "На замовлення",
+            "continue_with": "Продовжувати",
+            "dont_ask_again": "Не питайте більше",
+            "next_page": "МОЖЛИВО, НАСТУПНОГО РАЗУ"
           }
         },
-        "verify": {
-          "header": "Зворотній зв'язок завершено!",
-          "privacy": "verify-ukrainian.png",
-          "token_title": "Токен OTP",
+        "report": {
+          "header": "Поділіться безпосередньо з менеджером команди",
+          "team_title": "Виберіть відповідні команди",
+          "managers_title": "Керівники команд",
+          "topic_title": "Що ти ділишся? (необов’язково)",
+          "topic_options": [
+            {
+              "type": "complaint",
+              "name": "Скарга",
+              "image": "mdi-thumb-down"
+            },
+            {
+              "type": "compliment",
+              "name": "Комплімент",
+              "image": "mdi-charity"
+            },
+            {
+              "type": "suggestion",
+              "name": "Пропозиція",
+              "image": "mdi-lightbulb-on-outline"
+            },
+            {
+              "type": "inspirational_story",
+              "name": "Натхненна історія",
+              "image": "mdi-party-popper"
+            }
+          ],
+          "input_title": "Ми слухаємо!",
+          "input_prefill": "Поділіться своєю бажаною мовою. Ми подбаємо про переклад. Все, що ви ділитесь, надсилається анонільно до менеджера. Якщо ви хочете подальше спостереження або зв’язатися з менеджером, будь ласка, не забудьте включити свою контактну інформацію у повідомлення.",
+          "attachement_error": "Вкладення не підтримуються в цьому перегляді",
+          "next_page": "Продовжувати"
+        },
+        "feedback": {
+          "stats": {
+            "stat_1": "Дякую",
+            "stat_2": "Поділитися та звітувати",
+            "stat_3": "Опитування"
+          },
           "buttons": {
-            "verify_whatsapp": "Надішліть OTP через WhatsApp",
-            "verify_email": "Надішліть OTP електронною поштою"
+            "agree": "Погодитися",
+            "disagree": "Не погодитися",
+            "agree_strongly": "Погодитися_strongly",
+            "disagree_strongly": "Не погодитися_strongly",
+            "neutral": "Нейтральний",
+            "suggest": "Граматична помилка",
+            "irrelevant": "Нерелевантний"
           },
-          "message": {
-            "whatsapp": "https://wa.me/13474917585?text=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token",
-            "email": "mailto:myrep.auth@gmail.com?subject=Authentication Token&body=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token"
-          },
-          "post_verify": {
-            "header": "Подано підтвердження",
-            "body": "Гарного дня!"
+          "suggestion": {
+            "header": "Ми цінуємо допомогу!",
+            "original_title": "Оригінальна заява",
+            "suggestion_title": "Як це слід сформулювати?",
+            "cancel": "Скасувати",
+            "next_page": "Заощадити"
           }
         }
       },
-      "chinese": {
-        "select_modules": {
-          "header": "今天你想做什么？",
-          "modules": {
-            "appreciate": "感谢",
-            "report": "分享和报告",
-            "feedback": "民意调查"
-          },
-          "tabs": {
-            "appreciate": "感谢",
-            "report": "分享和报告",
-            "feedback": "民意调查"
-          },
-          "tab_image": {
-            "appreciate": "tab_thank-chinese.png",
-            "report": "tab_report-chinese.png",
-            "feedback": "tab_feedback-chinese.png"
-          },
-          "disabled_module": "由管理员禁用的功能",
-          "next_page": "我们走吧",
-          "terms": {
-            "text:": "通过继续同意我们的条款，数据政策和饼干政策",
-            "url": "http://myrep.online/terms/?ver=123?lan=chinese"
-          }
+      "verify": {
+        "header": "Зворотній зв'язок завершено!",
+        "privacy": "verify-ukrainian.png",
+        "token_title": "Токен OTP",
+        "buttons": {
+          "verify_whatsapp": "Надішліть OTP через WhatsApp",
+          "verify_email": "Надішліть OTP електронною поштою"
         },
+        "message": {
+          "whatsapp": "https://wa.me/13474917585?text=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token",
+          "email": "mailto:myrep.auth@gmail.com?subject=Authentication Token&body=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token"
+        },
+        "post_verify": {
+          "header": "Подано підтвердження",
+          "body": "Гарного дня!"
+        }
+      }
+    },
+    "chinese": {
+      "select_modules": {
+        "header": "今天你想做什么？",
         "modules": {
-          "appreciate": {
-            "thank": {
-              "header": "简单地感谢您的感谢！",
-              "team_title": "选择团队",
-              "list_title": {
-                "list_populated": "最近感谢",
-                "list_empty": "要感谢"
-              },
-              "entire_team": "整个团队",
-              "search_members_prefill": "搜索或输入名称",
-              "thanked_members_title": "我想要感谢",
-              "next_page": "继续"
+          "appreciate": "感谢",
+          "report": "分享和报告",
+          "feedback": "民意调查"
+        },
+        "tabs": {
+          "appreciate": "感谢",
+          "report": "分享和报告",
+          "feedback": "民意调查"
+        },
+        "tab_image": {
+          "appreciate": "tab_thank-chinese.png",
+          "report": "tab_report-chinese.png",
+          "feedback": "tab_feedback-chinese.png"
+        },
+        "disabled_module": "由管理员禁用的功能",
+        "next_page": "我们走吧",
+        "terms": {
+          "text:": "通过继续同意我们的条款，数据政策和饼干政策",
+          "url": "http://myrep.online/terms/?ver=123?lan=chinese"
+        }
+      },
+      "modules": {
+        "appreciate": {
+          "thank": {
+            "header": "简单地感谢您的感谢！",
+            "team_title": "选择团队",
+            "list_title": {
+              "list_populated": "最近感谢",
+              "list_empty": "要感谢"
             },
-            "note": {
-              "image": "post_thank-chinese.png",
-              "gif": "dancing.gif",
-              "compliment_title": "一个简单的感谢您走了很长一段路 - 但有时我们想加倍努力。选择建议的称赞并个性化或自己写自己。",
-              "personal_touch_title": "添加个人风格",
-              "personal_touch_prefill": "用自己的话分享一些东西，或选择建议的赞美并添加您的个人风格",
-              "take_credit_title": "值得赞扬",
-              "take_credit_prefill": "通过在此处添加您的名字来获得信用。离开空，我们将以别名名称发布。",
-              "give_gift": "破坏员工",
-              "next_page": "下一次吧"
-            },
-            "gift": {
-              "people_contributed": "人们做出了贡献",
-              "progress": "进步",
-              "days_running": "日子",
-              "custom_amount": "定制金额",
-              "continue_with": "继续",
-              "dont_ask_again": "不要再问",
-              "next_page": "下一次吧"
-            }
-          },
-          "report": {
-            "header": "直接与团队的经理分享",
-            "team_title": "选择相关团队",
-            "managers_title": "团队经理",
-            "topic_title": "您要分享什么？ （选修的）",
-            "topic_options": [
-              {
-                "type": "complaint",
-                "name": "抱怨",
-                "image": "mdi-thumb-down"
-              },
-              {
-                "type": "compliment",
-                "name": "赞扬",
-                "image": "mdi-charity"
-              },
-              {
-                "type": "suggestion",
-                "name": "建议",
-                "image": "mdi-lightbulb-on-outline"
-              },
-              {
-                "type": "inspirational_story",
-                "name": "鼓舞人心的故事",
-                "image": "mdi-party-popper"
-              }
-            ],
-            "input_title": "我们正在听！",
-            "input_prefill": "分享您喜欢的语言。我们将照顾翻译。您共享的所有内容均可向经理发送。如果您想进行跟进或由经理联系，请确保在消息中包含您的联系信息。",
-            "attachement_error": "在此浏览中不支持附件",
+            "entire_team": "整个团队",
+            "search_members_prefill": "搜索或输入名称",
+            "thanked_members_title": "我想要感谢",
             "next_page": "继续"
           },
-          "feedback": {
-            "stats": {
-              "stat_1": "谢谢",
-              "stat_2": "分享和报告",
-              "stat_3": "民意调查"
-            },
-            "buttons": {
-              "agree": "同意",
-              "disagree": "不同意",
-              "agree_strongly": "同意_strongly",
-              "disagree_strongly": "不同意_strongly",
-              "neutral": "中性的",
-              "suggest": "语法错误",
-              "irrelevant": "无关紧要"
-            },
-            "suggestion": {
-              "header": "感谢您的帮助！",
-              "original_title": "原始声明",
-              "suggestion_title": "应该如何措辞？",
-              "cancel": "取消",
-              "next_page": "节省"
-            }
+          "note": {
+            "image": "post_thank-chinese.png",
+            "gif": "dancing.gif",
+            "compliment_title": "一个简单的感谢您走了很长一段路 - 但有时我们想加倍努力。选择建议的称赞并个性化或自己写自己。",
+            "personal_touch_title": "添加个人风格",
+            "personal_touch_prefill": "用自己的话分享一些东西，或选择建议的赞美并添加您的个人风格",
+            "take_credit_title": "值得赞扬",
+            "take_credit_prefill": "通过在此处添加您的名字来获得信用。离开空，我们将以别名名称发布。",
+            "give_gift": "破坏员工",
+            "next_page": "下一次吧"
+          },
+          "gift": {
+            "people_contributed": "人们做出了贡献",
+            "progress": "进步",
+            "days_running": "日子",
+            "custom_amount": "定制金额",
+            "continue_with": "继续",
+            "dont_ask_again": "不要再问",
+            "next_page": "下一次吧"
           }
         },
-        "verify": {
-          "header": "反馈完成了！",
-          "privacy": "verify-chinese.png",
-          "token_title": "OTP令牌",
+        "report": {
+          "header": "直接与团队的经理分享",
+          "team_title": "选择相关团队",
+          "managers_title": "团队经理",
+          "topic_title": "您要分享什么？ （选修的）",
+          "topic_options": [
+            {
+              "type": "complaint",
+              "name": "抱怨",
+              "image": "mdi-thumb-down"
+            },
+            {
+              "type": "compliment",
+              "name": "赞扬",
+              "image": "mdi-charity"
+            },
+            {
+              "type": "suggestion",
+              "name": "建议",
+              "image": "mdi-lightbulb-on-outline"
+            },
+            {
+              "type": "inspirational_story",
+              "name": "鼓舞人心的故事",
+              "image": "mdi-party-popper"
+            }
+          ],
+          "input_title": "我们正在听！",
+          "input_prefill": "分享您喜欢的语言。我们将照顾翻译。您共享的所有内容均可向经理发送。如果您想进行跟进或由经理联系，请确保在消息中包含您的联系信息。",
+          "attachement_error": "在此浏览中不支持附件",
+          "next_page": "继续"
+        },
+        "feedback": {
+          "stats": {
+            "stat_1": "谢谢",
+            "stat_2": "分享和报告",
+            "stat_3": "民意调查"
+          },
           "buttons": {
-            "verify_whatsapp": "通过WhatsApp发送OTP",
-            "verify_email": "通过电子邮件发送OTP"
+            "agree": "同意",
+            "disagree": "不同意",
+            "agree_strongly": "同意_strongly",
+            "disagree_strongly": "不同意_strongly",
+            "neutral": "中性的",
+            "suggest": "语法错误",
+            "irrelevant": "无关紧要"
           },
-          "message": {
-            "whatsapp": "https://wa.me/13474917585?text=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token",
-            "email": "mailto:myrep.auth@gmail.com?subject=Authentication Token&body=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token"
-          },
-          "post_verify": {
-            "header": "提交的迹象",
-            "body": "祝你有美好的一天！"
+          "suggestion": {
+            "header": "感谢您的帮助！",
+            "original_title": "原始声明",
+            "suggestion_title": "应该如何措辞？",
+            "cancel": "取消",
+            "next_page": "节省"
           }
         }
       },
-      "french": {
-        "select_modules": {
-          "header": "Que voudrais tu faire aujourd'hui?",
-          "modules": {
-            "appreciate": "REMERCIER",
-            "report": "Partage et rapport",
-            "feedback": "ENQUÊTE"
-          },
-          "tabs": {
-            "appreciate": "REMERCIER",
-            "report": "Partage et rapport",
-            "feedback": "ENQUÊTE"
-          },
-          "tab_image": {
-            "appreciate": "tab_thank-french.png",
-            "report": "tab_report-french.png",
-            "feedback": "tab_feedback-french.png"
-          },
-          "disabled_module": "fonctionnalité désactivée par l'administrateur",
-          "next_page": "Allons-y",
-          "terms": {
-            "text:": "En vous poursuivant, vous acceptez nos termes, nos données de données et la politique de cookie",
-            "url": "http://myrep.online/terms/?ver=123?lan=french"
-          }
+      "verify": {
+        "header": "反馈完成了！",
+        "privacy": "verify-chinese.png",
+        "token_title": "OTP令牌",
+        "buttons": {
+          "verify_whatsapp": "通过WhatsApp发送OTP",
+          "verify_email": "通过电子邮件发送OTP"
         },
+        "message": {
+          "whatsapp": "https://wa.me/13474917585?text=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token",
+          "email": "mailto:myrep.auth@gmail.com?subject=Authentication Token&body=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token"
+        },
+        "post_verify": {
+          "header": "提交的迹象",
+          "body": "祝你有美好的一天！"
+        }
+      }
+    },
+    "french": {
+      "select_modules": {
+        "header": "Que voudrais tu faire aujourd'hui?",
         "modules": {
-          "appreciate": {
-            "thank": {
-              "header": "Montrez votre appréciation avec un simple merci!",
-              "team_title": "Choisis une équipe",
-              "list_title": {
-                "list_populated": "Récemment remercié",
-                "list_empty": "Être le premier à remercier"
-              },
-              "entire_team": "Équipe entière",
-              "search_members_prefill": "Rechercher ou entrer le nom",
-              "thanked_members_title": "Je tiens à remercier",
-              "next_page": "CONTINUER"
+          "appreciate": "REMERCIER",
+          "report": "Partage et rapport",
+          "feedback": "ENQUÊTE"
+        },
+        "tabs": {
+          "appreciate": "REMERCIER",
+          "report": "Partage et rapport",
+          "feedback": "ENQUÊTE"
+        },
+        "tab_image": {
+          "appreciate": "tab_thank-french.png",
+          "report": "tab_report-french.png",
+          "feedback": "tab_feedback-french.png"
+        },
+        "disabled_module": "fonctionnalité désactivée par l'administrateur",
+        "next_page": "Allons-y",
+        "terms": {
+          "text:": "En vous poursuivant, vous acceptez nos termes, nos données de données et la politique de cookie",
+          "url": "http://myrep.online/terms/?ver=123?lan=french"
+        }
+      },
+      "modules": {
+        "appreciate": {
+          "thank": {
+            "header": "Montrez votre appréciation avec un simple merci!",
+            "team_title": "Choisis une équipe",
+            "list_title": {
+              "list_populated": "Récemment remercié",
+              "list_empty": "Être le premier à remercier"
             },
-            "note": {
-              "image": "post_thank-french.png",
-              "gif": "dancing.gif",
-              "compliment_title": "Un remerciement simple va très loin - mais parfois nous voulons faire un effort supplémentaire. Sélectionnez un compliment suggéré et personnalisez-le ou écrivez le vôtre.",
-              "personal_touch_title": "Ajouter une touche personnelle",
-              "personal_touch_prefill": "Partagez quelque chose dans vos propres mots, ou choisissez un compliment suggéré et ajoutez votre touche personnelle",
-              "take_credit_title": "Se réjouir",
-              "take_credit_prefill": "Prenez le crédit en ajoutant votre nom ici. Laissez vide et nous publierons avec un nom d'alias.",
-              "give_gift": "Gâcher le personnel",
-              "next_page": "LA PROCHAINE FOIS PEUT-ÊTRE"
-            },
-            "gift": {
-              "people_contributed": "Les gens ont contribué",
-              "progress": "Progrès",
-              "days_running": "jours de course",
-              "custom_amount": "Montant personnalisé",
-              "continue_with": "Continue avec",
-              "dont_ask_again": "Ne demandez plus",
-              "next_page": "LA PROCHAINE FOIS PEUT-ÊTRE"
-            }
-          },
-          "report": {
-            "header": "Partager directement avec le manager de l'équipe",
-            "team_title": "Sélectionnez les équipes pertinentes",
-            "managers_title": "Chefs d'équipe",
-            "topic_title": "Que partagez-vous? (facultatif)",
-            "topic_options": [
-              {
-                "type": "complaint",
-                "name": "Plainte",
-                "image": "mdi-thumb-down"
-              },
-              {
-                "type": "compliment",
-                "name": "Compliment",
-                "image": "mdi-charity"
-              },
-              {
-                "type": "suggestion",
-                "name": "Suggestion",
-                "image": "mdi-lightbulb-on-outline"
-              },
-              {
-                "type": "inspirational_story",
-                "name": "Histoire inspirante",
-                "image": "mdi-party-popper"
-              }
-            ],
-            "input_title": "Nous écoutons!",
-            "input_prefill": "Partagez votre langue préférée. Nous nous occuperons de la traduction. Tout ce que vous partagez est envoyé de manière anonoyante au directeur. Si vous souhaitez un suivi ou pour être contacté par le gestionnaire, assurez-vous d'inclure vos coordonnées dans le message.",
-            "attachement_error": "Les pièces jointes ne sont pas prises en charge dans ce parcours",
+            "entire_team": "Équipe entière",
+            "search_members_prefill": "Rechercher ou entrer le nom",
+            "thanked_members_title": "Je tiens à remercier",
             "next_page": "CONTINUER"
           },
-          "feedback": {
-            "stats": {
-              "stat_1": "Merci",
-              "stat_2": "Partage et rapport",
-              "stat_3": "Enquête"
-            },
-            "buttons": {
-              "agree": "ACCEPTER",
-              "disagree": "ÊTRE EN DÉSACCORD",
-              "agree_strongly": "ACCEPTER_strongly",
-              "disagree_strongly": "ÊTRE EN DÉSACCORD_strongly",
-              "neutral": "NEUTRE",
-              "suggest": "Erreur grammaticale",
-              "irrelevant": "Non pertinent"
-            },
-            "suggestion": {
-              "header": "Nous apprécions l'aide!",
-              "original_title": "Déclaration originale",
-              "suggestion_title": "Comment devraient-ils être formulés?",
-              "cancel": "Annuler",
-              "next_page": "Sauvegarder"
-            }
+          "note": {
+            "image": "post_thank-french.png",
+            "gif": "dancing.gif",
+            "compliment_title": "Un remerciement simple va très loin - mais parfois nous voulons faire un effort supplémentaire. Sélectionnez un compliment suggéré et personnalisez-le ou écrivez le vôtre.",
+            "personal_touch_title": "Ajouter une touche personnelle",
+            "personal_touch_prefill": "Partagez quelque chose dans vos propres mots, ou choisissez un compliment suggéré et ajoutez votre touche personnelle",
+            "take_credit_title": "Se réjouir",
+            "take_credit_prefill": "Prenez le crédit en ajoutant votre nom ici. Laissez vide et nous publierons avec un nom d'alias.",
+            "give_gift": "Gâcher le personnel",
+            "next_page": "LA PROCHAINE FOIS PEUT-ÊTRE"
+          },
+          "gift": {
+            "people_contributed": "Les gens ont contribué",
+            "progress": "Progrès",
+            "days_running": "jours de course",
+            "custom_amount": "Montant personnalisé",
+            "continue_with": "Continue avec",
+            "dont_ask_again": "Ne demandez plus",
+            "next_page": "LA PROCHAINE FOIS PEUT-ÊTRE"
           }
         },
-        "verify": {
-          "header": "Commentaires terminés!",
-          "privacy": "verify-french.png",
-          "token_title": "Jeton OTP",
+        "report": {
+          "header": "Partager directement avec le manager de l'équipe",
+          "team_title": "Sélectionnez les équipes pertinentes",
+          "managers_title": "Chefs d'équipe",
+          "topic_title": "Que partagez-vous? (facultatif)",
+          "topic_options": [
+            {
+              "type": "complaint",
+              "name": "Plainte",
+              "image": "mdi-thumb-down"
+            },
+            {
+              "type": "compliment",
+              "name": "Compliment",
+              "image": "mdi-charity"
+            },
+            {
+              "type": "suggestion",
+              "name": "Suggestion",
+              "image": "mdi-lightbulb-on-outline"
+            },
+            {
+              "type": "inspirational_story",
+              "name": "Histoire inspirante",
+              "image": "mdi-party-popper"
+            }
+          ],
+          "input_title": "Nous écoutons!",
+          "input_prefill": "Partagez votre langue préférée. Nous nous occuperons de la traduction. Tout ce que vous partagez est envoyé de manière anonoyante au directeur. Si vous souhaitez un suivi ou pour être contacté par le gestionnaire, assurez-vous d'inclure vos coordonnées dans le message.",
+          "attachement_error": "Les pièces jointes ne sont pas prises en charge dans ce parcours",
+          "next_page": "CONTINUER"
+        },
+        "feedback": {
+          "stats": {
+            "stat_1": "Merci",
+            "stat_2": "Partage et rapport",
+            "stat_3": "Enquête"
+          },
           "buttons": {
-            "verify_whatsapp": "Envoyer OTP via WhatsApp",
-            "verify_email": "Envoyer OTP par e-mail"
+            "agree": "ACCEPTER",
+            "disagree": "ÊTRE EN DÉSACCORD",
+            "agree_strongly": "ACCEPTER_strongly",
+            "disagree_strongly": "ÊTRE EN DÉSACCORD_strongly",
+            "neutral": "NEUTRE",
+            "suggest": "Erreur grammaticale",
+            "irrelevant": "Non pertinent"
           },
-          "message": {
-            "whatsapp": "https://wa.me/13474917585?text=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token",
-            "email": "mailto:myrep.auth@gmail.com?subject=Authentication Token&body=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token"
-          },
-          "post_verify": {
-            "header": "Verfication soumise",
-            "body": "Passe une bonne journée!"
+          "suggestion": {
+            "header": "Nous apprécions l'aide!",
+            "original_title": "Déclaration originale",
+            "suggestion_title": "Comment devraient-ils être formulés?",
+            "cancel": "Annuler",
+            "next_page": "Sauvegarder"
           }
         }
       },
-      "spanish": {
-        "select_modules": {
-          "header": "¿Qué te gustaría hacer hoy?",
-          "modules": {
-            "appreciate": "AGRADECER",
-            "report": "Compartir e Informe",
-            "feedback": "ENCUESTA"
-          },
-          "tabs": {
-            "appreciate": "AGRADECER",
-            "report": "Compartir e Informe",
-            "feedback": "ENCUESTA"
-          },
-          "tab_image": {
-            "appreciate": "tab_thank-spanish.png",
-            "report": "tab_report-spanish.png",
-            "feedback": "tab_feedback-spanish.png"
-          },
-          "disabled_module": "características deshabilitadas por admin",
-          "next_page": "Vamos",
-          "terms": {
-            "text:": "Al continuar, acepta nuestros términos, política de datos y política de cookies",
-            "url": "http://myrep.online/terms/?ver=123?lan=spanish"
-          }
+      "verify": {
+        "header": "Commentaires terminés!",
+        "privacy": "verify-french.png",
+        "token_title": "Jeton OTP",
+        "buttons": {
+          "verify_whatsapp": "Envoyer OTP via WhatsApp",
+          "verify_email": "Envoyer OTP par e-mail"
         },
+        "message": {
+          "whatsapp": "https://wa.me/13474917585?text=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token",
+          "email": "mailto:myrep.auth@gmail.com?subject=Authentication Token&body=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token"
+        },
+        "post_verify": {
+          "header": "Verfication soumise",
+          "body": "Passe une bonne journée!"
+        }
+      }
+    },
+    "spanish": {
+      "select_modules": {
+        "header": "¿Qué te gustaría hacer hoy?",
         "modules": {
-          "appreciate": {
-            "thank": {
-              "header": "¡Muestre su agradecimiento con un simple agradecimiento!",
-              "team_title": "Selecciona un equipo",
-              "list_title": {
-                "list_populated": "Recientemente agradecido",
-                "list_empty": "Ser el primero en agradecer"
-              },
-              "entire_team": "Todo el equipo",
-              "search_members_prefill": "Buscar o ingresar el nombre",
-              "thanked_members_title": "Me gustaría agradecer a",
-              "next_page": "CONTINUAR"
+          "appreciate": "AGRADECER",
+          "report": "Compartir e Informe",
+          "feedback": "ENCUESTA"
+        },
+        "tabs": {
+          "appreciate": "AGRADECER",
+          "report": "Compartir e Informe",
+          "feedback": "ENCUESTA"
+        },
+        "tab_image": {
+          "appreciate": "tab_thank-spanish.png",
+          "report": "tab_report-spanish.png",
+          "feedback": "tab_feedback-spanish.png"
+        },
+        "disabled_module": "características deshabilitadas por admin",
+        "next_page": "Vamos",
+        "terms": {
+          "text:": "Al continuar, acepta nuestros términos, política de datos y política de cookies",
+          "url": "http://myrep.online/terms/?ver=123?lan=spanish"
+        }
+      },
+      "modules": {
+        "appreciate": {
+          "thank": {
+            "header": "¡Muestre su agradecimiento con un simple agradecimiento!",
+            "team_title": "Selecciona un equipo",
+            "list_title": {
+              "list_populated": "Recientemente agradecido",
+              "list_empty": "Ser el primero en agradecer"
             },
-            "note": {
-              "image": "post_thank-spanish.png",
-              "gif": "dancing.gif",
-              "compliment_title": "Un simple agradecimiento es muy largo, pero a veces queremos hacer un esfuerzo adicional. Seleccione un cumplido sugerido y personalice o escriba el suyo.",
-              "personal_touch_title": "Agregar un toque personal",
-              "personal_touch_prefill": "Comparta algo en sus propias palabras, o elija un cumplido sugerido y agregue su toque personal",
-              "take_credit_title": "Tomar el crédito",
-              "take_credit_prefill": "Tome el crédito agregando su nombre aquí. Deja vacío y publicaremos con un nombre de alias.",
-              "give_gift": "Estropear al personal",
-              "next_page": "TAL VEZ LA PRÓXIMA VEZ"
-            },
-            "gift": {
-              "people_contributed": "Gente contribuyó",
-              "progress": "Progreso",
-              "days_running": "Días ejecutados",
-              "custom_amount": "Cantidad personalizada",
-              "continue_with": "Continua con",
-              "dont_ask_again": "No preguntes de nuevo",
-              "next_page": "TAL VEZ LA PRÓXIMA VEZ"
-            }
-          },
-          "report": {
-            "header": "Compartir directamente con el gerente del equipo",
-            "team_title": "Seleccione equipos relevantes",
-            "managers_title": "Gerentes de equipo",
-            "topic_title": "¿Qué estás compartiendo? (opcional)",
-            "topic_options": [
-              {
-                "type": "complaint",
-                "name": "Queja",
-                "image": "mdi-thumb-down"
-              },
-              {
-                "type": "compliment",
-                "name": "Cumplido",
-                "image": "mdi-charity"
-              },
-              {
-                "type": "suggestion",
-                "name": "Sugerencia",
-                "image": "mdi-lightbulb-on-outline"
-              },
-              {
-                "type": "inspirational_story",
-                "name": "Historia inspiradora",
-                "image": "mdi-party-popper"
-              }
-            ],
-            "input_title": "¡Estamos escuchando!",
-            "input_prefill": "Comparte en tu idioma preferido. Nos ocuparemos de la traducción. Todo lo que comparte se envía anonoylyly al gerente. Si desea un seguimiento o que sea contactado por el gerente, asegúrese de incluir su información de contacto en el mensaje.",
-            "attachement_error": "Los archivos adjuntos no son compatibles con esta navegación",
+            "entire_team": "Todo el equipo",
+            "search_members_prefill": "Buscar o ingresar el nombre",
+            "thanked_members_title": "Me gustaría agradecer a",
             "next_page": "CONTINUAR"
           },
-          "feedback": {
-            "stats": {
-              "stat_1": "Gracias",
-              "stat_2": "Compartir e Informe",
-              "stat_3": "Encuesta"
-            },
-            "buttons": {
-              "agree": "ACEPTAR",
-              "disagree": "DISCREPAR",
-              "agree_strongly": "ACEPTAR_strongly",
-              "disagree_strongly": "DISCREPAR_strongly",
-              "neutral": "NEUTRAL",
-              "suggest": "Error gramatical",
-              "irrelevant": "Irrelevante"
-            },
-            "suggestion": {
-              "header": "¡Apreciamos la ayuda!",
-              "original_title": "Declaración original",
-              "suggestion_title": "¿Cómo debe ser redactado?",
-              "cancel": "Cancelar",
-              "next_page": "Ahorrar"
-            }
+          "note": {
+            "image": "post_thank-spanish.png",
+            "gif": "dancing.gif",
+            "compliment_title": "Un simple agradecimiento es muy largo, pero a veces queremos hacer un esfuerzo adicional. Seleccione un cumplido sugerido y personalice o escriba el suyo.",
+            "personal_touch_title": "Agregar un toque personal",
+            "personal_touch_prefill": "Comparta algo en sus propias palabras, o elija un cumplido sugerido y agregue su toque personal",
+            "take_credit_title": "Tomar el crédito",
+            "take_credit_prefill": "Tome el crédito agregando su nombre aquí. Deja vacío y publicaremos con un nombre de alias.",
+            "give_gift": "Estropear al personal",
+            "next_page": "TAL VEZ LA PRÓXIMA VEZ"
+          },
+          "gift": {
+            "people_contributed": "Gente contribuyó",
+            "progress": "Progreso",
+            "days_running": "Días ejecutados",
+            "custom_amount": "Cantidad personalizada",
+            "continue_with": "Continua con",
+            "dont_ask_again": "No preguntes de nuevo",
+            "next_page": "TAL VEZ LA PRÓXIMA VEZ"
           }
         },
-        "verify": {
-          "header": "Comentarios completados!",
-          "privacy": "verify-spanish.png",
-          "token_title": "Token OTP",
+        "report": {
+          "header": "Compartir directamente con el gerente del equipo",
+          "team_title": "Seleccione equipos relevantes",
+          "managers_title": "Gerentes de equipo",
+          "topic_title": "¿Qué estás compartiendo? (opcional)",
+          "topic_options": [
+            {
+              "type": "complaint",
+              "name": "Queja",
+              "image": "mdi-thumb-down"
+            },
+            {
+              "type": "compliment",
+              "name": "Cumplido",
+              "image": "mdi-charity"
+            },
+            {
+              "type": "suggestion",
+              "name": "Sugerencia",
+              "image": "mdi-lightbulb-on-outline"
+            },
+            {
+              "type": "inspirational_story",
+              "name": "Historia inspiradora",
+              "image": "mdi-party-popper"
+            }
+          ],
+          "input_title": "¡Estamos escuchando!",
+          "input_prefill": "Comparte en tu idioma preferido. Nos ocuparemos de la traducción. Todo lo que comparte se envía anonoylyly al gerente. Si desea un seguimiento o que sea contactado por el gerente, asegúrese de incluir su información de contacto en el mensaje.",
+          "attachement_error": "Los archivos adjuntos no son compatibles con esta navegación",
+          "next_page": "CONTINUAR"
+        },
+        "feedback": {
+          "stats": {
+            "stat_1": "Gracias",
+            "stat_2": "Compartir e Informe",
+            "stat_3": "Encuesta"
+          },
           "buttons": {
-            "verify_whatsapp": "Enviar OTP a través de WhatsApp",
-            "verify_email": "Enviar OTP por correo electrónico"
+            "agree": "ACEPTAR",
+            "disagree": "DISCREPAR",
+            "agree_strongly": "ACEPTAR_strongly",
+            "disagree_strongly": "DISCREPAR_strongly",
+            "neutral": "NEUTRAL",
+            "suggest": "Error gramatical",
+            "irrelevant": "Irrelevante"
           },
-          "message": {
-            "whatsapp": "https://wa.me/13474917585?text=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token",
-            "email": "mailto:myrep.auth@gmail.com?subject=Authentication Token&body=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token"
-          },
-          "post_verify": {
-            "header": "Verficación presentada",
-            "body": "¡Qué tengas un lindo día!"
+          "suggestion": {
+            "header": "¡Apreciamos la ayuda!",
+            "original_title": "Declaración original",
+            "suggestion_title": "¿Cómo debe ser redactado?",
+            "cancel": "Cancelar",
+            "next_page": "Ahorrar"
           }
         }
       },
-      "afrikaans": {
-        "select_modules": {
-          "header": "Wat wil u vandag doen?",
-          "modules": {
-            "appreciate": "Bedank",
-            "report": "Deel en verslag",
-            "feedback": "Opmeet"
-          },
-          "tabs": {
-            "appreciate": "Bedank",
-            "report": "Deel en verslag",
-            "feedback": "Opmeet"
-          },
-          "tab_image": {
-            "appreciate": "tab_thank-afrikaans.png",
-            "report": "tab_report-afrikaans.png",
-            "feedback": "tab_feedback-afrikaans.png"
-          },
-          "disabled_module": "funksie gedeaktiveer deur admin",
-          "next_page": "Kom ons gaan",
-          "terms": {
-            "text:": "Deur voort te gaan, stem u in tot ons bepalings, databeleid en koekiebeleid",
-            "url": "http://myrep.online/terms/?ver=123?lan=afrikaans"
-          }
+      "verify": {
+        "header": "Comentarios completados!",
+        "privacy": "verify-spanish.png",
+        "token_title": "Token OTP",
+        "buttons": {
+          "verify_whatsapp": "Enviar OTP a través de WhatsApp",
+          "verify_email": "Enviar OTP por correo electrónico"
         },
+        "message": {
+          "whatsapp": "https://wa.me/13474917585?text=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token",
+          "email": "mailto:myrep.auth@gmail.com?subject=Authentication Token&body=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token"
+        },
+        "post_verify": {
+          "header": "Verficación presentada",
+          "body": "¡Qué tengas un lindo día!"
+        }
+      }
+    },
+    "afrikaans": {
+      "select_modules": {
+        "header": "Wat wil u vandag doen?",
         "modules": {
-          "appreciate": {
-            "thank": {
-              "header": "Toon u waardering met 'n eenvoudige dankie!",
-              "team_title": "SELECT SPAN",
-              "list_title": {
-                "list_populated": "Onlangs bedank",
-                "list_empty": "Wees die eerste wat bedank"
-              },
-              "entire_team": "Hele span",
-              "search_members_prefill": "Soek of voer die naam in",
-              "thanked_members_title": "ek wil graag bedank",
-              "next_page": "AANHOU"
+          "appreciate": "Bedank",
+          "report": "Deel en verslag",
+          "feedback": "Opmeet"
+        },
+        "tabs": {
+          "appreciate": "Bedank",
+          "report": "Deel en verslag",
+          "feedback": "Opmeet"
+        },
+        "tab_image": {
+          "appreciate": "tab_thank-afrikaans.png",
+          "report": "tab_report-afrikaans.png",
+          "feedback": "tab_feedback-afrikaans.png"
+        },
+        "disabled_module": "funksie gedeaktiveer deur admin",
+        "next_page": "Kom ons gaan",
+        "terms": {
+          "text:": "Deur voort te gaan, stem u in tot ons bepalings, databeleid en koekiebeleid",
+          "url": "http://myrep.online/terms/?ver=123?lan=afrikaans"
+        }
+      },
+      "modules": {
+        "appreciate": {
+          "thank": {
+            "header": "Toon u waardering met 'n eenvoudige dankie!",
+            "team_title": "SELECT SPAN",
+            "list_title": {
+              "list_populated": "Onlangs bedank",
+              "list_empty": "Wees die eerste wat bedank"
             },
-            "note": {
-              "image": "post_thank-afrikaans.png",
-              "gif": "dancing.gif",
-              "compliment_title": "'N Eenvoudige dankie gaan baie - maar soms wil ons die ekstra myl gaan. Kies 'n voorgestelde kompliment en verpersoonlik dit of skryf u eie.",
-              "personal_touch_title": "Voeg 'n persoonlike aanraking by",
-              "personal_touch_prefill": "Deel iets in u eie woorde, of kies 'n voorgestelde kompliment en voeg u persoonlike aanraking by",
-              "take_credit_title": "Neem krediet",
-              "take_credit_prefill": "Neem krediet deur u naam hier by te voeg. Laat leeg en ons sal met 'n aliasnaam plaas.",
-              "give_gift": "Bederf die personeel",
-              "next_page": "MISKIEN VOLGENDE KEER"
-            },
-            "gift": {
-              "people_contributed": "Mense het bygedra",
-              "progress": "Vooruitgang",
-              "days_running": "Dae loop",
-              "custom_amount": "Aangepaste bedrag",
-              "continue_with": "Gaan voort met",
-              "dont_ask_again": "Moenie weer vra nie",
-              "next_page": "MISKIEN VOLGENDE KEER"
-            }
-          },
-          "report": {
-            "header": "Deel direk met die bestuurder van die span",
-            "team_title": "Kies relevante spanne",
-            "managers_title": "Spanbestuurders",
-            "topic_title": "Wat deel jy? (opsioneel)",
-            "topic_options": [
-              {
-                "type": "complaint",
-                "name": "Klagte",
-                "image": "mdi-thumb-down"
-              },
-              {
-                "type": "compliment",
-                "name": "Kompliment",
-                "image": "mdi-charity"
-              },
-              {
-                "type": "suggestion",
-                "name": "Voorstel",
-                "image": "mdi-lightbulb-on-outline"
-              },
-              {
-                "type": "inspirational_story",
-                "name": "Inspirerende verhaal",
-                "image": "mdi-party-popper"
-              }
-            ],
-            "input_title": "Ons luister!",
-            "input_prefill": "Deel in u voorgestelde taal. Ons sal sorg vir die vertaling. Alles wat u deel, word anonoylies aan die bestuurder gestuur. As u 'n opvolg wil hê of deur die bestuurder gekontak moet word, moet u u kontakinligting by die boodskap insluit.",
-            "attachement_error": "Aanhangsels word nie in hierdie blaai ondersteun nie",
+            "entire_team": "Hele span",
+            "search_members_prefill": "Soek of voer die naam in",
+            "thanked_members_title": "ek wil graag bedank",
             "next_page": "AANHOU"
           },
-          "feedback": {
-            "stats": {
-              "stat_1": "Dankie",
-              "stat_2": "Deel en verslag",
-              "stat_3": "Opmeet"
-            },
-            "buttons": {
-              "agree": "Ooreenstem",
-              "disagree": "VERSKIL",
-              "agree_strongly": "Ooreenstem_strongly",
-              "disagree_strongly": "VERSKIL_strongly",
-              "neutral": "Neutraal",
-              "suggest": "Grammatikale fout",
-              "irrelevant": "Irrelevant"
-            },
-            "suggestion": {
-              "header": "Ons waardeer die hulp!",
-              "original_title": "Oorspronklike verklaring",
-              "suggestion_title": "Hoe moet dit bewoord word?",
-              "cancel": "Kanselleer",
-              "next_page": "Red"
-            }
+          "note": {
+            "image": "post_thank-afrikaans.png",
+            "gif": "dancing.gif",
+            "compliment_title": "'N Eenvoudige dankie gaan baie - maar soms wil ons die ekstra myl gaan. Kies 'n voorgestelde kompliment en verpersoonlik dit of skryf u eie.",
+            "personal_touch_title": "Voeg 'n persoonlike aanraking by",
+            "personal_touch_prefill": "Deel iets in u eie woorde, of kies 'n voorgestelde kompliment en voeg u persoonlike aanraking by",
+            "take_credit_title": "Neem krediet",
+            "take_credit_prefill": "Neem krediet deur u naam hier by te voeg. Laat leeg en ons sal met 'n aliasnaam plaas.",
+            "give_gift": "Bederf die personeel",
+            "next_page": "MISKIEN VOLGENDE KEER"
+          },
+          "gift": {
+            "people_contributed": "Mense het bygedra",
+            "progress": "Vooruitgang",
+            "days_running": "Dae loop",
+            "custom_amount": "Aangepaste bedrag",
+            "continue_with": "Gaan voort met",
+            "dont_ask_again": "Moenie weer vra nie",
+            "next_page": "MISKIEN VOLGENDE KEER"
           }
         },
-        "verify": {
-          "header": "Terugvoer voltooi!",
-          "privacy": "verify-afrikaans.png",
-          "token_title": "OTP -token",
+        "report": {
+          "header": "Deel direk met die bestuurder van die span",
+          "team_title": "Kies relevante spanne",
+          "managers_title": "Spanbestuurders",
+          "topic_title": "Wat deel jy? (opsioneel)",
+          "topic_options": [
+            {
+              "type": "complaint",
+              "name": "Klagte",
+              "image": "mdi-thumb-down"
+            },
+            {
+              "type": "compliment",
+              "name": "Kompliment",
+              "image": "mdi-charity"
+            },
+            {
+              "type": "suggestion",
+              "name": "Voorstel",
+              "image": "mdi-lightbulb-on-outline"
+            },
+            {
+              "type": "inspirational_story",
+              "name": "Inspirerende verhaal",
+              "image": "mdi-party-popper"
+            }
+          ],
+          "input_title": "Ons luister!",
+          "input_prefill": "Deel in u voorgestelde taal. Ons sal sorg vir die vertaling. Alles wat u deel, word anonoylies aan die bestuurder gestuur. As u 'n opvolg wil hê of deur die bestuurder gekontak moet word, moet u u kontakinligting by die boodskap insluit.",
+          "attachement_error": "Aanhangsels word nie in hierdie blaai ondersteun nie",
+          "next_page": "AANHOU"
+        },
+        "feedback": {
+          "stats": {
+            "stat_1": "Dankie",
+            "stat_2": "Deel en verslag",
+            "stat_3": "Opmeet"
+          },
           "buttons": {
-            "verify_whatsapp": "Stuur OTP via WhatsApp",
-            "verify_email": "Stuur OTP per e -pos"
+            "agree": "Ooreenstem",
+            "disagree": "VERSKIL",
+            "agree_strongly": "Ooreenstem_strongly",
+            "disagree_strongly": "VERSKIL_strongly",
+            "neutral": "Neutraal",
+            "suggest": "Grammatikale fout",
+            "irrelevant": "Irrelevant"
           },
-          "message": {
-            "whatsapp": "https://wa.me/13474917585?text=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token",
-            "email": "mailto:myrep.auth@gmail.com?subject=Authentication Token&body=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token"
-          },
-          "post_verify": {
-            "header": "Verfikasie ingedien",
-            "body": "Lekker dag vir jou!"
+          "suggestion": {
+            "header": "Ons waardeer die hulp!",
+            "original_title": "Oorspronklike verklaring",
+            "suggestion_title": "Hoe moet dit bewoord word?",
+            "cancel": "Kanselleer",
+            "next_page": "Red"
           }
         }
       },
-      "xhosa": {
-        "select_modules": {
-          "header": "Ungathanda ukwenza ntoni namhlanje?",
-          "modules": {
-            "appreciate": "Enkosi",
-            "report": "Ukwabelana kunye neNgxelo",
-            "feedback": "Uphononongo"
-          },
-          "tabs": {
-            "appreciate": "Enkosi",
-            "report": "Ukwabelana kunye neNgxelo",
-            "feedback": "Uphononongo"
-          },
-          "tab_image": {
-            "appreciate": "tab_thank-xhosa.png",
-            "report": "tab_report-xhosa.png",
-            "feedback": "tab_feedback-xhosa.png"
-          },
-          "disabled_module": "Inqaku likhubazekile ngumlawuli",
-          "next_page": "Masihambe",
-          "terms": {
-            "text:": "Ngokuqhubeka uthandamela ngokwemigaqo yethu, imigaqo-nkqubo yedatha kunye nomgaqo-nkqubo wecookie",
-            "url": "http://myrep.online/terms/?ver=123?lan=xhosa"
-          }
+      "verify": {
+        "header": "Terugvoer voltooi!",
+        "privacy": "verify-afrikaans.png",
+        "token_title": "OTP -token",
+        "buttons": {
+          "verify_whatsapp": "Stuur OTP via WhatsApp",
+          "verify_email": "Stuur OTP per e -pos"
         },
+        "message": {
+          "whatsapp": "https://wa.me/13474917585?text=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token",
+          "email": "mailto:myrep.auth@gmail.com?subject=Authentication Token&body=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token"
+        },
+        "post_verify": {
+          "header": "Verfikasie ingedien",
+          "body": "Lekker dag vir jou!"
+        }
+      }
+    },
+    "xhosa": {
+      "select_modules": {
+        "header": "Ungathanda ukwenza ntoni namhlanje?",
         "modules": {
-          "appreciate": {
-            "thank": {
-              "header": "Veza uxabiso lwakho kunye ne-Eles Enkosi!",
-              "team_title": "Khetha IQela",
-              "list_title": {
-                "list_populated": "Kutsha nje",
-                "list_empty": "Yiba ngowokuqala ukubulela"
-              },
-              "entire_team": "Iqela liphela",
-              "search_members_prefill": "Khangela okanye ungene igama",
-              "thanked_members_title": "Ndingathanda ukubulela",
-              "next_page": "Qhubeka"
+          "appreciate": "Enkosi",
+          "report": "Ukwabelana kunye neNgxelo",
+          "feedback": "Uphononongo"
+        },
+        "tabs": {
+          "appreciate": "Enkosi",
+          "report": "Ukwabelana kunye neNgxelo",
+          "feedback": "Uphononongo"
+        },
+        "tab_image": {
+          "appreciate": "tab_thank-xhosa.png",
+          "report": "tab_report-xhosa.png",
+          "feedback": "tab_feedback-xhosa.png"
+        },
+        "disabled_module": "Inqaku likhubazekile ngumlawuli",
+        "next_page": "Masihambe",
+        "terms": {
+          "text:": "Ngokuqhubeka uthandamela ngokwemigaqo yethu, imigaqo-nkqubo yedatha kunye nomgaqo-nkqubo wecookie",
+          "url": "http://myrep.online/terms/?ver=123?lan=xhosa"
+        }
+      },
+      "modules": {
+        "appreciate": {
+          "thank": {
+            "header": "Veza uxabiso lwakho kunye ne-Eles Enkosi!",
+            "team_title": "Khetha IQela",
+            "list_title": {
+              "list_populated": "Kutsha nje",
+              "list_empty": "Yiba ngowokuqala ukubulela"
             },
-            "note": {
-              "image": "post_thank-xhosa.png",
-              "gif": "dancing.gif",
-              "compliment_title": "Enkosi elula uhamba indlela ende - kodwa ngamanye amaxesha sifuna ukuya kwimayile eyongezelelweyo. Khetha icebiso elicetyiswayo kwaye lizenzele lona okanye ubhale eyakho.",
-              "personal_touch_title": "Yongeza ukuchukumisa",
-              "personal_touch_prefill": "Yabelana ngento yamazwi akho, okanye ukhethe i-Connent eNgcono kwaye Yongeza uNcedo lwakho lobuqu",
-              "take_credit_title": "Thatha ityala",
-              "take_credit_prefill": "Thatha imbeko ngokudibanisa igama lakho apha. Shiya ingenanto kwaye siza kuthumela ngegama le-alias.",
-              "give_gift": "Ukonakalisa abasebenzi",
-              "next_page": "MHLAWUMBI KWIXESHA ELIZAYO"
-            },
-            "gift": {
-              "people_contributed": "Abantu banegalelo",
-              "progress": "Inkqubela",
-              "days_running": "Iintsuku ezibalekayo",
-              "custom_amount": "Isixa esisiko",
-              "continue_with": "Qhubeka ne",
-              "dont_ask_again": "Sukubuza kwakhona",
-              "next_page": "MHLAWUMBI KWIXESHA ELIZAYO"
-            }
-          },
-          "report": {
-            "header": "Yabelana ngokuthe ngqo noMphathi weqela",
-            "team_title": "Khetha amaQela afanelekileyo",
-            "managers_title": "Abaphathi bamaQela",
-            "topic_title": "Wenza ntoni? (ngokuzithandela)",
-            "topic_options": [
-              {
-                "type": "complaint",
-                "name": "Isikhalazo",
-                "image": "mdi-thumb-down"
-              },
-              {
-                "type": "compliment",
-                "name": "Ukuncoma",
-                "image": "mdi-charity"
-              },
-              {
-                "type": "suggestion",
-                "name": "Icebiso",
-                "image": "mdi-lightbulb-on-outline"
-              },
-              {
-                "type": "inspirational_story",
-                "name": "Ibali elikhuthazayo",
-                "image": "mdi-party-popper"
-              }
-            ],
-            "input_title": "Simamele!",
-            "input_prefill": "Yabelana ngolwimi lwakho olukhethiweyo. Siza kukhathalela inguqulelo. Yonke into oyisabelayo ithunyelwe ngokungathandabuzekiyo kumphathi. Ukuba ungathanda ukulandela okanye ukunxibelelana nomphathi, nceda uqiniseke ukubandakanya ulwazi lwakho lonxibelelwano kumyalezo.",
-            "attachement_error": "Izinamathiselo azixhaswanga kule browse",
+            "entire_team": "Iqela liphela",
+            "search_members_prefill": "Khangela okanye ungene igama",
+            "thanked_members_title": "Ndingathanda ukubulela",
             "next_page": "Qhubeka"
           },
-          "feedback": {
-            "stats": {
-              "stat_1": "Enkosi",
-              "stat_2": "Ukwabelana kunye neNgxelo",
-              "stat_3": "Uphononongo"
-            },
-            "buttons": {
-              "agree": "Vuma",
-              "disagree": "Andivumelani",
-              "agree_strongly": "Vuma_strongly",
-              "disagree_strongly": "Andivumelani_strongly",
-              "neutral": "Ukungathathi hlangothi",
-              "suggest": "Impazamo yegrama",
-              "irrelevant": "Ayisebenzi"
-            },
-            "suggestion": {
-              "header": "Siyaluxabisa uncedo!",
-              "original_title": "Ingxelo yoqobo",
-              "suggestion_title": "Ifanele ivakale njani?",
-              "cancel": "Rhoxisa",
-              "next_page": "Gcina"
-            }
+          "note": {
+            "image": "post_thank-xhosa.png",
+            "gif": "dancing.gif",
+            "compliment_title": "Enkosi elula uhamba indlela ende - kodwa ngamanye amaxesha sifuna ukuya kwimayile eyongezelelweyo. Khetha icebiso elicetyiswayo kwaye lizenzele lona okanye ubhale eyakho.",
+            "personal_touch_title": "Yongeza ukuchukumisa",
+            "personal_touch_prefill": "Yabelana ngento yamazwi akho, okanye ukhethe i-Connent eNgcono kwaye Yongeza uNcedo lwakho lobuqu",
+            "take_credit_title": "Thatha ityala",
+            "take_credit_prefill": "Thatha imbeko ngokudibanisa igama lakho apha. Shiya ingenanto kwaye siza kuthumela ngegama le-alias.",
+            "give_gift": "Ukonakalisa abasebenzi",
+            "next_page": "MHLAWUMBI KWIXESHA ELIZAYO"
+          },
+          "gift": {
+            "people_contributed": "Abantu banegalelo",
+            "progress": "Inkqubela",
+            "days_running": "Iintsuku ezibalekayo",
+            "custom_amount": "Isixa esisiko",
+            "continue_with": "Qhubeka ne",
+            "dont_ask_again": "Sukubuza kwakhona",
+            "next_page": "MHLAWUMBI KWIXESHA ELIZAYO"
           }
         },
-        "verify": {
-          "header": "Ingxelo igqityiwe!",
-          "privacy": "verify-xhosa.png",
-          "token_title": "Ithokheni ye-OTP",
+        "report": {
+          "header": "Yabelana ngokuthe ngqo noMphathi weqela",
+          "team_title": "Khetha amaQela afanelekileyo",
+          "managers_title": "Abaphathi bamaQela",
+          "topic_title": "Wenza ntoni? (ngokuzithandela)",
+          "topic_options": [
+            {
+              "type": "complaint",
+              "name": "Isikhalazo",
+              "image": "mdi-thumb-down"
+            },
+            {
+              "type": "compliment",
+              "name": "Ukuncoma",
+              "image": "mdi-charity"
+            },
+            {
+              "type": "suggestion",
+              "name": "Icebiso",
+              "image": "mdi-lightbulb-on-outline"
+            },
+            {
+              "type": "inspirational_story",
+              "name": "Ibali elikhuthazayo",
+              "image": "mdi-party-popper"
+            }
+          ],
+          "input_title": "Simamele!",
+          "input_prefill": "Yabelana ngolwimi lwakho olukhethiweyo. Siza kukhathalela inguqulelo. Yonke into oyisabelayo ithunyelwe ngokungathandabuzekiyo kumphathi. Ukuba ungathanda ukulandela okanye ukunxibelelana nomphathi, nceda uqiniseke ukubandakanya ulwazi lwakho lonxibelelwano kumyalezo.",
+          "attachement_error": "Izinamathiselo azixhaswanga kule browse",
+          "next_page": "Qhubeka"
+        },
+        "feedback": {
+          "stats": {
+            "stat_1": "Enkosi",
+            "stat_2": "Ukwabelana kunye neNgxelo",
+            "stat_3": "Uphononongo"
+          },
           "buttons": {
-            "verify_whatsapp": "Thumela i-OTP nge-whatsapp",
-            "verify_email": "Thumela i-OTP nge-imeyile"
+            "agree": "Vuma",
+            "disagree": "Andivumelani",
+            "agree_strongly": "Vuma_strongly",
+            "disagree_strongly": "Andivumelani_strongly",
+            "neutral": "Ukungathathi hlangothi",
+            "suggest": "Impazamo yegrama",
+            "irrelevant": "Ayisebenzi"
           },
-          "message": {
-            "whatsapp": "https://wa.me/13474917585?text=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token",
-            "email": "mailto:myrep.auth@gmail.com?subject=Authentication Token&body=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token"
-          },
-          "post_verify": {
-            "header": "Unyango olungenisiweyo",
-            "body": "Ubenosuku olumnandi kakhulu!"
+          "suggestion": {
+            "header": "Siyaluxabisa uncedo!",
+            "original_title": "Ingxelo yoqobo",
+            "suggestion_title": "Ifanele ivakale njani?",
+            "cancel": "Rhoxisa",
+            "next_page": "Gcina"
           }
         }
       },
-      "zulu": {
-        "select_modules": {
-          "header": "Yini ongathanda ukuyenza namuhla?",
-          "modules": {
-            "appreciate": "Thakasela",
-            "report": "Yabelana noMbiko",
-            "feedback": "Hlola"
-          },
-          "tabs": {
-            "appreciate": "Thakasela",
-            "report": "Yabelana noMbiko",
-            "feedback": "Hlola"
-          },
-          "tab_image": {
-            "appreciate": "tab_thank-zulu.png",
-            "report": "tab_report-zulu.png",
-            "feedback": "tab_feedback-zulu.png"
-          },
-          "disabled_module": "Isici sikhutshaziwe ngu-Admin",
-          "next_page": "Asambe",
-          "terms": {
-            "text:": "Ngokuqhubeka uvumelana nemigomo yethu, inqubomgomo yedatha kanye nenqubomgomo yekhukhi",
-            "url": "http://myrep.online/terms/?ver=123?lan=zulu"
-          }
+      "verify": {
+        "header": "Ingxelo igqityiwe!",
+        "privacy": "verify-xhosa.png",
+        "token_title": "Ithokheni ye-OTP",
+        "buttons": {
+          "verify_whatsapp": "Thumela i-OTP nge-whatsapp",
+          "verify_email": "Thumela i-OTP nge-imeyile"
         },
+        "message": {
+          "whatsapp": "https://wa.me/13474917585?text=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token",
+          "email": "mailto:myrep.auth@gmail.com?subject=Authentication Token&body=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token"
+        },
+        "post_verify": {
+          "header": "Unyango olungenisiweyo",
+          "body": "Ubenosuku olumnandi kakhulu!"
+        }
+      }
+    },
+    "zulu": {
+      "select_modules": {
+        "header": "Yini ongathanda ukuyenza namuhla?",
         "modules": {
-          "appreciate": {
-            "thank": {
-              "header": "Khombisa ukwazisa kwakho ngokubonga okulula!",
-              "team_title": "Khetha Iqembu",
-              "list_title": {
-                "list_populated": "Muva nje ubonge",
-                "list_empty": "Ube ngowokuqala ukubonga"
-              },
-              "entire_team": "Iqembu lonke",
-              "search_members_prefill": "Sesha noma faka igama",
-              "thanked_members_title": "Ngingathanda ukubonga",
-              "next_page": "Qhubeka"
+          "appreciate": "Thakasela",
+          "report": "Yabelana noMbiko",
+          "feedback": "Hlola"
+        },
+        "tabs": {
+          "appreciate": "Thakasela",
+          "report": "Yabelana noMbiko",
+          "feedback": "Hlola"
+        },
+        "tab_image": {
+          "appreciate": "tab_thank-zulu.png",
+          "report": "tab_report-zulu.png",
+          "feedback": "tab_feedback-zulu.png"
+        },
+        "disabled_module": "Isici sikhutshaziwe ngu-Admin",
+        "next_page": "Asambe",
+        "terms": {
+          "text:": "Ngokuqhubeka uvumelana nemigomo yethu, inqubomgomo yedatha kanye nenqubomgomo yekhukhi",
+          "url": "http://myrep.online/terms/?ver=123?lan=zulu"
+        }
+      },
+      "modules": {
+        "appreciate": {
+          "thank": {
+            "header": "Khombisa ukwazisa kwakho ngokubonga okulula!",
+            "team_title": "Khetha Iqembu",
+            "list_title": {
+              "list_populated": "Muva nje ubonge",
+              "list_empty": "Ube ngowokuqala ukubonga"
             },
-            "note": {
-              "image": "post_thank-zulu.png",
-              "gif": "dancing.gif",
-              "compliment_title": "Ukubonga okulula uhamba ibanga elide - kepha kwesinye isikhathi sifuna ukuya olwengeziwe amamayela. Khetha ukuncoma okuphakanyisiwe futhi wenze ngezifiso noma ubhale okwakho.",
-              "personal_touch_title": "Faka ukuthinta komuntu siqu",
-              "personal_touch_prefill": "Yabelana ngokuthile ngamagama akho, noma ukhethe ukuncoma okuphakanyisiwe bese wengeza ukuthinta kwakho",
-              "take_credit_title": "Thatha isikweletu",
-              "take_credit_prefill": "Thatha isikweletu ngokungeza igama lakho lapha. Shiya ungenalutho futhi sizothumela ngegama le-alias.",
-              "give_gift": "Konakalisa abasebenzi",
-              "next_page": "MHLAWUMBE ESIKHATHINI ESIZAYO"
-            },
-            "gift": {
-              "people_contributed": "Abantu banikela",
-              "progress": "Ukuqhubeka",
-              "days_running": "izinsuku ziyagijima",
-              "custom_amount": "Isendlalelo",
-              "continue_with": "Qhubeka nge",
-              "dont_ask_again": "Musa ukubuza futhi",
-              "next_page": "MHLAWUMBE ESIKHATHINI ESIZAYO"
-            }
-          },
-          "report": {
-            "header": "Yabelana ngqo nomphathi weqembu",
-            "team_title": "Khetha amaqembu afanele",
-            "managers_title": "Abaphathi beqembu",
-            "topic_title": "Uhlanganyela ini? (Ngokuzithandela)",
-            "topic_options": [
-              {
-                "type": "complaint",
-                "name": "Isikhalazo",
-                "image": "mdi-thumb-down"
-              },
-              {
-                "type": "compliment",
-                "name": "Ukutusa",
-                "image": "mdi-charity"
-              },
-              {
-                "type": "suggestion",
-                "name": "Umbono",
-                "image": "mdi-lightbulb-on-outline"
-              },
-              {
-                "type": "inspirational_story",
-                "name": "Indaba Ekhuthazayo",
-                "image": "mdi-party-popper"
-              }
-            ],
-            "input_title": "Siyalalela!",
-            "input_prefill": "Yabelana ngolimi lwakho oluncamelayo. Sizonakekela ukuhumusha. Konke owabelana ngawo kuthunyelwa nge-anonoylous kumphathi. Uma ungathanda ukulandela noma ukuxhumana ngumphathi, sicela uqiniseke ukufaka imininingwane yakho yokuxhumana emyalezweni.",
-            "attachement_error": "Okunamathiselwe akusekelwa kulokhu kubhekwa",
+            "entire_team": "Iqembu lonke",
+            "search_members_prefill": "Sesha noma faka igama",
+            "thanked_members_title": "Ngingathanda ukubonga",
             "next_page": "Qhubeka"
           },
-          "feedback": {
-            "stats": {
-              "stat_1": "Ngiyabonga",
-              "stat_2": "Yabelana noMbiko",
-              "stat_3": "Hlola"
-            },
-            "buttons": {
-              "agree": "Vumelana",
-              "disagree": "Phika",
-              "agree_strongly": "Vumelana_strongly",
-              "disagree_strongly": "Phika_strongly",
-              "neutral": "-Ngagqamisi uhlobo",
-              "suggest": "Iphutha lolimi",
-              "irrelevant": "-Ngavumelani"
-            },
-            "suggestion": {
-              "header": "Siyalwazisa usizo!",
-              "original_title": "Isitatimende sokuqala",
-              "suggestion_title": "Kufanele Kubhalwe Kubizwa Kanjani?",
-              "cancel": "Hlikihla",
-              "next_page": "Hlenga"
-            }
+          "note": {
+            "image": "post_thank-zulu.png",
+            "gif": "dancing.gif",
+            "compliment_title": "Ukubonga okulula uhamba ibanga elide - kepha kwesinye isikhathi sifuna ukuya olwengeziwe amamayela. Khetha ukuncoma okuphakanyisiwe futhi wenze ngezifiso noma ubhale okwakho.",
+            "personal_touch_title": "Faka ukuthinta komuntu siqu",
+            "personal_touch_prefill": "Yabelana ngokuthile ngamagama akho, noma ukhethe ukuncoma okuphakanyisiwe bese wengeza ukuthinta kwakho",
+            "take_credit_title": "Thatha isikweletu",
+            "take_credit_prefill": "Thatha isikweletu ngokungeza igama lakho lapha. Shiya ungenalutho futhi sizothumela ngegama le-alias.",
+            "give_gift": "Konakalisa abasebenzi",
+            "next_page": "MHLAWUMBE ESIKHATHINI ESIZAYO"
+          },
+          "gift": {
+            "people_contributed": "Abantu banikela",
+            "progress": "Ukuqhubeka",
+            "days_running": "izinsuku ziyagijima",
+            "custom_amount": "Isendlalelo",
+            "continue_with": "Qhubeka nge",
+            "dont_ask_again": "Musa ukubuza futhi",
+            "next_page": "MHLAWUMBE ESIKHATHINI ESIZAYO"
           }
         },
-        "verify": {
-          "header": "Impendulo iqediwe!",
-          "privacy": "verify-zulu.png",
-          "token_title": "Ithokheni ye-OTP",
+        "report": {
+          "header": "Yabelana ngqo nomphathi weqembu",
+          "team_title": "Khetha amaqembu afanele",
+          "managers_title": "Abaphathi beqembu",
+          "topic_title": "Uhlanganyela ini? (Ngokuzithandela)",
+          "topic_options": [
+            {
+              "type": "complaint",
+              "name": "Isikhalazo",
+              "image": "mdi-thumb-down"
+            },
+            {
+              "type": "compliment",
+              "name": "Ukutusa",
+              "image": "mdi-charity"
+            },
+            {
+              "type": "suggestion",
+              "name": "Umbono",
+              "image": "mdi-lightbulb-on-outline"
+            },
+            {
+              "type": "inspirational_story",
+              "name": "Indaba Ekhuthazayo",
+              "image": "mdi-party-popper"
+            }
+          ],
+          "input_title": "Siyalalela!",
+          "input_prefill": "Yabelana ngolimi lwakho oluncamelayo. Sizonakekela ukuhumusha. Konke owabelana ngawo kuthunyelwa nge-anonoylous kumphathi. Uma ungathanda ukulandela noma ukuxhumana ngumphathi, sicela uqiniseke ukufaka imininingwane yakho yokuxhumana emyalezweni.",
+          "attachement_error": "Okunamathiselwe akusekelwa kulokhu kubhekwa",
+          "next_page": "Qhubeka"
+        },
+        "feedback": {
+          "stats": {
+            "stat_1": "Ngiyabonga",
+            "stat_2": "Yabelana noMbiko",
+            "stat_3": "Hlola"
+          },
           "buttons": {
-            "verify_whatsapp": "Thumela i-OTP nge-whatsapp",
-            "verify_email": "Thumela i-OTP nge-imeyili"
+            "agree": "Vumelana",
+            "disagree": "Phika",
+            "agree_strongly": "Vumelana_strongly",
+            "disagree_strongly": "Phika_strongly",
+            "neutral": "-Ngagqamisi uhlobo",
+            "suggest": "Iphutha lolimi",
+            "irrelevant": "-Ngavumelani"
           },
-          "message": {
-            "whatsapp": "https://wa.me/13474917585?text=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token",
-            "email": "mailto:myrep.auth@gmail.com?subject=Authentication Token&body=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token"
-          },
-          "post_verify": {
-            "header": "I-verfoipt ihanjisiwe",
-            "body": "Jabulela usuku lwakho!"
+          "suggestion": {
+            "header": "Siyalwazisa usizo!",
+            "original_title": "Isitatimende sokuqala",
+            "suggestion_title": "Kufanele Kubhalwe Kubizwa Kanjani?",
+            "cancel": "Hlikihla",
+            "next_page": "Hlenga"
           }
         }
       },
-      "japanese": {
-        "select_modules": {
-          "header": "今日は何したい？",
-          "modules": {
-            "appreciate": "感謝",
-            "report": "共有とレポート",
-            "feedback": "調査"
-          },
-          "tabs": {
-            "appreciate": "感謝",
-            "report": "共有とレポート",
-            "feedback": "調査"
-          },
-          "tab_image": {
-            "appreciate": "tab_thank-japanese.png",
-            "report": "tab_report-japanese.png",
-            "feedback": "tab_feedback-japanese.png"
-          },
-          "disabled_module": "管理者によって無効になっている機能",
-          "next_page": "さあ行こう",
-          "terms": {
-            "text:": "継続することにより、お客様は当社の条件、データポリシー、クッキーポリシーに同意します",
-            "url": "http://myrep.online/terms/?ver=123?lan=japanese"
-          }
+      "verify": {
+        "header": "Impendulo iqediwe!",
+        "privacy": "verify-zulu.png",
+        "token_title": "Ithokheni ye-OTP",
+        "buttons": {
+          "verify_whatsapp": "Thumela i-OTP nge-whatsapp",
+          "verify_email": "Thumela i-OTP nge-imeyili"
         },
+        "message": {
+          "whatsapp": "https://wa.me/13474917585?text=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token",
+          "email": "mailto:myrep.auth@gmail.com?subject=Authentication Token&body=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token"
+        },
+        "post_verify": {
+          "header": "I-verfoipt ihanjisiwe",
+          "body": "Jabulela usuku lwakho!"
+        }
+      }
+    },
+    "japanese": {
+      "select_modules": {
+        "header": "今日は何したい？",
         "modules": {
-          "appreciate": {
-            "thank": {
-              "header": "簡単なありがとうで感謝を示してください！",
-              "team_title": "チームを選ぶ",
-              "list_title": {
-                "list_populated": "最近感謝しました",
-                "list_empty": "最初に感謝してください"
-              },
-              "entire_team": "チーム全体",
-              "search_members_prefill": "名前を検索または入力します",
-              "thanked_members_title": "感謝したい",
-              "next_page": "続く"
+          "appreciate": "感謝",
+          "report": "共有とレポート",
+          "feedback": "調査"
+        },
+        "tabs": {
+          "appreciate": "感謝",
+          "report": "共有とレポート",
+          "feedback": "調査"
+        },
+        "tab_image": {
+          "appreciate": "tab_thank-japanese.png",
+          "report": "tab_report-japanese.png",
+          "feedback": "tab_feedback-japanese.png"
+        },
+        "disabled_module": "管理者によって無効になっている機能",
+        "next_page": "さあ行こう",
+        "terms": {
+          "text:": "継続することにより、お客様は当社の条件、データポリシー、クッキーポリシーに同意します",
+          "url": "http://myrep.online/terms/?ver=123?lan=japanese"
+        }
+      },
+      "modules": {
+        "appreciate": {
+          "thank": {
+            "header": "簡単なありがとうで感謝を示してください！",
+            "team_title": "チームを選ぶ",
+            "list_title": {
+              "list_populated": "最近感謝しました",
+              "list_empty": "最初に感謝してください"
             },
-            "note": {
-              "image": "post_thank-japanese.png",
-              "gif": "dancing.gif",
-              "compliment_title": "簡単な感謝は長い道のりを歩んでいますが、時々私たちは余分な距離を作りたいと思っています。提案された賛辞を選択してパーソナライズするか、自分で書きます。",
-              "personal_touch_title": "個人的なタッチを追加します",
-              "personal_touch_prefill": "あなた自身の言葉で何かを共有するか、提案された賛辞を選択してあなたの個人的なタッチを追加してください",
-              "take_credit_title": "クレジットを取る",
-              "take_credit_prefill": "ここにあなたの名前を追加してクレジットを取得してください。空のままにしておくと、エイリアス名で投稿します。",
-              "give_gift": "スタッフを台無しにします",
-              "next_page": "また今度"
-            },
-            "gift": {
-              "people_contributed": "人々が貢献しました",
-              "progress": "進捗",
-              "days_running": "ランニング日",
-              "custom_amount": "カスタム量",
-              "continue_with": "を続行",
-              "dont_ask_again": "二度と聞かないでください",
-              "next_page": "また今度"
-            }
-          },
-          "report": {
-            "header": "チームのマネージャーと直接共有します",
-            "team_title": "関連するチームを選択します",
-            "managers_title": "チームマネージャー",
-            "topic_title": "何を共有していますか？ （オプション）",
-            "topic_options": [
-              {
-                "type": "complaint",
-                "name": "苦情",
-                "image": "mdi-thumb-down"
-              },
-              {
-                "type": "compliment",
-                "name": "褒め言葉",
-                "image": "mdi-charity"
-              },
-              {
-                "type": "suggestion",
-                "name": "提案",
-                "image": "mdi-lightbulb-on-outline"
-              },
-              {
-                "type": "inspirational_story",
-                "name": "心に強く訴える物語",
-                "image": "mdi-party-popper"
-              }
-            ],
-            "input_title": "私たちは聞いています！",
-            "input_prefill": "好みの言語を共有します。翻訳の世話をします。共有するものはすべて、マネージャーにアノロイルを送られます。フォローアップを希望する場合、またはマネージャーから連絡を取りたい場合は、メッセージに連絡先情報を含めてください。",
-            "attachement_error": "この閲覧では添付ファイルはサポートされていません",
+            "entire_team": "チーム全体",
+            "search_members_prefill": "名前を検索または入力します",
+            "thanked_members_title": "感謝したい",
             "next_page": "続く"
           },
-          "feedback": {
-            "stats": {
-              "stat_1": "ありがとう",
-              "stat_2": "共有とレポート",
-              "stat_3": "調査"
-            },
-            "buttons": {
-              "agree": "同意",
-              "disagree": "同意しない",
-              "agree_strongly": "同意_strongly",
-              "disagree_strongly": "同意しない_strongly",
-              "neutral": "中性",
-              "suggest": "文法エラー",
-              "irrelevant": "無関係"
-            },
-            "suggestion": {
-              "header": "私たちは助けに感謝します！",
-              "original_title": "元の声明",
-              "suggestion_title": "どのように表現すべきですか？",
-              "cancel": "キャンセル",
-              "next_page": "保存"
-            }
+          "note": {
+            "image": "post_thank-japanese.png",
+            "gif": "dancing.gif",
+            "compliment_title": "簡単な感謝は長い道のりを歩んでいますが、時々私たちは余分な距離を作りたいと思っています。提案された賛辞を選択してパーソナライズするか、自分で書きます。",
+            "personal_touch_title": "個人的なタッチを追加します",
+            "personal_touch_prefill": "あなた自身の言葉で何かを共有するか、提案された賛辞を選択してあなたの個人的なタッチを追加してください",
+            "take_credit_title": "クレジットを取る",
+            "take_credit_prefill": "ここにあなたの名前を追加してクレジットを取得してください。空のままにしておくと、エイリアス名で投稿します。",
+            "give_gift": "スタッフを台無しにします",
+            "next_page": "また今度"
+          },
+          "gift": {
+            "people_contributed": "人々が貢献しました",
+            "progress": "進捗",
+            "days_running": "ランニング日",
+            "custom_amount": "カスタム量",
+            "continue_with": "を続行",
+            "dont_ask_again": "二度と聞かないでください",
+            "next_page": "また今度"
           }
         },
-        "verify": {
-          "header": "フィードバックが完了しました！",
-          "privacy": "verify-japanese.png",
-          "token_title": "OTPトークン",
+        "report": {
+          "header": "チームのマネージャーと直接共有します",
+          "team_title": "関連するチームを選択します",
+          "managers_title": "チームマネージャー",
+          "topic_title": "何を共有していますか？ （オプション）",
+          "topic_options": [
+            {
+              "type": "complaint",
+              "name": "苦情",
+              "image": "mdi-thumb-down"
+            },
+            {
+              "type": "compliment",
+              "name": "褒め言葉",
+              "image": "mdi-charity"
+            },
+            {
+              "type": "suggestion",
+              "name": "提案",
+              "image": "mdi-lightbulb-on-outline"
+            },
+            {
+              "type": "inspirational_story",
+              "name": "心に強く訴える物語",
+              "image": "mdi-party-popper"
+            }
+          ],
+          "input_title": "私たちは聞いています！",
+          "input_prefill": "好みの言語を共有します。翻訳の世話をします。共有するものはすべて、マネージャーにアノロイルを送られます。フォローアップを希望する場合、またはマネージャーから連絡を取りたい場合は、メッセージに連絡先情報を含めてください。",
+          "attachement_error": "この閲覧では添付ファイルはサポートされていません",
+          "next_page": "続く"
+        },
+        "feedback": {
+          "stats": {
+            "stat_1": "ありがとう",
+            "stat_2": "共有とレポート",
+            "stat_3": "調査"
+          },
           "buttons": {
-            "verify_whatsapp": "WhatsApp経由でOTPを送信します",
-            "verify_email": "電子メールでOTPを送信します"
+            "agree": "同意",
+            "disagree": "同意しない",
+            "agree_strongly": "同意_strongly",
+            "disagree_strongly": "同意しない_strongly",
+            "neutral": "中性",
+            "suggest": "文法エラー",
+            "irrelevant": "無関係"
           },
-          "message": {
-            "whatsapp": "https://wa.me/13474917585?text=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token",
-            "email": "mailto:myrep.auth@gmail.com?subject=Authentication Token&body=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token"
-          },
-          "post_verify": {
-            "header": "提出された因子",
-            "body": "すてきな一日を！"
+          "suggestion": {
+            "header": "私たちは助けに感謝します！",
+            "original_title": "元の声明",
+            "suggestion_title": "どのように表現すべきですか？",
+            "cancel": "キャンセル",
+            "next_page": "保存"
           }
+        }
+      },
+      "verify": {
+        "header": "フィードバックが完了しました！",
+        "privacy": "verify-japanese.png",
+        "token_title": "OTPトークン",
+        "buttons": {
+          "verify_whatsapp": "WhatsApp経由でOTPを送信します",
+          "verify_email": "電子メールでOTPを送信します"
+        },
+        "message": {
+          "whatsapp": "https://wa.me/13474917585?text=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token",
+          "email": "mailto:myrep.auth@gmail.com?subject=Authentication Token&body=Hey%20myRep%20%F0%9F%91%8B%2C%20%0AI%27m%20sending%20you%20my%20authentication%20token"
+        },
+        "post_verify": {
+          "header": "提出された因子",
+          "body": "すてきな一日を！"
         }
       }
     }
