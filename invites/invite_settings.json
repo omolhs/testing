@@ -5,15 +5,15 @@
          "country":"israel",
          "language":"hebrew",
          "modules":{
-            "thank":{
+            "appreciate":{
                "enabled":true,
                "default":true
             },
-            "note":{
+            "feedback":{
                "enabled":true,
                "default":true
             },
-            "gift":{
+            "report":{
                "enabled":true,
                "default":true
             }
@@ -27,20 +27,20 @@
          "country":"israel",
          "language":"hebrew",
          "modules":{
-            "thank":{
+            "appreciate":{
+               "enabled":false,
+               "default":true
+            },
+            "feedback":{
                "enabled":true,
                "default":true
             },
-            "note":{
-               "enabled":true,
-               "default":true
-            },
-            "gift":{
+            "report":{
                "enabled":true,
                "default":true
             }
          }
       },
       "terms":"https://www.terms.com"
-   }
+   },
 ]
