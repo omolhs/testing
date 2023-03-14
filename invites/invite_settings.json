@@ -36,7 +36,7 @@
                "default":true
             },
             "report":{
-               "enabled":true,
+               "enabled":false,
                "default":true
             }
          }

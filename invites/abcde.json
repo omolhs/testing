@@ -1,0 +1,1957 @@
+{
+  "listing": {
+    "id": "null",
+    "type": "department",
+    "profile": {
+      "image": "https://upload.wikimedia.org/wikipedia/en/a/ac/Tel_Aviv_Sourasky_Medical_Center.svg",
+      "country": "israel",
+      "stats": {
+        "appreciate": "1.2k",
+        "report": "323",
+        "feedback": "74"
+      }
+    }
+  },
+  "invite": {
+    "id": "null",
+    "status": "enabled",
+    "properties": {
+      "shortlink": "myrep.link/re3",
+      "size": "A4",
+      "type": "custom_ppl",
+      "version": "2.3",
+      "language": "english"
+    },
+    "placement": "bedside",
+    "settings": {
+      "lang_def": "hebrew",
+      "modules": {
+        "appreciate": {
+          "status": "enabled",
+          "default": "enabled",
+          "thank": {
+            "status": "enabled",
+            "list": "enabled",
+            "allow_new_member": "enabled",
+            "thank_counter": {
+              "status": "enabled",
+              "period": "total"
+            }
+          },
+          "note": {
+            "status": "enabled",
+            "compliments": "enabled",
+            "personal_touch": "enabled",
+            "take_credit": "enabled"
+          },
+          "gift": {
+            "status": "enabled"
+          }
+        },
+        "report": {
+          "status": "enabled",
+          "default": "enabled",
+          "managers": "enabled",
+          "categories": "enabled",
+          "tag_members": "disabled",
+          "testimonials": "disabled"
+        },
+        "feedback": {
+          "status": "enabled",
+          "default": "enabled",
+          "stats": "enabled",
+          "response_scale": "3"
+        }
+      },
+      "verify": {
+        "status": "enabled",
+        "default": "enabled"
+      }
+    }
+  },
+  "gift": {
+    "id": "null",
+    "type": "pizza_party",
+    "contributors": "34",
+    "days_running": "13",
+    "progress": "85%",
+    "amount_raised": "1,200",
+    "amount_left": "-180",
+    "contribute_amounts": [
+      "5",
+      "10",
+      "20",
+      "50",
+      "100"
+    ],
+    "payment_options": [
+      {
+        "type": "bit",
+        "image": "bit_logo.png",
+        "name": "bit",
+        "hyperlink": "https:\\bit.com?gift=2122"
+      },
+      {
+        "type": "paybox",
+        "image": "paybox_logo.png",
+        "name": "paybox",
+        "hyperlink": "https:\\paybox.com?gift=2121"
+      }
+    ]
+  },
+  "teams": [
+    {
+      "id": null,
+      "type": "nurses",
+      "image": "mdi-doctor",
+      "members": [
+        {
+          "id": null,
+          "type": "nurses",
+          "name": "רבקה לרמן",
+          "image": "mdi-doctor",
+          "thanked": "235"
+        },
+        {
+          "id": null,
+          "type": "nurses",
+          "name": "שיראל נ.",
+          "image": "mdi-doctor",
+          "thanked": "1.2k"
+        },
+        {
+          "id": null,
+          "type": "nurses",
+          "name": "יפעת כהן",
+          "image": "mdi-doctor",
+          "thanked": "1.2k"
+        }
+      ],
+      "managers": [
+        {
+          "id": null,
+          "type": "nurses",
+          "name": "שולמית עמר",
+          "image": "https://cdn.vuetifyjs.com/images/lists/5.jpg",
+          "department": "מיון ילדים",
+          "position": "אחות אחראית",
+          "office": "חדר 221",
+          "phone": "1-233-221-2332",
+          "email": "shula@tamc.org.il",
+          "emergency": "02-555-1234"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "type": "doctors",
+      "image": "mdi-stethoscope",
+      "members": [
+        {
+          "id": null,
+          "type": "doctors",
+          "name": "דר יחיאל גולד",
+          "image": "mdi-stethoscope",
+          "thanked": "235"
+        },
+        {
+          "id": null,
+          "type": "doctors",
+          "name": "דר קמילה דיסלר",
+          "image": "mdi-stethoscope",
+          "thanked": "1.2k"
+        },
+        {
+          "id": null,
+          "type": "doctors",
+          "name": "דר רונה שטיין",
+          "image": "mdi-stethoscope",
+          "thanked": "1.2k"
+        }
+      ],
+      "managers": [
+        {
+          "id": null,
+          "type": "doctor",
+          "name": "דר יוכבד הלוי",
+          "image": "https://cdn.vuetifyjs.com/images/lists/3.jpg",
+          "department": "מיון ילדים",
+          "position": "ציף מתמחים",
+          "office": "",
+          "phone": "1-233-221-2332",
+          "email": "yocheved@gmail.com",
+          "emergency": ""
+        }
+      ]
+    },
+    {
+      "id": null,
+      "type": "housekeeping",
+      "image": "mdi-broom",
+      "members": [
+        {
+          "id": null,
+          "type": "nurses",
+          "name": "אחמד ל.",
+          "image": "mdi-broom",
+          "thanked": "235"
+        },
+        {
+          "id": null,
+          "type": "housekeeping",
+          "name": "רועי מ.",
+          "image": "mdi-broom",
+          "thanked": "1.2k"
+        },
+        {
+          "id": null,
+          "type": "nurses",
+          "name": "תהילה פ.",
+          "image": "mdi-broom",
+          "thanked": "1.2k"
+        }
+      ],
+      "managers": [
+        {
+          "id": null,
+          "type": "housekeeping",
+          "name": "יוסף ר.",
+          "image": "https://cdn.vuetifyjs.com/images/lists/1.jpg",
+          "department": "מיון ילדים",
+          "position": "אחראי תחזוקה",
+          "office": "חדר 621",
+          "phone": "",
+          "email": "cleaning@tamc.org.il",
+          "emergency": "02-555-1234"
+        }
+      ]
+    }
+  ],
+  "languages": {
+    "english": {
+      "profile": {
+        "department": "Peadiatric Emergency Room",
+        "company": "Tel Aviv Sourasky Medical Center"
+      },
+      "modules": {
+        "appreciate": {
+          "thank": {
+            "team_options": [
+              {
+                "id": null,
+                "type": "nurses",
+                "name": "Nurses"
+              },
+              {
+                "id": null,
+                "type": "doctors",
+                "name": "Doctors"
+              },
+              {
+                "id": null,
+                "type": "housekeeping",
+                "name": "Housekeeping"
+              }
+            ]
+          },
+          "note": {
+            "compliments": [
+              {
+                "id": null,
+                "compliment_id": 1,
+                "compliment": "Your compassion and dedication to patient care is truly admirable."
+              },
+              {
+                "id": null,
+                "compliment_id": 2,
+                "compliment": "You have a special gift for making patients feel comfortable and cared for."
+              },
+              {
+                "id": null,
+                "compliment_id": 3,
+                "compliment": "Your hard work and commitment to your job is greatly appreciated."
+              },
+              {
+                "id": null,
+                "compliment_id": 4,
+                "compliment": "Your positive attitude and warm smile make all the difference to those you care for."
+              },
+              {
+                "id": null,
+                "compliment_id": 5,
+                "compliment": "Thank you for being a shining example of what it means to be a great nurse."
+              },
+              {
+                "id": null,
+                "compliment_id": 6,
+                "compliment": "Your attention to detail and focus on patient safety is impressive."
+              }
+            ]
+          },
+          "gift": {
+            "goal_image": "pizza_party-english.png",
+            "goal_title": "Pediatric Emergency Room Pizza Party!"
+          }
+        },
+        "report": {
+          "team_options": [
+            {
+              "id": null,
+              "type": "nurses",
+              "name": "Nurses"
+            },
+            {
+              "id": null,
+              "type": "doctors",
+              "name": "Doctors"
+            },
+            {
+              "id": null,
+              "type": "housekeeping",
+              "name": "Housekeeping"
+            }
+          ]
+        },
+        "feedback": {
+          "statements": [
+            {
+              "statement_id": 3,
+              "occupation_id": 1,
+              "statement": "I felt the nurses cared about my personal wellbeing"
+            },
+            {
+              "statement_id": 2,
+              "occupation_id": 3,
+              "statement": "I am satisfied with the overall care i received"
+            },
+            {
+              "statement_id": 7,
+              "occupation_id": 6,
+              "statement": "I felt that the nurses respected my privacy and dignity"
+            },
+            {
+              "statement_id": 3,
+              "occupation_id": 8,
+              "statement": "I was consulted about my treatment plan"
+            },
+            {
+              "statement_id": 11,
+              "occupation_id": 2,
+              "statement": "I didn't experience any discrimination during my visit"
+            }
+          ]
+        }
+      }
+    },
+    "hebrew": {
+      "profile": {
+        "department": "מיון ילדים",
+        "company": "בית חולים איכילוב"
+      },
+      "modules": {
+        "appreciate": {
+          "thank": {
+            "team_options": [
+              {
+                "id": null,
+                "type": "nurses",
+                "name": "אחיות"
+              },
+              {
+                "id": null,
+                "type": "doctors",
+                "name": "רופאים"
+              },
+              {
+                "id": null,
+                "type": "housekeeping",
+                "name": "משק בית"
+              }
+            ]
+          },
+          "note": {
+            "compliments": [
+              {
+                "id": null,
+                "compliment_id": 1,
+                "compliment": "החמלה והמסירות שלך לטיפול בחולים ראויים להערכה באמת."
+              },
+              {
+                "id": null,
+                "compliment_id": 2,
+                "compliment": "יש לך מתנה מיוחדת לגרום למטופלים להרגיש בנוח ומטפלים בה."
+              },
+              {
+                "id": null,
+                "compliment_id": 3,
+                "compliment": "העבודה הקשה והמחויבות שלך לתפקיד שלך מוערכים מאוד."
+              },
+              {
+                "id": null,
+                "compliment_id": 4,
+                "compliment": "הגישה החיובית והחיוך החם שלך עושים את כל ההבדל לאלה שאתה מטפל בהם."
+              },
+              {
+                "id": null,
+                "compliment_id": 5,
+                "compliment": "תודה שהיית דוגמא נוצצת למה המשמעות של להיות אחות נהדרת."
+              },
+              {
+                "id": null,
+                "compliment_id": 6,
+                "compliment": "תשומת הלב שלך לפרטים והתמקדות בבטיחות המטופלים היא מרשימה."
+              }
+            ]
+          },
+          "gift": {
+            "goal_image": "pizza_party-hebrew.png",
+            "goal_title": "מסיבת פיצה של חדר מיון לילדים!"
+          }
+        },
+        "report": {
+          "team_options": [
+            {
+              "id": null,
+              "type": "nurses",
+              "name": "אחיות"
+            },
+            {
+              "id": null,
+              "type": "doctors",
+              "name": "רופאים"
+            },
+            {
+              "id": null,
+              "type": "housekeeping",
+              "name": "משק בית"
+            }
+          ]
+        },
+        "feedback": {
+          "statements": [
+            {
+              "statement_id": 3,
+              "occupation_id": 1,
+              "statement": "היחס שקבלתי מהאחיות ואחים היה אדיב ומכבד"
+            },
+            {
+              "statement_id": 2,
+              "occupation_id": 3,
+              "statement": "ההסברים שקבלתי מהרופאים היו ברורים"
+            },
+            {
+              "statement_id": 7,
+              "occupation_id": 6,
+              "statement": "בביקור רופאים הרגשתי שמתייחסים אליי באופן אישי"
+            },
+            {
+              "statement_id": 3,
+              "occupation_id": 8,
+              "statement": "הרגשתי שותף להחלטות הרפואיות והעדפותיי נלקחו בחשבון"
+            },
+            {
+              "statement_id": 11,
+              "occupation_id": 2,
+              "statement": "קבלתי מענה לבקשות שלי מבלי להתאמץ"
+            }
+          ]
+        }
+      }
+    },
+    "arabic": {
+      "profile": {
+        "department": "Peadiatric Emergency Room",
+        "company": "Tel Aviv Sourasky Medical Center"
+      },
+      "modules": {
+        "appreciate": {
+          "thank": {
+            "team_options": [
+              {
+                "id": null,
+                "type": "nurses",
+                "name": "الممرضات"
+              },
+              {
+                "id": null,
+                "type": "doctors",
+                "name": "الأطباء"
+              },
+              {
+                "id": null,
+                "type": "housekeeping",
+                "name": "التدبير المنزلي"
+              }
+            ]
+          },
+          "note": {
+            "compliments": [
+              {
+                "id": null,
+                "compliment_id": 1,
+                "compliment": "تعاطفك وتفانيك في رعاية المرضى أمر مثير للإعجاب حقًا."
+              },
+              {
+                "id": null,
+                "compliment_id": 2,
+                "compliment": "لديك هدية خاصة لجعل المرضى يشعرون بالراحة والرعاية."
+              },
+              {
+                "id": null,
+                "compliment_id": 3,
+                "compliment": "إن عملك الشاق والتزامك بوظيفتك موضع تقدير كبير."
+              },
+              {
+                "id": null,
+                "compliment_id": 4,
+                "compliment": "إن موقفك الإيجابي وابتسامتك الدافئة تحدث كل الفرق لأولئك الذين تهتم بهم."
+              },
+              {
+                "id": null,
+                "compliment_id": 5,
+                "compliment": "شكرًا لك على كونك مثالًا ساطعًا على معنى أن تكون ممرضة عظيمة."
+              },
+              {
+                "id": null,
+                "compliment_id": 6,
+                "compliment": "اهتمامك بالتفاصيل والتركيز على سلامة المرضى أمر مثير للإعجاب."
+              }
+            ]
+          },
+          "gift": {
+            "goal_image": "pizza_party-arabic.png",
+            "goal_title": "حفلة غرفة الطوارئ للأطفال!"
+          }
+        },
+        "report": {
+          "team_options": [
+            {
+              "id": null,
+              "type": "nurses",
+              "name": "الممرضات"
+            },
+            {
+              "id": null,
+              "type": "doctors",
+              "name": "الأطباء"
+            },
+            {
+              "id": null,
+              "type": "housekeeping",
+              "name": "التدبير المنزلي"
+            }
+          ]
+        },
+        "feedback": {
+          "statements": [
+            {
+              "statement_id": 3,
+              "occupation_id": 1,
+              "statement": "شعرت أن الممرضات يهتمون برفاهيتي الشخصية"
+            },
+            {
+              "statement_id": 2,
+              "occupation_id": 3,
+              "statement": "أنا راضٍ عن الرعاية الشاملة التي تلقيتها"
+            },
+            {
+              "statement_id": 7,
+              "occupation_id": 6,
+              "statement": "شعرت أن الممرضات يحترمون خصوصي وكرامتي"
+            },
+            {
+              "statement_id": 3,
+              "occupation_id": 8,
+              "statement": "تم استشارتي حول خطة العلاج الخاصة بي"
+            },
+            {
+              "statement_id": 11,
+              "occupation_id": 2,
+              "statement": "لم أختبر أي تمييز أثناء زيارتي"
+            }
+          ]
+        }
+      }
+    },
+    "russian": {
+      "profile": {
+        "department": "Peadiatric Emergency Room",
+        "company": "Tel Aviv Sourasky Medical Center"
+      },
+      "modules": {
+        "appreciate": {
+          "thank": {
+            "team_options": [
+              {
+                "id": null,
+                "type": "nurses",
+                "name": "Медсестры"
+              },
+              {
+                "id": null,
+                "type": "doctors",
+                "name": "Врачи"
+              },
+              {
+                "id": null,
+                "type": "housekeeping",
+                "name": "Домашнее хозяйство"
+              }
+            ]
+          },
+          "note": {
+            "compliments": [
+              {
+                "id": null,
+                "compliment_id": 1,
+                "compliment": "Ваше сострадание и преданность уходу за пациентами действительно восхитительно."
+              },
+              {
+                "id": null,
+                "compliment_id": 2,
+                "compliment": "У вас есть особый подарок для того, чтобы пациенты чувствовали себя комфортно и заботились."
+              },
+              {
+                "id": null,
+                "compliment_id": 3,
+                "compliment": "Ваша тяжелая работа и приверженность вашей работе очень ценится."
+              },
+              {
+                "id": null,
+                "compliment_id": 4,
+                "compliment": "Ваше позитивное отношение и теплая улыбка имеют все значение для тех, о которых вы заботитесь."
+              },
+              {
+                "id": null,
+                "compliment_id": 5,
+                "compliment": "Спасибо за то, что вы стали ярким примером того, что значит быть великой медсестрой."
+              },
+              {
+                "id": null,
+                "compliment_id": 6,
+                "compliment": "Ваше внимание к деталям и сосредоточиться на безопасности пациентов впечатляет."
+              }
+            ]
+          },
+          "gift": {
+            "goal_image": "pizza_party-russian.png",
+            "goal_title": "Педиатрическая вечеринка с неотложной помощи!"
+          }
+        },
+        "report": {
+          "team_options": [
+            {
+              "id": null,
+              "type": "nurses",
+              "name": "Медсестры"
+            },
+            {
+              "id": null,
+              "type": "doctors",
+              "name": "Врачи"
+            },
+            {
+              "id": null,
+              "type": "housekeeping",
+              "name": "Домашнее хозяйство"
+            }
+          ]
+        },
+        "feedback": {
+          "statements": [
+            {
+              "statement_id": 3,
+              "occupation_id": 1,
+              "statement": "Я чувствовал, что медсестры заботились о моем личном благополучии"
+            },
+            {
+              "statement_id": 2,
+              "occupation_id": 3,
+              "statement": "Я доволен общим уходом, который я получил"
+            },
+            {
+              "statement_id": 7,
+              "occupation_id": 6,
+              "statement": "Я чувствовал, что медсестры уважали мою конфиденциальность и достоинство"
+            },
+            {
+              "statement_id": 3,
+              "occupation_id": 8,
+              "statement": "Со мной консультировались по поводу моего плана лечения"
+            },
+            {
+              "statement_id": 11,
+              "occupation_id": 2,
+              "statement": "Я не испытывал никакой дискриминации во время моего визита"
+            }
+          ]
+        }
+      }
+    },
+    "amharic": {
+      "profile": {
+        "department": "Peadiatric Emergency Room",
+        "company": "Tel Aviv Sourasky Medical Center"
+      },
+      "modules": {
+        "appreciate": {
+          "thank": {
+            "team_options": [
+              {
+                "id": null,
+                "type": "nurses",
+                "name": "ነርሶች"
+              },
+              {
+                "id": null,
+                "type": "doctors",
+                "name": "ሐኪሞች"
+              },
+              {
+                "id": null,
+                "type": "housekeeping",
+                "name": "የቤት መጠሪያ"
+              }
+            ]
+          },
+          "note": {
+            "compliments": [
+              {
+                "id": null,
+                "compliment_id": 1,
+                "compliment": "ለታካሚ እንክብካቤዎ ርካሽ እና ራስን መወሰን በእውነቱ በጣም የሚያስደንቅ ነው."
+              },
+              {
+                "id": null,
+                "compliment_id": 2,
+                "compliment": "ህመምተኞች ምቾት እንዲሰማቸው እና እንክብካቤ እንዲኖራቸው ለማድረግ ልዩ ስጦታ አለዎት."
+              },
+              {
+                "id": null,
+                "compliment_id": 3,
+                "compliment": "ለስራዎ ያለዎት ጠንካራ ስራዎ እና ቁርጠኝነት በእጅጉ አድናቆት አለው."
+              },
+              {
+                "id": null,
+                "compliment_id": 4,
+                "compliment": "አዎንታዊ አመለካከትዎ እና ሞቅ ያለ ፈገግታዎ ለሚንከባከቧቸው ሁሉ ሁሉንም ልዩነት ይፈጽማሉ."
+              },
+              {
+                "id": null,
+                "compliment_id": 5,
+                "compliment": "ታላቅ ነርስ መሆን ማለት ምን ማለት እንደሆነ የሚያብራራ ምሳሌ ስለሆኑ እናመሰግናለን."
+              },
+              {
+                "id": null,
+                "compliment_id": 6,
+                "compliment": "በዝርዝር ደህንነት ላይ ለዝርዝሩ እና በትኩረት ላይ ትኩረት ያድርጉ."
+              }
+            ]
+          },
+          "gift": {
+            "goal_image": "pizza_party-amharic.png",
+            "goal_title": "የሕፃናት አከባቢስ ክፍል ፒዛ ፓርቲ!"
+          }
+        },
+        "report": {
+          "team_options": [
+            {
+              "id": null,
+              "type": "nurses",
+              "name": "ነርሶች"
+            },
+            {
+              "id": null,
+              "type": "doctors",
+              "name": "ሐኪሞች"
+            },
+            {
+              "id": null,
+              "type": "housekeeping",
+              "name": "የቤት መጠሪያ"
+            }
+          ]
+        },
+        "feedback": {
+          "statements": [
+            {
+              "statement_id": 3,
+              "occupation_id": 1,
+              "statement": "የእኔ ነርሶች ለእኔ የግል ደህንነት እንደሚንከባከቡ ተሰማኝ"
+            },
+            {
+              "statement_id": 2,
+              "occupation_id": 3,
+              "statement": "በተቀበልኩት አጠቃላይ እንክብካቤ ረክቻለሁ"
+            },
+            {
+              "statement_id": 7,
+              "occupation_id": 6,
+              "statement": "ነርሶች የእኔን ግላዊነት እና ክብር እንዳላቸው ተሰማኝ"
+            },
+            {
+              "statement_id": 3,
+              "occupation_id": 8,
+              "statement": "ስለ ሕክምናዬ እቅዱ ተማክሬ ነበር"
+            },
+            {
+              "statement_id": 11,
+              "occupation_id": 2,
+              "statement": "በጉብኝቴ ወቅት ምንም ዓይነት አድልዎ አላደረኩም"
+            }
+          ]
+        }
+      }
+    },
+    "filipino": {
+      "profile": {
+        "department": "Peadiatric Emergency Room",
+        "company": "Tel Aviv Sourasky Medical Center"
+      },
+      "modules": {
+        "appreciate": {
+          "thank": {
+            "team_options": [
+              {
+                "id": null,
+                "type": "nurses",
+                "name": "Nars"
+              },
+              {
+                "id": null,
+                "type": "doctors",
+                "name": "Mga doktor"
+              },
+              {
+                "id": null,
+                "type": "housekeeping",
+                "name": "Pag -aalaga ng bahay"
+              }
+            ]
+          },
+          "note": {
+            "compliments": [
+              {
+                "id": null,
+                "compliment_id": 1,
+                "compliment": "Ang iyong pagkahabag at dedikasyon sa pangangalaga ng pasyente ay tunay na kahanga -hanga."
+              },
+              {
+                "id": null,
+                "compliment_id": 2,
+                "compliment": "Mayroon kang isang espesyal na regalo para sa paggawa ng mga pasyente na komportable at inaalagaan."
+              },
+              {
+                "id": null,
+                "compliment_id": 3,
+                "compliment": "Ang iyong pagsisikap at pangako sa iyong trabaho ay lubos na pinahahalagahan."
+              },
+              {
+                "id": null,
+                "compliment_id": 4,
+                "compliment": "Ang iyong positibong pag -uugali at mainit na ngiti ay gumawa ng lahat ng pagkakaiba sa mga pinapahalagahan mo."
+              },
+              {
+                "id": null,
+                "compliment_id": 5,
+                "compliment": "Salamat sa pagiging isang nagniningning na halimbawa ng kung ano ang ibig sabihin ng maging isang mahusay na nars."
+              },
+              {
+                "id": null,
+                "compliment_id": 6,
+                "compliment": "Ang iyong pansin sa detalye at pagtuon sa kaligtasan ng pasyente ay kahanga -hanga."
+              }
+            ]
+          },
+          "gift": {
+            "goal_image": "pizza_party-filipino.png",
+            "goal_title": "Pediatric Emergency Room Pizza Party!"
+          }
+        },
+        "report": {
+          "team_options": [
+            {
+              "id": null,
+              "type": "nurses",
+              "name": "Nars"
+            },
+            {
+              "id": null,
+              "type": "doctors",
+              "name": "Mga doktor"
+            },
+            {
+              "id": null,
+              "type": "housekeeping",
+              "name": "Pag -aalaga ng bahay"
+            }
+          ]
+        },
+        "feedback": {
+          "statements": [
+            {
+              "statement_id": 3,
+              "occupation_id": 1,
+              "statement": "Naramdaman kong nagmamalasakit ang mga nars sa aking personal na kabutihan"
+            },
+            {
+              "statement_id": 2,
+              "occupation_id": 3,
+              "statement": "Nasiyahan ako sa pangkalahatang pangangalaga na natanggap ko"
+            },
+            {
+              "statement_id": 7,
+              "occupation_id": 6,
+              "statement": "Naramdaman kong iginagalang ng mga nars ang aking privacy at dignidad"
+            },
+            {
+              "statement_id": 3,
+              "occupation_id": 8,
+              "statement": "Konsulta ako tungkol sa aking plano sa paggamot"
+            },
+            {
+              "statement_id": 11,
+              "occupation_id": 2,
+              "statement": "Hindi ako nakaranas ng anumang diskriminasyon sa aking pagbisita"
+            }
+          ]
+        }
+      }
+    },
+    "yiddish": {
+      "profile": {
+        "department": "Peadiatric Emergency Room",
+        "company": "Tel Aviv Sourasky Medical Center"
+      },
+      "modules": {
+        "appreciate": {
+          "thank": {
+            "team_options": [
+              {
+                "id": null,
+                "type": "nurses",
+                "name": "נורסעס"
+              },
+              {
+                "id": null,
+                "type": "doctors",
+                "name": "דאקטוירים"
+              },
+              {
+                "id": null,
+                "type": "housekeeping",
+                "name": "כאָכיפּינג"
+              }
+            ]
+          },
+          "note": {
+            "compliments": [
+              {
+                "id": null,
+                "compliment_id": 1,
+                "compliment": "דיין רחמנות און דעדיקאַציע צו פּאַציענט זאָרגן איז באמת אַדמיראַבאַל."
+              },
+              {
+                "id": null,
+                "compliment_id": 2,
+                "compliment": "איר האָט אַ ספּעציעל טאַלאַנט פֿאַר מאכן פּאַטיענץ פילן באַקוועם און קערד פֿאַר."
+              },
+              {
+                "id": null,
+                "compliment_id": 3,
+                "compliment": "דיין שווער אַרבעט און היסכייַוועס צו דיין אַרבעט איז זייער אַפּרישיייטיד."
+              },
+              {
+                "id": null,
+                "compliment_id": 4,
+                "compliment": "דיין positive שטעלונג און וואַרעם שמייכל מאַכן אַלע די חילוק צו יענע וואָס איר זאָרגן פֿאַר."
+              },
+              {
+                "id": null,
+                "compliment_id": 5,
+                "compliment": "דאַנקען דיר פֿאַר זייַענדיק אַ שיינינג בייַשפּיל פון וואָס עס מיטל צו זיין אַ גרויס ניאַניע."
+              },
+              {
+                "id": null,
+                "compliment_id": 6,
+                "compliment": "דיין ופמערקזאַמקייט צו דעטאַל און פאָקוס אויף פּאַציענט זיכערקייַט איז ימפּרעסיוו."
+              }
+            ]
+          },
+          "gift": {
+            "goal_image": "pizza_party-yiddish.png",
+            "goal_title": "פּידיאַטריס עמערגענסי רום פּיצאַ פארטיי!"
+          }
+        },
+        "report": {
+          "team_options": [
+            {
+              "id": null,
+              "type": "nurses",
+              "name": "נורסעס"
+            },
+            {
+              "id": null,
+              "type": "doctors",
+              "name": "דאקטוירים"
+            },
+            {
+              "id": null,
+              "type": "housekeeping",
+              "name": "כאָכיפּינג"
+            }
+          ]
+        },
+        "feedback": {
+          "statements": [
+            {
+              "statement_id": 3,
+              "occupation_id": 1,
+              "statement": "איך פּעלץ די נורסעס קאַרד וועגן מיין פּערזענלעך וווילזייַן"
+            },
+            {
+              "statement_id": 2,
+              "occupation_id": 3,
+              "statement": "איך בין צופֿרידן מיט די קוילעלדיק זאָרגן איך באקומען"
+            },
+            {
+              "statement_id": 7,
+              "occupation_id": 6,
+              "statement": "איך פּעלץ אַז די נורסעס רעספּעקטעד מיין פּריוואַטקייט און כשיוועס"
+            },
+            {
+              "statement_id": 3,
+              "occupation_id": 8,
+              "statement": "איך איז געווען קאַנסאַלטאַד וועגן מיין באַהאַנדלונג פּלאַן"
+            },
+            {
+              "statement_id": 11,
+              "occupation_id": 2,
+              "statement": "איך האט נישט דערפאַרונג קיין דיסקרימינאַציע בעשאַס מיין וויזיט"
+            }
+          ]
+        }
+      }
+    },
+    "ukrainian": {
+      "profile": {
+        "department": "Peadiatric Emergency Room",
+        "company": "Tel Aviv Sourasky Medical Center"
+      },
+      "modules": {
+        "appreciate": {
+          "thank": {
+            "team_options": [
+              {
+                "id": null,
+                "type": "nurses",
+                "name": "Медсестри"
+              },
+              {
+                "id": null,
+                "type": "doctors",
+                "name": "Лікарі"
+              },
+              {
+                "id": null,
+                "type": "housekeeping",
+                "name": "Господарство"
+              }
+            ]
+          },
+          "note": {
+            "compliments": [
+              {
+                "id": null,
+                "compliment_id": 1,
+                "compliment": "Ваше співчуття та відданість догляду за пацієнтами справді захоплюються."
+              },
+              {
+                "id": null,
+                "compliment_id": 2,
+                "compliment": "У вас є спеціальний подарунок для того, щоб пацієнти відчували себе комфортно та доглядати."
+              },
+              {
+                "id": null,
+                "compliment_id": 3,
+                "compliment": "Ваша наполеглива праця та відданість вашій роботі дуже вдячні."
+              },
+              {
+                "id": null,
+                "compliment_id": 4,
+                "compliment": "Ваше позитивне ставлення та тепла посмішка мають усе значення для тих, кого ви піклуєтесь."
+              },
+              {
+                "id": null,
+                "compliment_id": 5,
+                "compliment": "Дякую за те, що ви яскравий приклад того, що означає бути чудовою медсестрою."
+              },
+              {
+                "id": null,
+                "compliment_id": 6,
+                "compliment": "Ваша увага до деталей та зосередження уваги на безпеці пацієнтів вражає."
+              }
+            ]
+          },
+          "gift": {
+            "goal_image": "pizza_party-ukrainian.png",
+            "goal_title": "Педіатрична швидка допомога піца!"
+          }
+        },
+        "report": {
+          "team_options": [
+            {
+              "id": null,
+              "type": "nurses",
+              "name": "Медсестри"
+            },
+            {
+              "id": null,
+              "type": "doctors",
+              "name": "Лікарі"
+            },
+            {
+              "id": null,
+              "type": "housekeeping",
+              "name": "Господарство"
+            }
+          ]
+        },
+        "feedback": {
+          "statements": [
+            {
+              "statement_id": 3,
+              "occupation_id": 1,
+              "statement": "Я відчував, що медсестри дбали про моє особисте самопочуття"
+            },
+            {
+              "statement_id": 2,
+              "occupation_id": 3,
+              "statement": "Я задоволений загальним доглядом, який я отримав"
+            },
+            {
+              "statement_id": 7,
+              "occupation_id": 6,
+              "statement": "Я відчував, що медсестри поважали мою конфіденційність та гідність"
+            },
+            {
+              "statement_id": 3,
+              "occupation_id": 8,
+              "statement": "Мені консультувались щодо мого плану лікування"
+            },
+            {
+              "statement_id": 11,
+              "occupation_id": 2,
+              "statement": "Під час свого візиту я не відчував жодної дискримінації"
+            }
+          ]
+        }
+      }
+    },
+    "chinese": {
+      "profile": {
+        "department": "Peadiatric Emergency Room",
+        "company": "Tel Aviv Sourasky Medical Center"
+      },
+      "modules": {
+        "appreciate": {
+          "thank": {
+            "team_options": [
+              {
+                "id": null,
+                "type": "nurses",
+                "name": "护士"
+              },
+              {
+                "id": null,
+                "type": "doctors",
+                "name": "医生"
+              },
+              {
+                "id": null,
+                "type": "housekeeping",
+                "name": "家政"
+              }
+            ]
+          },
+          "note": {
+            "compliments": [
+              {
+                "id": null,
+                "compliment_id": 1,
+                "compliment": "您对患者护理的同情和奉献精神确实令人钦佩。"
+              },
+              {
+                "id": null,
+                "compliment_id": 2,
+                "compliment": "您有一份特殊的礼物，可以使患者感到舒适和照顾。"
+              },
+              {
+                "id": null,
+                "compliment_id": 3,
+                "compliment": "非常感谢您的辛勤工作和对工作的承诺。"
+              },
+              {
+                "id": null,
+                "compliment_id": 4,
+                "compliment": "您的积极态度和温暖的微笑会使您所关心的人有所不同。"
+              },
+              {
+                "id": null,
+                "compliment_id": 5,
+                "compliment": "感谢您成为成为一名伟大护士意味着什么的光辉榜样。"
+              },
+              {
+                "id": null,
+                "compliment_id": 6,
+                "compliment": "您对细节和关注患者安全的关注是令人印象深刻的。"
+              }
+            ]
+          },
+          "gift": {
+            "goal_image": "pizza_party-chinese.png",
+            "goal_title": "小儿急诊室披萨派对！"
+          }
+        },
+        "report": {
+          "team_options": [
+            {
+              "id": null,
+              "type": "nurses",
+              "name": "护士"
+            },
+            {
+              "id": null,
+              "type": "doctors",
+              "name": "医生"
+            },
+            {
+              "id": null,
+              "type": "housekeeping",
+              "name": "家政"
+            }
+          ]
+        },
+        "feedback": {
+          "statements": [
+            {
+              "statement_id": 3,
+              "occupation_id": 1,
+              "statement": "我觉得护士关心我的个人福祉"
+            },
+            {
+              "statement_id": 2,
+              "occupation_id": 3,
+              "statement": "我对得到的整体护理感到满意"
+            },
+            {
+              "statement_id": 7,
+              "occupation_id": 6,
+              "statement": "我觉得护士尊重我的隐私和尊严"
+            },
+            {
+              "statement_id": 3,
+              "occupation_id": 8,
+              "statement": "我咨询过我的治疗计划"
+            },
+            {
+              "statement_id": 11,
+              "occupation_id": 2,
+              "statement": "访问期间我没有遇到任何歧视"
+            }
+          ]
+        }
+      }
+    },
+    "french": {
+      "profile": {
+        "department": "Peadiatric Emergency Room",
+        "company": "Tel Aviv Sourasky Medical Center"
+      },
+      "modules": {
+        "appreciate": {
+          "thank": {
+            "team_options": [
+              {
+                "id": null,
+                "type": "nurses",
+                "name": "Infirmières"
+              },
+              {
+                "id": null,
+                "type": "doctors",
+                "name": "Médecins"
+              },
+              {
+                "id": null,
+                "type": "housekeeping",
+                "name": "Entretien ménager"
+              }
+            ]
+          },
+          "note": {
+            "compliments": [
+              {
+                "id": null,
+                "compliment_id": 1,
+                "compliment": "Votre compassion et votre dévouement aux soins aux patients sont vraiment admirables."
+              },
+              {
+                "id": null,
+                "compliment_id": 2,
+                "compliment": "Vous avez un cadeau spécial pour que les patients se sentent à l'aise et soignés."
+              },
+              {
+                "id": null,
+                "compliment_id": 3,
+                "compliment": "Votre travail acharné et votre engagement envers votre travail sont grandement appréciés."
+              },
+              {
+                "id": null,
+                "compliment_id": 4,
+                "compliment": "Votre attitude positive et votre sourire chaleureux font toute la différence pour ceux dont vous vous souciez."
+              },
+              {
+                "id": null,
+                "compliment_id": 5,
+                "compliment": "Merci d'être un exemple brillant de ce que signifie être une grande infirmière."
+              },
+              {
+                "id": null,
+                "compliment_id": 6,
+                "compliment": "Votre attention aux détails et votre concentration sur la sécurité des patients est impressionnante."
+              }
+            ]
+          },
+          "gift": {
+            "goal_image": "pizza_party-french.png",
+            "goal_title": "Party de pizza aux urgences pédiatriques!"
+          }
+        },
+        "report": {
+          "team_options": [
+            {
+              "id": null,
+              "type": "nurses",
+              "name": "Infirmières"
+            },
+            {
+              "id": null,
+              "type": "doctors",
+              "name": "Médecins"
+            },
+            {
+              "id": null,
+              "type": "housekeeping",
+              "name": "Entretien ménager"
+            }
+          ]
+        },
+        "feedback": {
+          "statements": [
+            {
+              "statement_id": 3,
+              "occupation_id": 1,
+              "statement": "Je sentais que les infirmières se souciaient de mon bien-être personnel"
+            },
+            {
+              "statement_id": 2,
+              "occupation_id": 3,
+              "statement": "Je suis satisfait des soins globaux que j'ai reçus"
+            },
+            {
+              "statement_id": 7,
+              "occupation_id": 6,
+              "statement": "Je sentais que les infirmières respectaient ma vie privée et ma dignité"
+            },
+            {
+              "statement_id": 3,
+              "occupation_id": 8,
+              "statement": "J'ai été consulté sur mon plan de traitement"
+            },
+            {
+              "statement_id": 11,
+              "occupation_id": 2,
+              "statement": "Je n'ai subi aucune discrimination lors de ma visite"
+            }
+          ]
+        }
+      }
+    },
+    "spanish": {
+      "profile": {
+        "department": "Peadiatric Emergency Room",
+        "company": "Tel Aviv Sourasky Medical Center"
+      },
+      "modules": {
+        "appreciate": {
+          "thank": {
+            "team_options": [
+              {
+                "id": null,
+                "type": "nurses",
+                "name": "Enfermería"
+              },
+              {
+                "id": null,
+                "type": "doctors",
+                "name": "Doctores"
+              },
+              {
+                "id": null,
+                "type": "housekeeping",
+                "name": "Limpieza interna"
+              }
+            ]
+          },
+          "note": {
+            "compliments": [
+              {
+                "id": null,
+                "compliment_id": 1,
+                "compliment": "Su compasión y dedicación a la atención al paciente es realmente admirable."
+              },
+              {
+                "id": null,
+                "compliment_id": 2,
+                "compliment": "Tiene un regalo especial para hacer que los pacientes se sientan cómodos y atendidos."
+              },
+              {
+                "id": null,
+                "compliment_id": 3,
+                "compliment": "Su arduo trabajo y compromiso con su trabajo es muy apreciado."
+              },
+              {
+                "id": null,
+                "compliment_id": 4,
+                "compliment": "Su actitud positiva y su cálida sonrisa marcan la diferencia para aquellos que cuidan."
+              },
+              {
+                "id": null,
+                "compliment_id": 5,
+                "compliment": "Gracias por ser un brillante ejemplo de lo que significa ser una gran enfermera."
+              },
+              {
+                "id": null,
+                "compliment_id": 6,
+                "compliment": "Su atención al detalle y el enfoque en la seguridad del paciente es impresionante."
+              }
+            ]
+          },
+          "gift": {
+            "goal_image": "pizza_party-spanish.png",
+            "goal_title": "Piizza de sala de emergencias pediátrica!"
+          }
+        },
+        "report": {
+          "team_options": [
+            {
+              "id": null,
+              "type": "nurses",
+              "name": "Enfermería"
+            },
+            {
+              "id": null,
+              "type": "doctors",
+              "name": "Doctores"
+            },
+            {
+              "id": null,
+              "type": "housekeeping",
+              "name": "Limpieza interna"
+            }
+          ]
+        },
+        "feedback": {
+          "statements": [
+            {
+              "statement_id": 3,
+              "occupation_id": 1,
+              "statement": "Sentí que a las enfermeras se preocupaban por mi bienestar personal."
+            },
+            {
+              "statement_id": 2,
+              "occupation_id": 3,
+              "statement": "Estoy satisfecho con la atención general que recibí"
+            },
+            {
+              "statement_id": 7,
+              "occupation_id": 6,
+              "statement": "Sentí que las enfermeras respetaban mi privacidad y dignidad"
+            },
+            {
+              "statement_id": 3,
+              "occupation_id": 8,
+              "statement": "Me consultaron sobre mi plan de tratamiento"
+            },
+            {
+              "statement_id": 11,
+              "occupation_id": 2,
+              "statement": "No experimenté ninguna discriminación durante mi visita"
+            }
+          ]
+        }
+      }
+    },
+    "afrikaans": {
+      "profile": {
+        "department": "Peadiatric Emergency Room",
+        "company": "Tel Aviv Sourasky Medical Center"
+      },
+      "modules": {
+        "appreciate": {
+          "thank": {
+            "team_options": [
+              {
+                "id": null,
+                "type": "nurses",
+                "name": "Verpleegsters"
+              },
+              {
+                "id": null,
+                "type": "doctors",
+                "name": "Dokters"
+              },
+              {
+                "id": null,
+                "type": "housekeeping",
+                "name": "Huishouding"
+              }
+            ]
+          },
+          "note": {
+            "compliments": [
+              {
+                "id": null,
+                "compliment_id": 1,
+                "compliment": "U medelye en toewyding aan pasiëntsorg is waarlik bewonderenswaardig."
+              },
+              {
+                "id": null,
+                "compliment_id": 2,
+                "compliment": "U het 'n spesiale geskenk om pasiënte gemaklik en versorg te laat voel."
+              },
+              {
+                "id": null,
+                "compliment_id": 3,
+                "compliment": "U harde werk en toewyding aan u werk word opreg waardeer."
+              },
+              {
+                "id": null,
+                "compliment_id": 4,
+                "compliment": "U positiewe houding en warm glimlag maak die verskil van diegene waarvoor u sorg."
+              },
+              {
+                "id": null,
+                "compliment_id": 5,
+                "compliment": "Dankie dat u 'n blink voorbeeld is van wat dit beteken om 'n wonderlike verpleegster te wees."
+              },
+              {
+                "id": null,
+                "compliment_id": 6,
+                "compliment": "U aandag aan detail en fokus op pasiëntveiligheid is indrukwekkend."
+              }
+            ]
+          },
+          "gift": {
+            "goal_image": "pizza_party-afrikaans.png",
+            "goal_title": "Pediatriese noodgeval pizzapartytjie!"
+          }
+        },
+        "report": {
+          "team_options": [
+            {
+              "id": null,
+              "type": "nurses",
+              "name": "Verpleegsters"
+            },
+            {
+              "id": null,
+              "type": "doctors",
+              "name": "Dokters"
+            },
+            {
+              "id": null,
+              "type": "housekeeping",
+              "name": "Huishouding"
+            }
+          ]
+        },
+        "feedback": {
+          "statements": [
+            {
+              "statement_id": 3,
+              "occupation_id": 1,
+              "statement": "Ek het gevoel dat die verpleegsters omgee vir my persoonlike welstand"
+            },
+            {
+              "statement_id": 2,
+              "occupation_id": 3,
+              "statement": "Ek is tevrede met die algehele sorg wat ek ontvang het"
+            },
+            {
+              "statement_id": 7,
+              "occupation_id": 6,
+              "statement": "Ek het gevoel dat die verpleegkundiges my privaatheid en waardigheid respekteer"
+            },
+            {
+              "statement_id": 3,
+              "occupation_id": 8,
+              "statement": "Ek is geraadpleeg oor my behandelingsplan"
+            },
+            {
+              "statement_id": 11,
+              "occupation_id": 2,
+              "statement": "Ek het tydens my besoek geen diskriminasie ervaar nie"
+            }
+          ]
+        }
+      }
+    },
+    "xhosa": {
+      "profile": {
+        "department": "Peadiatric Emergency Room",
+        "company": "Tel Aviv Sourasky Medical Center"
+      },
+      "modules": {
+        "appreciate": {
+          "thank": {
+            "team_options": [
+              {
+                "id": null,
+                "type": "nurses",
+                "name": "Abongikazi"
+              },
+              {
+                "id": null,
+                "type": "doctors",
+                "name": "Ogqirha"
+              },
+              {
+                "id": null,
+                "type": "housekeeping",
+                "name": "Ukugcinwa kwendlu"
+              }
+            ]
+          },
+          "note": {
+            "compliments": [
+              {
+                "id": null,
+                "compliment_id": 1,
+                "compliment": "Uvelwano lwakho kunye nokuzinikela kwakho kwinkathalo yesigulana kuyathandeka ngokwenene."
+              },
+              {
+                "id": null,
+                "compliment_id": 2,
+                "compliment": "Unesipho esikhethekileyo sokwenza abaguli bazive bekhululekile kwaye bekhathalelwe."
+              },
+              {
+                "id": null,
+                "compliment_id": 3,
+                "compliment": "Ukusebenza kwakho nzima kunye nokuzinikela kwakho emsebenzini wakho kuxatyiswa kakhulu."
+              },
+              {
+                "id": null,
+                "compliment_id": 4,
+                "compliment": "Isimo sakho sengqondo esihle kunye noncumo olufudumeleyo yenza wonke umahluko kwabo ubakhathaleleyo."
+              },
+              {
+                "id": null,
+                "compliment_id": 5,
+                "compliment": "Enkosi ngokuba ngumzekelo oqaqambileyo wento ethethwa ukuba ngumongikazi omkhulu."
+              },
+              {
+                "id": null,
+                "compliment_id": 6,
+                "compliment": "Ingqwalaselo yakho kwiinkcukacha kunye nokugxila kuKhuseleko loKhuseleko lunomdla."
+              }
+            ]
+          },
+          "gift": {
+            "goal_image": "pizza_party-xhosa.png",
+            "goal_title": "Iqela le-Pediatric Pagery Pizza Pati!"
+          }
+        },
+        "report": {
+          "team_options": [
+            {
+              "id": null,
+              "type": "nurses",
+              "name": "Abongikazi"
+            },
+            {
+              "id": null,
+              "type": "doctors",
+              "name": "Ogqirha"
+            },
+            {
+              "id": null,
+              "type": "housekeeping",
+              "name": "Ukugcinwa kwendlu"
+            }
+          ]
+        },
+        "feedback": {
+          "statements": [
+            {
+              "statement_id": 3,
+              "occupation_id": 1,
+              "statement": "Ndiva obongikazi bakhathalele impilo yam yobuqu"
+            },
+            {
+              "statement_id": 2,
+              "occupation_id": 3,
+              "statement": "Ndonelisekile ngononophelo olupheleleyo endilufumeneyo"
+            },
+            {
+              "statement_id": 7,
+              "occupation_id": 6,
+              "statement": "Ndavakalelwa kukuba abongikazi babesihlonipha ubumfihlo kunye nesidima sam"
+            },
+            {
+              "statement_id": 3,
+              "occupation_id": 8,
+              "statement": "Kwakuboniswana malunga nesicwangciso sonyango"
+            },
+            {
+              "statement_id": 11,
+              "occupation_id": 2,
+              "statement": "Khange ndibone naluphi na ucalucalulo ngexesha lotyelelo lwam"
+            }
+          ]
+        }
+      }
+    },
+    "zulu": {
+      "profile": {
+        "department": "Peadiatric Emergency Room",
+        "company": "Tel Aviv Sourasky Medical Center"
+      },
+      "modules": {
+        "appreciate": {
+          "thank": {
+            "team_options": [
+              {
+                "id": null,
+                "type": "nurses",
+                "name": "Abahlengikazi"
+              },
+              {
+                "id": null,
+                "type": "doctors",
+                "name": "Odokotela"
+              },
+              {
+                "id": null,
+                "type": "housekeeping",
+                "name": "Ukugcinwa kwendlu"
+              }
+            ]
+          },
+          "note": {
+            "compliments": [
+              {
+                "id": null,
+                "compliment_id": 1,
+                "compliment": "Ububele bakho nokuzinikela kwakho ekunakekelweni kweziguli kuyathandeka ngempela."
+              },
+              {
+                "id": null,
+                "compliment_id": 2,
+                "compliment": "Unesipho esikhethekile sokwenza iziguli zizizwe zikhululekile futhi zinakekele."
+              },
+              {
+                "id": null,
+                "compliment_id": 3,
+                "compliment": "Ukusebenza kwakho kanzima nokuzinikela kwakho emsebenzini wakho kwaziswa kakhulu."
+              },
+              {
+                "id": null,
+                "compliment_id": 4,
+                "compliment": "Isimo sakho esihle nokumamatheka okufudumele kwenza wonke umehluko kulabo obakhathalelayo."
+              },
+              {
+                "id": null,
+                "compliment_id": 5,
+                "compliment": "Ngiyabonga ngokuba yisibonelo esikhanyayo salokho okushiwo ukuba ngumhlengikazi omkhulu."
+              },
+              {
+                "id": null,
+                "compliment_id": 6,
+                "compliment": "Ukunaka kwakho imininingwane nokugxila ekuvikelekeni kweziguli kuyamangaza."
+              }
+            ]
+          },
+          "gift": {
+            "goal_image": "pizza_party-zulu.png",
+            "goal_title": "I-Pediatric ephuthumayo Igumbi Pizza Party!"
+          }
+        },
+        "report": {
+          "team_options": [
+            {
+              "id": null,
+              "type": "nurses",
+              "name": "Abahlengikazi"
+            },
+            {
+              "id": null,
+              "type": "doctors",
+              "name": "Odokotela"
+            },
+            {
+              "id": null,
+              "type": "housekeeping",
+              "name": "Ukugcinwa kwendlu"
+            }
+          ]
+        },
+        "feedback": {
+          "statements": [
+            {
+              "statement_id": 3,
+              "occupation_id": 1,
+              "statement": "Ngezwa abahlengikazi benakekelwa inhlala-kahle yami"
+            },
+            {
+              "statement_id": 2,
+              "occupation_id": 3,
+              "statement": "Ngigculisekile ngokunakekelwa okuphelele engikutholile"
+            },
+            {
+              "statement_id": 7,
+              "occupation_id": 6,
+              "statement": "Ngaba nomuzwa wokuthi abahlengikazi bahlonipha ubumfihlo bami nesithunzi sami"
+            },
+            {
+              "statement_id": 3,
+              "occupation_id": 8,
+              "statement": "Ngangiboniswa ngohlelo lwami lokwelashwa"
+            },
+            {
+              "statement_id": 11,
+              "occupation_id": 2,
+              "statement": "Angizange ngithole ukucwaswa ngesikhathi sokuvakasha kwami"
+            }
+          ]
+        }
+      }
+    },
+    "japanese": {
+      "profile": {
+        "department": "Peadiatric Emergency Room",
+        "company": "Tel Aviv Sourasky Medical Center"
+      },
+      "modules": {
+        "appreciate": {
+          "thank": {
+            "team_options": [
+              {
+                "id": null,
+                "type": "nurses",
+                "name": "看護師"
+              },
+              {
+                "id": null,
+                "type": "doctors",
+                "name": "医師"
+              },
+              {
+                "id": null,
+                "type": "housekeeping",
+                "name": "ハウスキーピング"
+              }
+            ]
+          },
+          "note": {
+            "compliments": [
+              {
+                "id": null,
+                "compliment_id": 1,
+                "compliment": "患者のケアへのあなたの思いやりと献身は本当に素晴らしいです。"
+              },
+              {
+                "id": null,
+                "compliment_id": 2,
+                "compliment": "患者に快適で世話をするようにするための特別な贈り物があります。"
+              },
+              {
+                "id": null,
+                "compliment_id": 3,
+                "compliment": "あなたの仕事とあなたの仕事へのコミットメントは大歓迎です。"
+              },
+              {
+                "id": null,
+                "compliment_id": 4,
+                "compliment": "あなたの前向きな姿勢と温かい笑顔は、あなたが気にかけている人たちとすべての違いをもたらします。"
+              },
+              {
+                "id": null,
+                "compliment_id": 5,
+                "compliment": "偉大な看護師になることの意味の輝かしい例になってくれてありがとう。"
+              },
+              {
+                "id": null,
+                "compliment_id": 6,
+                "compliment": "細部への注意と患者の安全性への焦点は印象的です。"
+              }
+            ]
+          },
+          "gift": {
+            "goal_image": "pizza_party-japanese.png",
+            "goal_title": "小児救急室ピザパーティー！"
+          }
+        },
+        "report": {
+          "team_options": [
+            {
+              "id": null,
+              "type": "nurses",
+              "name": "看護師"
+            },
+            {
+              "id": null,
+              "type": "doctors",
+              "name": "医師"
+            },
+            {
+              "id": null,
+              "type": "housekeeping",
+              "name": "ハウスキーピング"
+            }
+          ]
+        },
+        "feedback": {
+          "statements": [
+            {
+              "statement_id": 3,
+              "occupation_id": 1,
+              "statement": "私は看護師が私の個人的な幸福を気にかけていると感じました"
+            },
+            {
+              "statement_id": 2,
+              "occupation_id": 3,
+              "statement": "私は受けた全体的なケアに満足しています"
+            },
+            {
+              "statement_id": 7,
+              "occupation_id": 6,
+              "statement": "看護師は私のプライバシーと尊厳を尊重したと感じました"
+            },
+            {
+              "statement_id": 3,
+              "occupation_id": 8,
+              "statement": "私は自分の治療計画について相談されました"
+            },
+            {
+              "statement_id": 11,
+              "occupation_id": 2,
+              "statement": "訪問中は差別を経験しませんでした"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
